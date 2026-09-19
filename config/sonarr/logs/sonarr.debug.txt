@@ -4103,3 +4103,39 @@
 2026-09-19 19:47:02.4|Debug|Api|[GET] /api/v3/episode?episodeIds=2948&episodeIds=2949&episodeIds=2950&episodeIds=2951&episodeIds=2952&episodeIds=2953&episodeIds=2954&episodeIds=2955&episodeIds=2956&episodeIds=2957&episodeIds=2958&episodeIds=2959&episodeIds=2960&episodeIds=2961&episodeIds=2962&episodeIds=2963&episodeIds=2964&episodeIds=2965&episodeIds=2966&episodeIds=2967: 200.OK (3 ms)
 2026-09-19 19:47:02.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
 2026-09-19 19:47:02.4|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2026-09-19 19:48:02.1|Debug|Parser|Parsing string 'NCIS.S01.1080p.WEBRip.AAC2.0.x264-NA'
+2026-09-19 19:48:02.1|Debug|Parser|Episode Parsed. NCIS - Season 01 
+2026-09-19 19:48:02.1|Debug|Parser|Languages parsed: Unknown
+2026-09-19 19:48:02.1|Debug|QualityParser|Trying to parse quality for 'NCIS.S01.1080p.WEBRip.AAC2.0.x264-NA'
+2026-09-19 19:48:02.1|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2026-09-19 19:48:02.1|Debug|Parser|Release Group parsed: NA
+2026-09-19 19:48:02.1|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: English
+2026-09-19 19:48:02.1|Debug|AggregateLanguages|Selected languages: English
+2026-09-19 19:48:02.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-19 19:48:02.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-19 19:48:02.2|Debug|Api|[GET] /api/v3/queue?page=1&pageSize=20&sortDirection=ascending&sortKey=timeleft&includeUnknownSeriesItems=true: 200.OK (2 ms)
+2026-09-19 19:48:02.2|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2026-09-19 19:48:02.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-19 19:48:02.2|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2026-09-19 19:48:02.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-19 19:48:02.2|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (1 ms)
+2026-09-19 19:48:02.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-19 19:48:02.2|Debug|Api|[GET] /api/v3/queue?page=1&pageSize=20&sortDirection=ascending&sortKey=timeleft&includeUnknownSeriesItems=true: 200.OK (1 ms)
+2026-09-19 19:48:02.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-19 19:48:02.2|Debug|Api|[GET] /api/v3/episode?episodeIds=2948&episodeIds=2949&episodeIds=2950&episodeIds=2951&episodeIds=2952&episodeIds=2953&episodeIds=2954&episodeIds=2955&episodeIds=2956&episodeIds=2957&episodeIds=2958&episodeIds=2959&episodeIds=2960&episodeIds=2961&episodeIds=2962&episodeIds=2963&episodeIds=2964&episodeIds=2965&episodeIds=2966&episodeIds=2967: 200.OK (2 ms)
+2026-09-19 19:48:02.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-19 19:48:02.2|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2026-09-19 19:48:02.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-19 19:48:02.2|Debug|Api|[GET] /api/v3/queue?page=1&pageSize=20&sortDirection=ascending&sortKey=timeleft&includeUnknownSeriesItems=true: 200.OK (2 ms)
+2026-09-19 19:48:02.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-19 19:48:02.3|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2026-09-19 19:48:02.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-19 19:48:02.3|Debug|Api|[GET] /api/v3/episode?episodeIds=2948&episodeIds=2949&episodeIds=2950&episodeIds=2951&episodeIds=2952&episodeIds=2953&episodeIds=2954&episodeIds=2955&episodeIds=2956&episodeIds=2957&episodeIds=2958&episodeIds=2959&episodeIds=2960&episodeIds=2961&episodeIds=2962&episodeIds=2963&episodeIds=2964&episodeIds=2965&episodeIds=2966&episodeIds=2967: 200.OK (1 ms)
+2026-09-19 19:48:02.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-19 19:48:02.3|Debug|Api|[GET] /api/v3/queue?page=1&pageSize=20&sortDirection=ascending&sortKey=timeleft&includeUnknownSeriesItems=true: 200.OK (1 ms)
+2026-09-19 19:48:02.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-19 19:48:02.3|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2026-09-19 19:48:02.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-19 19:48:02.3|Debug|Api|[GET] /api/v3/episode?episodeIds=2948&episodeIds=2949&episodeIds=2950&episodeIds=2951&episodeIds=2952&episodeIds=2953&episodeIds=2954&episodeIds=2955&episodeIds=2956&episodeIds=2957&episodeIds=2958&episodeIds=2959&episodeIds=2960&episodeIds=2961&episodeIds=2962&episodeIds=2963&episodeIds=2964&episodeIds=2965&episodeIds=2966&episodeIds=2967: 200.OK (1 ms)
+2026-09-19 19:48:02.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-09-19 19:48:02.3|Debug|Api|[GET] /api/v3/episode?episodeIds=2948&episodeIds=2949&episodeIds=2950&episodeIds=2951&episodeIds=2952&episodeIds=2953&episodeIds=2954&episodeIds=2955&episodeIds=2956&episodeIds=2957&episodeIds=2958&episodeIds=2959&episodeIds=2960&episodeIds=2961&episodeIds=2962&episodeIds=2963&episodeIds=2964&episodeIds=2965&episodeIds=2966&episodeIds=2967: 200.OK (2 ms)

@@ -5717,3 +5717,5 @@
 {"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-09-19T19:45:08.317Z"}
 {"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-19T19:46:00.020Z"}
 {"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-19T19:47:00.003Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-19T19:48:00.001Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-19T19:49:00.003Z"}
