@@ -5694,3 +5694,26 @@
 {"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-19T19:41:00.003Z"}
 {"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-19T19:42:00.002Z"}
 {"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-19T19:43:00.002Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-19T19:44:00.004Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-19T19:45:00.003Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-09-19T19:45:00.005Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"83d0f4a0-3ee2-42a0-bef8-2484d61ab2e4","timestamp":"2026-09-19T19:45:00.005Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-09-19T19:45:00.008Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no changes detected for Ju-On: White Ghost","timestamp":"2026-09-19T19:45:00.119Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no changes detected for Supergirl","timestamp":"2026-09-19T19:45:00.120Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no changes detected for Ghost in the Cell","timestamp":"2026-09-19T19:45:00.120Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no changes detected for Ju-On: Black Ghost","timestamp":"2026-09-19T19:45:00.120Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no changes detected for Ju-on: The Grudge","timestamp":"2026-09-19T19:45:00.120Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no changes detected for Ju-on: The Beginning of the End","timestamp":"2026-09-19T19:45:00.120Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no changes detected for Ju-on: The Curse","timestamp":"2026-09-19T19:45:00.121Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no changes detected for Hell House LLC Origins: The Carmichael Manor","timestamp":"2026-09-19T19:45:00.133Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no changes detected for D@bbe 4: The Possession","timestamp":"2026-09-19T19:45:00.133Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no changes detected for Ju-on: The Curse 2","timestamp":"2026-09-19T19:45:00.133Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no changes detected for Hell House LLC III: Lake of Fire","timestamp":"2026-09-19T19:45:00.133Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no changes detected for Hell House LLC: Lineage","timestamp":"2026-09-19T19:45:00.134Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-09-19T19:45:04.139Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: NCIS","timestamp":"2026-09-19T19:45:04.315Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: From the New World","timestamp":"2026-09-19T19:45:04.316Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-09-19T19:45:08.317Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-19T19:46:00.020Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-09-19T19:47:00.003Z"}

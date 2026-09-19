@@ -10722,3 +10722,82 @@ Conflict
 2026-09-19 19:43:30.3|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
 2026-09-19 19:43:30.3|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
 2026-09-19 19:43:30.4|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2026-09-19 19:44:30.2|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2026-09-19 19:44:30.2|Debug|DownloadedMovieImportService|Processing path: /downloads/【高清影视之家发布 www.HDBTHD.com】牢笼鬼魂[无字片源].Ghost.in.the.Cell.2026.2160p.NF.WEB-DL.DDP5.1.H.265-PandaQT
+2026-09-19 19:44:30.2|Debug|Parser|Parsing string '【高清影视之家发布 www.HDBTHD.com】牢笼鬼魂[无字片源].Ghost.in.the.Cell.2026.2160p.NF.WEB-DL.DDP5.1.H.265-PandaQT'
+2026-09-19 19:44:30.2|Debug|Parser|Movie Parsed. 牢笼鬼魂[无字片源] Ghost in the Cell - 2026 
+2026-09-19 19:44:30.2|Debug|Parser|Release Group parsed: 高清影视之家发布 www.HDBTHD.com
+2026-09-19 19:44:30.2|Debug|Parser|Languages parsed: Unknown
+2026-09-19 19:44:30.2|Debug|QualityParser|Trying to parse quality for '【高清影视之家发布 www.HDBTHD.com】牢笼鬼魂[无字片源].Ghost.in.the.Cell.2026.2160p.NF.WEB-DL.DDP5.1.H.265-PandaQT'
+2026-09-19 19:44:30.2|Debug|Parser|Quality parsed: WEBDL-2160p v1
+2026-09-19 19:44:30.2|Debug|Parser|Edition parsed: 
+2026-09-19 19:44:30.2|Debug|DownloadedMovieImportService|【高清影视之家发布 www.HDBTHD.com】牢笼鬼魂[无字片源].Ghost.in.the.Cell.2026.2160p.NF.WEB-DL.DDP5.1.H.265-PandaQT folder quality: WEBDL-2160p v1
+2026-09-19 19:44:30.2|Debug|DiskScanService|Scanning '/downloads/【高清影视之家发布 www.HDBTHD.com】牢笼鬼魂[无字片源].Ghost.in.the.Cell.2026.2160p.NF.WEB-DL.DDP5.1.H.265-PandaQT' for video files
+2026-09-19 19:44:30.2|Debug|DiskScanService|0 video files were found in /downloads/【高清影视之家发布 www.HDBTHD.com】牢笼鬼魂[无字片源].Ghost.in.the.Cell.2026.2160p.NF.WEB-DL.DDP5.1.H.265-PandaQT
+2026-09-19 19:44:30.2|Debug|ImportDecisionMaker|Analyzing 0/0 files.
+2026-09-19 19:44:30.2|Debug|Parser|Parsing string 'Ghost.in.the.Cell.2026.2160p.NF.WEB-DL.DDP5.1.H.265-PandaQT SDR 4K UHD GoodFilms'
+2026-09-19 19:44:30.2|Debug|Parser|Movie Parsed. Ghost in the Cell - 2026 
+2026-09-19 19:44:30.2|Debug|Parser|Release Group parsed: PandaQT
+2026-09-19 19:44:30.2|Debug|Parser|Languages parsed: Unknown
+2026-09-19 19:44:30.2|Debug|QualityParser|Trying to parse quality for 'Ghost.in.the.Cell.2026.2160p.NF.WEB-DL.DDP5.1.H.265-PandaQT SDR 4K UHD GoodFilms'
+2026-09-19 19:44:30.2|Debug|Parser|Quality parsed: WEBDL-2160p v1
+2026-09-19 19:44:30.2|Debug|Parser|Edition parsed: 
+2026-09-19 19:44:30.2|Debug|ImportApprovedMovie|Decisions: 0
+2026-09-19 19:44:30.2|Debug|CompletedDownloadService|Not all movies have been imported for Ghost.in.the.Cell.2026.2160p.NF.WEB-DL.DDP5.1.H.265-PandaQT SDR 4K UHD GoodFilms
+2026-09-19 19:44:30.4|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (1 ms)
+2026-09-19 19:44:30.4|Debug|Api|[GET] /api/v3/queue/details: 200.OK (0 ms)
+2026-09-19 19:44:30.4|Debug|Api|[GET] /api/v3/queue/details?movieId=12: 200.OK (5 ms)
+2026-09-19 19:44:30.4|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2026-09-19 19:44:30.4|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (1 ms)
+2026-09-19 19:44:30.4|Debug|Api|[GET] /api/v3/queue/details: 200.OK (0 ms)
+2026-09-19 19:44:30.4|Debug|Api|[GET] /api/v3/queue/details?movieId=12: 200.OK (0 ms)
+2026-09-19 19:44:30.4|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2026-09-19 19:44:30.4|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (0 ms)
+2026-09-19 19:44:30.4|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2026-09-19 19:44:30.5|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (1 ms)
+2026-09-19 19:44:30.5|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2026-09-19 19:44:30.5|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2026-09-19 19:44:30.5|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2026-09-19 19:44:30.6|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2026-09-19 19:44:30.6|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2026-09-19 19:44:30.7|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2026-09-19 19:44:30.7|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2026-09-19 19:44:30.7|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2026-09-19 19:44:30.8|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2026-09-19 19:46:00.5|Debug|DownloadedMovieImportService|Processing path: /downloads/【高清影视之家发布 www.HDBTHD.com】牢笼鬼魂[无字片源].Ghost.in.the.Cell.2026.2160p.NF.WEB-DL.DDP5.1.H.265-PandaQT
+2026-09-19 19:46:00.5|Debug|Parser|Parsing string '【高清影视之家发布 www.HDBTHD.com】牢笼鬼魂[无字片源].Ghost.in.the.Cell.2026.2160p.NF.WEB-DL.DDP5.1.H.265-PandaQT'
+2026-09-19 19:46:00.5|Debug|Parser|Movie Parsed. 牢笼鬼魂[无字片源] Ghost in the Cell - 2026 
+2026-09-19 19:46:00.5|Debug|Parser|Release Group parsed: 高清影视之家发布 www.HDBTHD.com
+2026-09-19 19:46:00.5|Debug|Parser|Languages parsed: Unknown
+2026-09-19 19:46:00.5|Debug|QualityParser|Trying to parse quality for '【高清影视之家发布 www.HDBTHD.com】牢笼鬼魂[无字片源].Ghost.in.the.Cell.2026.2160p.NF.WEB-DL.DDP5.1.H.265-PandaQT'
+2026-09-19 19:46:00.5|Debug|Parser|Quality parsed: WEBDL-2160p v1
+2026-09-19 19:46:00.5|Debug|Parser|Edition parsed: 
+2026-09-19 19:46:00.5|Debug|DownloadedMovieImportService|【高清影视之家发布 www.HDBTHD.com】牢笼鬼魂[无字片源].Ghost.in.the.Cell.2026.2160p.NF.WEB-DL.DDP5.1.H.265-PandaQT folder quality: WEBDL-2160p v1
+2026-09-19 19:46:00.5|Debug|DiskScanService|Scanning '/downloads/【高清影视之家发布 www.HDBTHD.com】牢笼鬼魂[无字片源].Ghost.in.the.Cell.2026.2160p.NF.WEB-DL.DDP5.1.H.265-PandaQT' for video files
+2026-09-19 19:46:00.5|Debug|DiskScanService|0 video files were found in /downloads/【高清影视之家发布 www.HDBTHD.com】牢笼鬼魂[无字片源].Ghost.in.the.Cell.2026.2160p.NF.WEB-DL.DDP5.1.H.265-PandaQT
+2026-09-19 19:46:00.5|Debug|ImportDecisionMaker|Analyzing 0/0 files.
+2026-09-19 19:46:00.5|Debug|Parser|Parsing string 'Ghost.in.the.Cell.2026.2160p.NF.WEB-DL.DDP5.1.H.265-PandaQT SDR 4K UHD GoodFilms'
+2026-09-19 19:46:00.5|Debug|Parser|Movie Parsed. Ghost in the Cell - 2026 
+2026-09-19 19:46:00.5|Debug|Parser|Release Group parsed: PandaQT
+2026-09-19 19:46:00.5|Debug|Parser|Languages parsed: Unknown
+2026-09-19 19:46:00.5|Debug|QualityParser|Trying to parse quality for 'Ghost.in.the.Cell.2026.2160p.NF.WEB-DL.DDP5.1.H.265-PandaQT SDR 4K UHD GoodFilms'
+2026-09-19 19:46:00.5|Debug|Parser|Quality parsed: WEBDL-2160p v1
+2026-09-19 19:46:00.5|Debug|Parser|Edition parsed: 
+2026-09-19 19:46:00.5|Debug|ImportApprovedMovie|Decisions: 0
+2026-09-19 19:46:00.5|Debug|CompletedDownloadService|Not all movies have been imported for Ghost.in.the.Cell.2026.2160p.NF.WEB-DL.DDP5.1.H.265-PandaQT SDR 4K UHD GoodFilms
+2026-09-19 19:46:00.5|Debug|Api|[GET] /api/v3/queue/details: 200.OK (2 ms)
+2026-09-19 19:46:00.5|Debug|Api|[GET] /api/v3/queue/details?movieId=12: 200.OK (4 ms)
+2026-09-19 19:46:00.5|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2026-09-19 19:46:00.5|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (7 ms)
+2026-09-19 19:46:00.6|Debug|Api|[GET] /api/v3/queue/details: 200.OK (1 ms)
+2026-09-19 19:46:00.6|Debug|Api|[GET] /api/v3/queue/details?movieId=12: 200.OK (0 ms)
+2026-09-19 19:46:00.6|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2026-09-19 19:46:00.6|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (0 ms)
+2026-09-19 19:46:00.6|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (0 ms)
+2026-09-19 19:46:00.6|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2026-09-19 19:46:00.7|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (1 ms)
+2026-09-19 19:46:00.7|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2026-09-19 19:46:00.7|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2026-09-19 19:46:00.7|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2026-09-19 19:46:00.8|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2026-09-19 19:46:00.8|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)

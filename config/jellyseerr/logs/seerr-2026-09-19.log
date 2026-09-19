@@ -5694,3 +5694,26 @@
 2026-09-19T19:41:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
 2026-09-19T19:42:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
 2026-09-19T19:43:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-19T19:44:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-19T19:45:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-19T19:45:00.005Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-19T19:45:00.005Z [info][Jellyfin Sync]: Scan starting {"sessionId":"83d0f4a0-3ee2-42a0-bef8-2484d61ab2e4"}
+2026-09-19T19:45:00.008Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-19T19:45:00.119Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Ju-On: White Ghost 
+2026-09-19T19:45:00.120Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Supergirl 
+2026-09-19T19:45:00.120Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Ghost in the Cell 
+2026-09-19T19:45:00.120Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Ju-On: Black Ghost 
+2026-09-19T19:45:00.120Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Ju-on: The Grudge 
+2026-09-19T19:45:00.120Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Ju-on: The Beginning of the End 
+2026-09-19T19:45:00.121Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Ju-on: The Curse 
+2026-09-19T19:45:00.133Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Hell House LLC Origins: The Carmichael Manor 
+2026-09-19T19:45:00.133Z [debug][Jellyfin Sync]: Title already exists and no changes detected for D@bbe 4: The Possession 
+2026-09-19T19:45:00.133Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Ju-on: The Curse 2 
+2026-09-19T19:45:00.133Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Hell House LLC III: Lake of Fire 
+2026-09-19T19:45:00.134Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Hell House LLC: Lineage 
+2026-09-19T19:45:04.139Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-19T19:45:04.315Z [debug][Jellyfin Sync]: Updating existing title: NCIS 
+2026-09-19T19:45:04.316Z [debug][Jellyfin Sync]: Updating existing title: From the New World 
+2026-09-19T19:45:08.317Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-09-19T19:46:00.020Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-19T19:47:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
