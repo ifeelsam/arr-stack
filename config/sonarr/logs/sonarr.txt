@@ -799,3 +799,7 @@ database or disk is full
 2026-09-21 07:08:33.7|Info|RssSyncService|Starting RSS Sync
 2026-09-21 07:08:43.8|Info|DownloadDecisionMaker|Processing 184 releases
 2026-09-21 07:08:44.2|Info|RssSyncService|RSS Sync Completed. Reports found: 184, Reports grabbed: 0
+2026-09-21 07:24:03.8|Info|RssSyncService|Starting RSS Sync
+2026-09-21 07:24:04.2|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 09/21/2026 05:00:03 and 09/21/2026 05:05:01 UTC. Search may be required.
+2026-09-21 07:24:14.1|Info|DownloadDecisionMaker|Processing 190 releases
+2026-09-21 07:24:15.2|Info|RssSyncService|RSS Sync Completed. Reports found: 190, Reports grabbed: 0

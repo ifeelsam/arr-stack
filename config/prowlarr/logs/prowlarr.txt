@@ -4736,3 +4736,8 @@ RequestUri: https://feed.animetosho.org/api?t=search&extended=1;StatusCode: NotF
 2026-09-21 07:16:27.8|Info|ReleaseSearchService|Searching indexer(s): [1337x] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2070, 2030, 2010, 2040, 2060, 2045]
 2026-09-21 07:16:27.8|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
 2026-09-21 07:16:27.8|Info|ReleaseSearchService|Searching indexer(s): [Bangumi Moe] for Term: [], Offset: 0, Limit: 100, Categories: [2000]
+2026-09-21 07:24:03.9|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2026-09-21 07:24:03.9|Info|ReleaseSearchService|Searching indexer(s): [LimeTorrents] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2026-09-21 07:24:03.9|Info|ReleaseSearchService|Searching indexer(s): [showRSS] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5030, 5040]
+2026-09-21 07:24:03.9|Info|ReleaseSearchService|Searching indexer(s): [1337x] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5040, 5030, 5070]
+2026-09-21 07:24:03.9|Info|ReleaseSearchService|Searching indexer(s): [Bangumi Moe] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]

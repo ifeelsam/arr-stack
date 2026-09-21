@@ -2221,3 +2221,24 @@
 2026-09-21T07:21:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
 2026-09-21T07:22:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
 2026-09-21T07:23:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-21T07:24:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-21T07:25:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-09-21T07:25:00.016Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-09-21T07:25:00.016Z [info][Jellyfin Sync]: Scan starting {"sessionId":"943fa986-475c-4987-a0b0-9966f56c7b25"}
+2026-09-21T07:25:00.019Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-09-21T07:25:00.210Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Hell House LLC Origins: The Carmichael Manor 
+2026-09-21T07:25:00.210Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Ju-on: The Curse 
+2026-09-21T07:25:00.210Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Ju-on: The Grudge 
+2026-09-21T07:25:00.211Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Ju-On: Black Ghost 
+2026-09-21T07:25:00.211Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Hell House LLC III: Lake of Fire 
+2026-09-21T07:25:00.211Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Ghost in the Cell 
+2026-09-21T07:25:00.211Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Ju-On: White Ghost 
+2026-09-21T07:25:00.212Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Ju-on: The Beginning of the End 
+2026-09-21T07:25:00.212Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Ju-on: The Curse 2 
+2026-09-21T07:25:00.212Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Hell House LLC: Lineage 
+2026-09-21T07:25:00.212Z [debug][Jellyfin Sync]: Title already exists and no changes detected for D@bbe 4: The Possession 
+2026-09-21T07:25:00.502Z [debug][Jellyfin Sync]: Title already exists and no changes detected for Spider-Man: Brand New Day 
+2026-09-21T07:25:04.505Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-09-21T07:25:04.641Z [debug][Jellyfin Sync]: Updating existing title: The Gentlemen 
+2026-09-21T07:25:04.645Z [debug][Jellyfin Sync]: Updating existing title: NCIS 
+2026-09-21T07:25:08.648Z [info][Jellyfin Sync]: Recently Added Scan Complete 
