@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Item>
+  <ContentRating>NR</ContentRating>
+  <Added>09/05/2026 12:16:52</Added>
+  <LockData>false</LockData>
+  <Overview>The film, shot as a documentary, follows a group of Halloween haunted house creators as they prepare for the 2009 opening of their popular haunted attraction Hell House.</Overview>
+  <LocalTitle>Hell House LLC Collection</LocalTitle>
+  <PremiereDate>2018-09-14</PremiereDate>
+  <DisplayOrder>PremiereDate</DisplayOrder>
+  <ProductionYear>2018</ProductionYear>
+  <TmdbId>607112</TmdbId>
+  <Genres>
+    <Genre>Horror</Genre>
+    <Genre>Mystery</Genre>
+  </Genres>
+  <Studios>
+    <Studio>Terror Films</Studio>
+    <Studio>Cognetti Films</Studio>
+    <Studio>Marlyous' Boys</Studio>
+    <Studio />
+    <Studio>Terror Films Releasing</Studio>
+  </Studios>
+  <CollectionItems>
+    <CollectionItem>
+      <Path>/data/movies/movie/Hell.House.LLC.2015.1080p.WEBRip.x264-[YTS.AM].mp4</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/movie/[2018] Hell House LLC II The Abaddon Hotel - WEBRip-1080p.mp4</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/movie/[2019] Hell House LLC III Lake of Fire - WEBDL-1080p.mkv</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/movie/Hell.House.LLC.Origins.The.Carmichael.Manor.2023.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/movie/Hell.House.LLC.Lineage.2025.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4</Path>
+    </CollectionItem>
+  </CollectionItems>
+</Item>

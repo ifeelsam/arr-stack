@@ -1,0 +1,1 @@
+{"StartTimeUtc":"2026-09-20T20:35:45.6602706Z","EndTimeUtc":"2026-09-20T20:35:45.6856697Z","Status":"Completed","Name":"MediaBar Startup","Key":"Jellyfin.Plugin.MediaBar.Startup","Id":"6e5a964f3d72eca5c74fe8add51fd3ce"}

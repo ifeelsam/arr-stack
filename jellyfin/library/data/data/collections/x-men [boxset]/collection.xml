@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Item>
+  <ContentRating>PG-13</ContentRating>
+  <Added>09/05/2026 12:15:11</Added>
+  <LockData>false</LockData>
+  <Overview>A superhero film series about a team of mutant superheroes based on the Marvel Comics superheroes of the same name.</Overview>
+  <LocalTitle>X-Men Collection</LocalTitle>
+  <PremiereDate>2016-05-18</PremiereDate>
+  <DisplayOrder>PremiereDate</DisplayOrder>
+  <ProductionYear>2016</ProductionYear>
+  <TmdbId>748</TmdbId>
+  <Genres>
+    <Genre>Science Fiction</Genre>
+    <Genre>Action</Genre>
+    <Genre>Adventure</Genre>
+    <Genre>Fantasy</Genre>
+  </Genres>
+  <Studios>
+    <Studio>Genre Films</Studio>
+    <Studio>Hutch Parker Entertainment</Studio>
+    <Studio>20th Century Fox</Studio>
+    <Studio>TSG Entertainment</Studio>
+    <Studio>Marvel Entertainment</Studio>
+    <Studio>The Donners' Company</Studio>
+    <Studio>Bad Hat Harry Productions</Studio>
+  </Studios>
+  <CollectionItems>
+    <CollectionItem>
+      <Path>/data/movies/movie/Dark Phoenix (2019)/Dark Phoenix (2019).mp4</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/movie/X-Men - Apocalypse (2016)/X-Men - Apocalypse (2016).mp4</Path>
+    </CollectionItem>
+  </CollectionItems>
+</Item>

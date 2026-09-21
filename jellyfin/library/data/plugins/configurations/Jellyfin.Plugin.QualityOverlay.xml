@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EnableVideoQualityBadge>true</EnableVideoQualityBadge>
+  <EnableAudioCodecBadge>true</EnableAudioCodecBadge>
+  <Position>BottomRight</Position>
+  <BadgeScale>1</BadgeScale>
+  <Margin>18</Margin>
+  <BackgroundOpacity>0.7</BackgroundOpacity>
+  <BackgroundColor>#101010</BackgroundColor>
+  <TextColor>#ffffff</TextColor>
+  <VideoAccentColor>#3fa7ff</VideoAccentColor>
+  <AudioAccentColor>#f2b705</AudioAccentColor>
+  <ProcessPrimary>true</ProcessPrimary>
+  <ProcessThumb>true</ProcessThumb>
+  <ProcessBackdrop>true</ProcessBackdrop>
+  <CacheExpirationHours>168</CacheExpirationHours>
+</PluginConfiguration>

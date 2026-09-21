@@ -1,0 +1,16 @@
+{
+  "category": "MoviesAndShows",
+  "changelog": "- See the full changelog at [GitHub](https://github.com/intro-skipper/skipme.db-plugin/blob/main/CHANGELOG.md)",
+  "description": "Retrieves crowd-sourced segment timestamps from the SkipMe.db API",
+  "guid": "b2a63e62-0ac5-4575-9ad2-2c7534ccb83d",
+  "name": "SkipMe.db",
+  "overview": "Retrieves crowd-sourced segment timestamps from the SkipMe.db API",
+  "owner": "Intro Skipper",
+  "targetAbi": "12.0.0.0",
+  "timestamp": "2026-09-19T09:42:01.0000000Z",
+  "version": "0.2.4.0",
+  "status": "Active",
+  "autoUpdate": true,
+  "imagePath": "/config/data/plugins/SkipMe.db_0.2.4.0/logo.png",
+  "assemblies": []
+}

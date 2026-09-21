@@ -1,0 +1,3922 @@
+1
+00:01:04,458 --> 00:01:07,583
+SEGUEIX LA X
+
+2
+00:01:24,125 --> 00:01:28,291
+{\an8}CREADA PER GUY RITCHIE
+
+3
+00:01:29,041 --> 00:01:31,958
+TRES MESOS ABANS
+
+4
+00:01:51,083 --> 00:01:52,416
+Bon dia, Excel·lència.
+
+5
+00:01:54,750 --> 00:01:56,875
+- Geoffrey.
+- Gaudeix de les vistes?
+
+6
+00:01:59,000 --> 00:02:01,165
+No hauria de tornar aviat a casa?
+
+7
+00:02:01,166 --> 00:02:03,625
+Els convidats baixaran a esmorzar.
+
+8
+00:02:04,125 --> 00:02:07,875
+M'agradaria parlar
+amb els caçadors a dos quarts de deu.
+
+9
+00:02:09,208 --> 00:02:13,291
+Fa 400 anys, aquesta finca
+s'estenia fins on arriba la vista.
+
+10
+00:02:14,000 --> 00:02:16,333
+<i>Cap a tots costats, fins a la costa.</i>
+
+11
+00:02:17,833 --> 00:02:19,291
+<i>L'han fet minvar.</i>
+
+12
+00:02:20,041 --> 00:02:24,124
+<i>Amb el pas dels anys i de les generacions.</i>
+
+13
+00:02:24,125 --> 00:02:26,083
+Primer van arribar les disculpes.
+
+14
+00:02:26,791 --> 00:02:28,291
+Després, la vergonya.
+
+15
+00:02:30,333 --> 00:02:31,875
+Més tard, la contracció.
+
+16
+00:02:33,791 --> 00:02:34,875
+Com si es podrís.
+
+17
+00:02:37,833 --> 00:02:39,250
+La vull recuperar.
+
+18
+00:02:43,250 --> 00:02:44,583
+Sencera.
+
+19
+00:02:47,791 --> 00:02:48,749
+EPISODI PRIMER
+
+20
+00:02:48,750 --> 00:02:52,375
+EL CAMÍ AL REGNE
+
+21
+00:02:54,250 --> 00:02:56,374
+Hem comprat l'aeròdrom?
+
+22
+00:02:56,375 --> 00:03:00,125
+Nosaltres no, el duc.
+Amb una empresa fantasma.
+
+23
+00:03:00,625 --> 00:03:04,124
+Uns 9.300 km quadrats
+de maria amagats sota l'hangar.
+
+24
+00:03:04,125 --> 00:03:08,832
+<i>És la tapadora perfecta.
+Es planta sota l'hangar, es carrega a dalt</i>
+
+25
+00:03:08,833 --> 00:03:12,249
+<i>i es distribueix pel país
+amb avió o per carretera.</i>
+
+26
+00:03:12,250 --> 00:03:16,750
+Les exhibicions, el restaurant i la botiga
+són útils per blanquejar diners.
+
+27
+00:03:17,750 --> 00:03:19,457
+Vol un martini exprés?
+
+28
+00:03:19,458 --> 00:03:24,500
+- Quan cacen, comencen a beure aviat.
+- Ballem al so que toquen… <i>Einmal danke.</i>
+
+29
+00:03:25,000 --> 00:03:25,958
+I vostè?
+
+30
+00:03:28,750 --> 00:03:29,708
+Saps què?
+
+31
+00:03:30,458 --> 00:03:32,915
+El papa no s'equivocava amb el duc.
+
+32
+00:03:32,916 --> 00:03:35,915
+Imitar a Itàlia el que fem aquí
+és una bona idea.
+
+33
+00:03:35,916 --> 00:03:39,124
+<i>Conrear el producte
+sota els palaus dels aristòcrates.</i>
+
+34
+00:03:39,125 --> 00:03:43,499
+Ja arriba el nostre contacte italià,
+la nostra porta d'entrada a Europa.
+
+35
+00:03:43,500 --> 00:03:46,499
+Internacionalitzar-nos ha valgut la pena.
+
+36
+00:03:46,500 --> 00:03:47,957
+I els Spitfires?
+
+37
+00:03:47,958 --> 00:03:50,541
+Mai no se sap
+quan comença la guerra, Jack.
+
+38
+00:03:57,541 --> 00:04:00,041
+Traieu-me del coi d'avió! Mare meva!
+
+39
+00:04:01,416 --> 00:04:03,957
+A la pròxima, un pilot de debò, collons!
+
+40
+00:04:03,958 --> 00:04:08,291
+{\an8}- A la pròxima, tornes a Londres a peu.
+- Ves a cagar. Estic vomitant.
+
+41
+00:04:09,916 --> 00:04:11,916
+Bon dia, Sr. Maldini.
+
+42
+00:04:12,500 --> 00:04:15,249
+- <i>Buongiorno.</i>
+- Li agafo la bossa.
+
+43
+00:04:15,250 --> 00:04:16,707
+NOU SOCI ITALIÀ
+
+44
+00:04:16,708 --> 00:04:17,833
+Francesco.
+
+45
+00:04:18,458 --> 00:04:21,583
+{\an8}- Bon dia, Francesco.
+- Em pots dir Cico.
+
+46
+00:04:22,291 --> 00:04:23,125
+{\an8}Cico.
+
+47
+00:04:25,666 --> 00:04:28,415
+Acompanyi'm.
+En Blanket li durà les maletes.
+
+48
+00:04:28,416 --> 00:04:30,791
+Et seguiria a la porta del Cel.
+
+49
+00:04:31,291 --> 00:04:34,207
+No t'amoïnis,
+que ja duc jo de les maletes!
+
+50
+00:04:34,208 --> 00:04:35,375
+<i>Ciao</i>, Susie!
+
+51
+00:04:36,875 --> 00:04:40,915
+Susie. Gràcies. M'alegro de veure't.
+
+52
+00:04:40,916 --> 00:04:44,540
+Tenim una petita molèstia
+pel que fa als nostres negocis.
+
+53
+00:04:44,541 --> 00:04:47,124
+És un tema que cal tractar.
+
+54
+00:04:47,125 --> 00:04:49,625
+En parlarem després, que fem tard.
+
+55
+00:04:50,833 --> 00:04:54,082
+- <i>Contessa</i>, està divina.
+- Gràcies, Sra. Glass.
+
+56
+00:04:54,083 --> 00:04:54,958
+Marxem?
+
+57
+00:04:56,000 --> 00:04:57,791
+{\an8}- No facis collonades.
+- Calla.
+
+58
+00:05:02,916 --> 00:05:05,332
+No li plau el peix, Lord Hawthorne?
+
+59
+00:05:05,333 --> 00:05:06,499
+{\an8}No.
+
+60
+00:05:06,500 --> 00:05:10,999
+{\an8}M'agrada esmorzar curri,
+però l'areng fumat és insuperable.
+
+61
+00:05:11,000 --> 00:05:12,749
+Ja ha conegut el meu nebot.
+
+62
+00:05:12,750 --> 00:05:15,291
+I tant. Quin dimoniet més maco.
+
+63
+00:05:15,875 --> 00:05:17,041
+Sabem res del pare?
+
+64
+00:05:17,708 --> 00:05:19,165
+Espera venir a sopar.
+
+65
+00:05:19,166 --> 00:05:22,040
+És fantàstic
+que es guanyi la vida treballant.
+
+66
+00:05:22,041 --> 00:05:24,249
+Però és com n'Eddie. Treballa massa.
+
+67
+00:05:24,250 --> 00:05:26,500
+Des de quan sortir de caça és feina?
+
+68
+00:05:28,375 --> 00:05:31,666
+Fem tard,
+però hem arribat a temps d'esmorzar.
+
+69
+00:05:34,125 --> 00:05:35,000
+Eddie.
+
+70
+00:05:35,791 --> 00:05:36,915
+Edoardo.
+
+71
+00:05:36,916 --> 00:05:38,249
+Edtrafolari.
+
+72
+00:05:38,250 --> 00:05:39,374
+Com vas, company?
+
+73
+00:05:39,375 --> 00:05:41,375
+- <i>Ciao</i>.
+- M'alegra veure't. Vine.
+
+74
+00:05:43,833 --> 00:05:45,582
+Em sap greu.
+
+75
+00:05:45,583 --> 00:05:49,290
+A la pilot li ha rotat
+entrar en una fotuda tempesta.
+
+76
+00:05:49,291 --> 00:05:50,875
+No hem passat per l'ull.
+
+77
+00:05:52,791 --> 00:05:54,207
+En tot cas, sou aquí.
+
+78
+00:05:54,208 --> 00:05:56,749
+No era cap tempesta. Ha fet el ploricó.
+
+79
+00:05:56,750 --> 00:05:58,290
+No hem tingut el plaer.
+
+80
+00:05:58,291 --> 00:06:03,207
+Que formal, cony. Em flipa. La meva noia,
+la comtessa Isabella Soranza de Parme.
+
+81
+00:06:03,208 --> 00:06:05,041
+- Encantat.
+- Excel·lència.
+
+82
+00:06:06,583 --> 00:06:08,166
+- Seieu.
+- Gràcies.
+
+83
+00:06:10,708 --> 00:06:11,624
+Hola.
+
+84
+00:06:11,625 --> 00:06:15,125
+I vosaltres, quina peça
+del trencaclosques aristocràtic sou?
+
+85
+00:06:15,750 --> 00:06:18,832
+No ens faci cas.
+Representem el proletariat.
+
+86
+00:06:18,833 --> 00:06:20,624
+Que modern.
+
+87
+00:06:20,625 --> 00:06:23,707
+Doncs he de dir
+que sou uns espècimens esplèndids.
+
+88
+00:06:23,708 --> 00:06:25,832
+És un bell nou món, Lord.
+
+89
+00:06:25,833 --> 00:06:30,416
+- Quina meravella d'accent. Ho repeteixes?
+- Quan vingui la revolució, germà.
+
+90
+00:06:31,041 --> 00:06:34,290
+Em declaro culpable.
+No em pengeu! Vinga, seieu.
+
+91
+00:06:34,291 --> 00:06:37,874
+- Dic alguna cosa sobre les paraulotes?
+- Seria adequat.
+
+92
+00:06:37,875 --> 00:06:39,832
+Estava pensant
+
+93
+00:06:39,833 --> 00:06:44,500
+que potser podríem parlar amb la Susie
+
+94
+00:06:45,041 --> 00:06:46,707
+abans de fer pum.
+
+95
+00:06:46,708 --> 00:06:49,208
+No és res greu. Un tema de negocis.
+
+96
+00:06:51,833 --> 00:06:53,083
+En parlarem després.
+
+97
+00:06:53,625 --> 00:06:58,541
+En Geoff vol que comencem a les 9:30
+i no el volem decebre, oi?
+
+98
+00:07:00,250 --> 00:07:03,125
+No pateixis, Cico. Tenim tot el matí.
+
+99
+00:07:05,625 --> 00:07:06,625
+És clar.
+
+100
+00:07:08,041 --> 00:07:08,957
+Molt bé.
+
+101
+00:07:08,958 --> 00:07:12,499
+Com poden esmorzar
+curri i peix els anglesos?
+
+102
+00:07:12,500 --> 00:07:14,124
+Curri i peix!
+
+103
+00:07:14,125 --> 00:07:15,416
+Fa cagar de fàstic.
+
+104
+00:07:16,125 --> 00:07:18,457
+<i>Està crispat, Susan. Em fa patir.</i>
+
+105
+00:07:18,458 --> 00:07:20,624
+Què passa amb en Cico?
+
+106
+00:07:20,625 --> 00:07:22,000
+Encara ho hem de veure.
+
+107
+00:07:22,583 --> 00:07:24,458
+No crec que sigui res positiu.
+
+108
+00:07:24,958 --> 00:07:29,124
+No n'ets fan, però ens ha procurat
+un lloc segur a Itàlia,
+
+109
+00:07:29,125 --> 00:07:32,165
+un territori
+on els monstres assetgen cada racó.
+
+110
+00:07:32,166 --> 00:07:34,457
+No menysprearia la seva dedicació.
+
+111
+00:07:34,458 --> 00:07:37,207
+Hi és per arreglar problemes,
+no crear-los.
+
+112
+00:07:37,208 --> 00:07:40,249
+Per ara, donem-li el benefici del dubte.
+
+113
+00:07:40,250 --> 00:07:43,832
+De moment, centra't a aconseguir un noble,
+
+114
+00:07:43,833 --> 00:07:45,333
+com ha demanat el pare.
+
+115
+00:07:45,916 --> 00:07:48,041
+Jo m'encarrego de Lord Hawthorne.
+
+116
+00:07:54,750 --> 00:07:57,124
+Espero no tenir massa fronts oberts.
+
+117
+00:07:57,125 --> 00:08:00,500
+No. La caça no va de matar.
+Sempre va de tancar acords.
+
+118
+00:08:01,083 --> 00:08:03,624
+És l'excusa per reunir tot de bergants.
+
+119
+00:08:03,625 --> 00:08:06,333
+Sembla absurd,
+però convé tenir fronts oberts.
+
+120
+00:08:06,833 --> 00:08:09,999
+La gent vola 8.000 km
+per caçar a la campanya anglesa.
+
+121
+00:08:10,000 --> 00:08:11,665
+Per alguna estranya raó,
+
+122
+00:08:11,666 --> 00:08:14,125
+estan més receptius quan duen una arma.
+
+123
+00:08:15,125 --> 00:08:18,124
+- Parla'm de la teva amiga.
+- L'Aisha et caurà bé.
+
+124
+00:08:18,125 --> 00:08:20,165
+És llesta, té aspiracions.
+
+125
+00:08:20,166 --> 00:08:22,999
+Es cuida i cuida aquells que l'envolten.
+
+126
+00:08:23,000 --> 00:08:26,249
+Fa 5 anys que treballa
+al sector hoteler de l'Orient Mitjà.
+
+127
+00:08:26,250 --> 00:08:28,749
+Ara ha aconseguit seure a la taula reial.
+
+128
+00:08:28,750 --> 00:08:33,707
+L'Orient Mitjà és el futur.
+Es munten un món nou cada dues setmanes.
+
+129
+00:08:33,708 --> 00:08:36,625
+Entenc que t'interessi.
+M'agrada la teva ambició.
+
+130
+00:08:37,500 --> 00:08:41,540
+- Hola, maca. Com estàs?
+- Et presento el duc.
+
+131
+00:08:41,541 --> 00:08:42,707
+Com li va?
+
+132
+00:08:42,708 --> 00:08:45,083
+Em va molt bé. Gràcies per convidar-me.
+
+133
+00:08:45,666 --> 00:08:49,790
+Sa Excel·lència,
+el príncep Amir bin Abdullah al-Hadid.
+
+134
+00:08:49,791 --> 00:08:50,625
+Molt bé.
+
+135
+00:08:51,291 --> 00:08:52,832
+Bon dia, xeic Amir.
+
+136
+00:08:52,833 --> 00:08:55,999
+Li agraeixo
+que ens convidi a la seva preciosa llar.
+
+137
+00:08:56,000 --> 00:08:58,375
+- Amb molt de gust.
+- Li porto un detall.
+
+138
+00:08:58,875 --> 00:09:01,707
+Una ampolla de Petrus del 2009.
+Que generós.
+
+139
+00:09:01,708 --> 00:09:04,540
+Per què sospito que t'has passat?
+
+140
+00:09:04,541 --> 00:09:05,832
+A veure, és un amor.
+
+141
+00:09:05,833 --> 00:09:08,832
+El segon en la línia de successió.
+Sap gaudir.
+
+142
+00:09:08,833 --> 00:09:12,540
+I té més diners que…
+Deixem-ho que és un malparit molt ric.
+
+143
+00:09:12,541 --> 00:09:16,582
+I qui s'ha passat? No havies dit
+que el teu duc sembla una estrella.
+
+144
+00:09:16,583 --> 00:09:20,082
+Perdoni'm l'accent.
+Fa molt que no visito el golf Pèrsic.
+
+145
+00:09:20,083 --> 00:09:21,874
+On va aprendre àrab?
+
+146
+00:09:21,875 --> 00:09:25,207
+- No fotis, també parla àrab?
+- Millora cada segon.
+
+147
+00:09:25,208 --> 00:09:27,749
+Vaig fer un curs d'àrab
+
+148
+00:09:27,750 --> 00:09:30,832
+mentre estudiava Teologia a Oxford.
+
+149
+00:09:30,833 --> 00:09:31,958
+Excel·lent!
+
+150
+00:09:32,583 --> 00:09:34,957
+Li presento la Susie Glass.
+
+151
+00:09:34,958 --> 00:09:36,166
+És la seva esposa?
+
+152
+00:09:37,500 --> 00:09:38,625
+Esposa empresarial.
+
+153
+00:09:39,125 --> 00:09:41,250
+Amir, t'hem de trobar una escopeta.
+
+154
+00:09:44,875 --> 00:09:48,582
+Per què n'hi ha tantes?
+I per què només amb dos canons?
+
+155
+00:09:48,583 --> 00:09:50,333
+Per donar avantatge als ocells.
+
+156
+00:09:51,583 --> 00:09:54,791
+- Quina és millor?
+- Millor o més impressionant?
+
+157
+00:09:55,625 --> 00:09:56,458
+Ambdues coses.
+
+158
+00:09:57,500 --> 00:10:01,082
+Tenim escopetes alemanyes,
+britàniques i estatunidenques.
+
+159
+00:10:01,083 --> 00:10:04,333
+Però, si busca prestigi i història,
+
+160
+00:10:04,875 --> 00:10:07,083
+la Beretta italiana li escau.
+
+161
+00:10:08,458 --> 00:10:10,208
+Cacen en parella.
+
+162
+00:10:11,125 --> 00:10:13,332
+Fa 500 anys que s'hi dediquen.
+
+163
+00:10:13,333 --> 00:10:15,500
+Són els millors armers del món.
+
+164
+00:10:16,000 --> 00:10:17,750
+Ha vist el gravat?
+
+165
+00:10:18,291 --> 00:10:22,250
+Un petit italià va dedicar dos anys
+a gravar aquesta bella imatge.
+
+166
+00:10:25,000 --> 00:10:26,457
+És majestuosa.
+
+167
+00:10:26,458 --> 00:10:28,540
+No val en un tiroteig a Chicago,
+
+168
+00:10:28,541 --> 00:10:31,875
+però és una meravella
+a la verda campanya anglesa.
+
+169
+00:10:36,708 --> 00:10:40,208
+- M'estic trempant.
+- És la resposta adequada, senyor.
+
+170
+00:10:41,791 --> 00:10:46,332
+Li queda com un guant.
+És l'arma preferida d'en James Bond.
+
+171
+00:10:46,333 --> 00:10:48,582
+No era la Walther PPK?
+
+172
+00:10:48,583 --> 00:10:53,041
+No en la novel·la original.
+Trobo que les Beretta li faran bon servei.
+
+173
+00:10:53,958 --> 00:10:54,875
+Geoffrey.
+
+174
+00:10:57,083 --> 00:11:00,915
+Faràs que Lord Hawthorne
+gaudeixi d'una experiència memorable?
+
+175
+00:11:00,916 --> 00:11:03,832
+- Vigilaré que tingui el cul ben llepat.
+- Bé.
+
+176
+00:11:03,833 --> 00:11:06,958
+- Alguna cosa especial per a ell?
+- És clar.
+
+177
+00:11:08,125 --> 00:11:09,666
+Només el bo i millor.
+
+178
+00:11:10,791 --> 00:11:13,875
+- La Holland & Holland de Lord Monmouth?
+- Exacte.
+
+179
+00:11:14,875 --> 00:11:15,875
+Que sortós.
+
+180
+00:11:16,750 --> 00:11:18,791
+Seria l'arma que jo escolliria.
+
+181
+00:11:28,083 --> 00:11:29,332
+Geoff.
+
+182
+00:11:29,333 --> 00:11:34,499
+Perdona, no vull emprenyar.
+Tot i que m'agrada el meu carregador,
+
+183
+00:11:34,500 --> 00:11:38,750
+preferiria que aquell àngel d'Essex
+em carregués l'escopeta, si us plau.
+
+184
+00:11:39,250 --> 00:11:42,499
+- Miro de fer alguna cosa.
+- Visca! <i>Grazie</i>, hòstia.
+
+185
+00:11:42,500 --> 00:11:44,125
+Faria bé de suavitzar el to.
+
+186
+00:11:45,833 --> 00:11:48,958
+És un convidat del duc
+i hi ha dames al camp.
+
+187
+00:11:49,666 --> 00:11:51,625
+- És una recomanació.
+- Entesos.
+
+188
+00:11:52,666 --> 00:11:53,875
+Vejam.
+
+189
+00:11:54,416 --> 00:11:56,666
+Hi ha un número al fons del got
+
+190
+00:11:57,166 --> 00:11:59,000
+que serà el seu identificador.
+
+191
+00:11:59,583 --> 00:12:01,832
+- Excel·lència?
+- Escurem-los.
+
+192
+00:12:01,833 --> 00:12:03,374
+- Salut.
+- Brindem.
+
+193
+00:12:03,375 --> 00:12:04,416
+Carregadors?
+
+194
+00:12:18,583 --> 00:12:19,500
+Ben disparat.
+
+195
+00:12:41,833 --> 00:12:46,207
+- Per què no n'encerto cap?
+- No pateixi. Segur que amb la següent.
+
+196
+00:12:46,208 --> 00:12:48,832
+Sincerament, te'n surts molt bé, Jack.
+
+197
+00:12:48,833 --> 00:12:52,583
+M'ho pot agrair amb propines, senyor.
+
+198
+00:12:53,625 --> 00:12:55,540
+Intenta encertar-ne una.
+
+199
+00:12:55,541 --> 00:13:00,375
+Estimada, t'has tornat sanguinària
+des que has marxat de la universitat.
+
+200
+00:13:01,291 --> 00:13:02,333
+Quaranta.
+
+201
+00:13:02,833 --> 00:13:05,082
+Aisha! En vull una!
+
+202
+00:13:05,083 --> 00:13:06,457
+Una de què?
+
+203
+00:13:06,458 --> 00:13:07,915
+Una d'aquestes!
+
+204
+00:13:07,916 --> 00:13:09,375
+Doncs la tindràs!
+
+205
+00:13:10,791 --> 00:13:12,000
+Cabronàs cobdiciós.
+
+206
+00:13:16,916 --> 00:13:17,916
+Gràcies.
+
+207
+00:13:22,625 --> 00:13:23,625
+Gràcies, senyor.
+
+208
+00:13:25,291 --> 00:13:29,291
+- Dispares amb elegància, Bella.
+- Gràcies. Tu dispares com un déu.
+
+209
+00:13:33,458 --> 00:13:38,000
+Jack, has estat un tresor.
+M'has fet sentir molt còmode.
+
+210
+00:13:38,583 --> 00:13:41,875
+Fem una cosa.
+Som dolentots i en prenem un altre?
+
+211
+00:13:42,458 --> 00:13:45,541
+- M'ha llegit el pensament, senyor.
+- Gràcies.
+
+212
+00:13:46,541 --> 00:13:47,624
+Eddie.
+
+213
+00:13:47,625 --> 00:13:50,457
+<i>Com t'estimo?
+Deixa'm comptar les maneres.</i>
+
+214
+00:13:50,458 --> 00:13:52,332
+Quina meravella de batuda.
+
+215
+00:13:52,333 --> 00:13:55,165
+Els ocells se'm tiraven a sobre a onades.
+
+216
+00:13:55,166 --> 00:13:59,165
+Ha fet bona feina, Lord Hawthorne.
+No se li ha escapat gairebé res.
+
+217
+00:13:59,166 --> 00:14:02,040
+Fa lleig que ho digui,
+però he disparat prou bé.
+
+218
+00:14:02,041 --> 00:14:02,958
+Sens dubte.
+
+219
+00:14:03,458 --> 00:14:05,790
+Aquest estiu anirà a Escòcia?
+
+220
+00:14:05,791 --> 00:14:09,749
+Ho dubto.
+Hi ha molt rebombori en cercles poderosos.
+
+221
+00:14:09,750 --> 00:14:12,582
+Sí, sé que Lord Bramlingham ha mort.
+
+222
+00:14:12,583 --> 00:14:15,249
+- Colpidor, oi?
+- Certament.
+
+223
+00:14:15,250 --> 00:14:17,624
+Cal ocupar la seva posició.
+
+224
+00:14:17,625 --> 00:14:21,166
+No acostumen a sorgir
+vacants de pars hereditaris.
+
+225
+00:14:22,083 --> 00:14:23,166
+Sap qui sortirà?
+
+226
+00:14:26,833 --> 00:14:29,666
+Aquest cap de setmana farem una llisteta.
+
+227
+00:14:30,833 --> 00:14:35,040
+Hauríem de fer una copa abans del sopar.
+
+228
+00:14:35,041 --> 00:14:37,916
+La maquinària del Parlament
+sempre m'ha fascinat.
+
+229
+00:14:39,708 --> 00:14:40,916
+Ah, sí?
+
+230
+00:14:44,000 --> 00:14:47,166
+Molt bé. Els ocells no es caçaran sols.
+
+231
+00:14:56,541 --> 00:14:59,499
+No entenc
+que aquell merdós se'ls endugui tots!
+
+232
+00:14:59,500 --> 00:15:03,500
+Faria bé de deixar-ne passar un o dos.
+Fa quedar malament l'italià.
+
+233
+00:15:04,250 --> 00:15:07,291
+- Et molesta?
+- A mi, no, però li fereix l'orgull.
+
+234
+00:15:08,125 --> 00:15:11,083
+Haurem de mentir quan fem comptes.
+
+235
+00:15:12,458 --> 00:15:14,458
+Les coses ens han anat bé, oi?
+
+236
+00:15:14,958 --> 00:15:16,874
+L'any passat no teníem res.
+
+237
+00:15:16,875 --> 00:15:22,541
+Però, des que vam començar a plantar
+sota el palau de la comtessa, déu-n'hi-do.
+
+238
+00:15:23,291 --> 00:15:24,916
+Heu fet bingo.
+
+239
+00:15:25,750 --> 00:15:30,165
+- Sis plantacions en menys d'un any.
+- Ens il·lumines sobre el problema?
+
+240
+00:15:30,166 --> 00:15:35,916
+- Sí, un de gros. Va d'en Marco Moretti.
+- Com dius?
+
+241
+00:15:38,291 --> 00:15:39,166
+Marco Moretti?
+
+242
+00:15:40,833 --> 00:15:42,875
+Què coi pinta en aquesta conversa?
+
+243
+00:15:43,541 --> 00:15:45,165
+Hem de parlar amb ell.
+
+244
+00:15:45,166 --> 00:15:48,458
+Parlem amb tu
+per no parlar amb el <i>capo di capi</i>.
+
+245
+00:15:50,041 --> 00:15:52,499
+Ja ho sé, però ha començat a rondar.
+
+246
+00:15:52,500 --> 00:15:55,915
+Ha descobert que tenim
+marihuana al palau de la comtessa.
+
+247
+00:15:55,916 --> 00:15:59,457
+En Marco n'és el padrí.
+Algun dia se n'havia d'assabentar.
+
+248
+00:15:59,458 --> 00:16:03,541
+I ara en vol treure profit.
+Si no, ho farà arrencar tot.
+
+249
+00:16:05,041 --> 00:16:06,499
+CAP DELS CAPS
+
+250
+00:16:06,500 --> 00:16:10,915
+Anem en picat, Cico. Ens has fet caure
+d'un avió sense paracaigudes.
+
+251
+00:16:10,916 --> 00:16:13,624
+<i>Ens vas dir que evitaries en Marco.</i>
+
+252
+00:16:13,625 --> 00:16:16,249
+On és el Sr. Consistent? El Sr. de Fiar?
+
+253
+00:16:16,250 --> 00:16:19,665
+És Itàlia. Tot són sorpreses, d'acord?
+
+254
+00:16:19,666 --> 00:16:22,624
+Per això em teniu, per aturar la crisi.
+
+255
+00:16:22,625 --> 00:16:25,082
+Quant costarà aturar la crisi?
+
+256
+00:16:25,083 --> 00:16:25,916
+Posem…
+
+257
+00:16:27,250 --> 00:16:28,332
+quaranta l'any?
+
+258
+00:16:28,333 --> 00:16:29,166
+Quaranta què?
+
+259
+00:16:29,666 --> 00:16:33,624
+Quaranta lires?
+Migdiades? Assots? Nits al desert?
+
+260
+00:16:33,625 --> 00:16:35,207
+Quaranta què, collons?
+
+261
+00:16:35,208 --> 00:16:37,707
+Quaranta milions d'euros, òbviament.
+
+262
+00:16:37,708 --> 00:16:40,290
+- Prou.
+- Espereu.
+
+263
+00:16:40,291 --> 00:16:44,500
+Molt bé,
+queda clar que 40 és inadmissible.
+
+264
+00:16:45,083 --> 00:16:46,707
+Per això em pagueu.
+
+265
+00:16:46,708 --> 00:16:48,957
+Tinc la solució.
+
+266
+00:16:48,958 --> 00:16:54,082
+És un problema gros de collons,
+la solució ja pot ser grossa de collons.
+
+267
+00:16:54,083 --> 00:16:59,000
+Esteu gaire familiaritzats
+amb l'obra de Botticelli?
+
+268
+00:17:00,583 --> 00:17:04,625
+<i>Una pintureta seva es vendrà
+en una casa de subhastes londinenca.</i>
+
+269
+00:17:05,250 --> 00:17:07,415
+<i>En Marco té dèria per la seva obra.</i>
+
+270
+00:17:07,416 --> 00:17:08,707
+<i>És demanar molt.</i>
+
+271
+00:17:08,708 --> 00:17:12,207
+Sis milions és poc
+si aconsegueixen l'efecte desitjat.
+
+272
+00:17:12,208 --> 00:17:14,957
+L'operatiu d'en Marco Moretti va fort.
+
+273
+00:17:14,958 --> 00:17:17,957
+Extorsió, segrest, tortura. Fan de tot.
+
+274
+00:17:17,958 --> 00:17:20,665
+L'església i els polítics li donen suport.
+
+275
+00:17:20,666 --> 00:17:22,791
+No poso en dubte el seu poder.
+
+276
+00:17:24,000 --> 00:17:28,832
+Trobo subtil i sofisticat comprar una obra
+del seu pintor renaixentista preferit.
+
+277
+00:17:28,833 --> 00:17:34,915
+Només dubto de si en Cico
+és el mètode més efectiu d'accedir-hi.
+
+278
+00:17:34,916 --> 00:17:38,000
+Sé que no et cau bé.
+A mi em cau pitjor i tot.
+
+279
+00:17:38,500 --> 00:17:41,416
+Però, a curt termini,
+convé que ens faci costat.
+
+280
+00:17:41,916 --> 00:17:44,625
+No t'han d'agradar tots els socis.
+
+281
+00:17:47,791 --> 00:17:49,208
+Però sé qui t'agrada.
+
+282
+00:17:50,708 --> 00:17:54,415
+- Què impliques?
+- El que vulguis que impliqui.
+
+283
+00:17:54,416 --> 00:17:56,875
+Comencem d'aquí a deu minuts.
+
+284
+00:18:02,958 --> 00:18:05,125
+Merda. Ni una. És increïble.
+
+285
+00:18:08,000 --> 00:18:10,208
+Com carall m'ho munto?
+
+286
+00:18:12,083 --> 00:18:13,208
+Gràcies.
+
+287
+00:18:19,041 --> 00:18:21,999
+- Per què no pares de mirar cap allà?
+- Com?
+
+288
+00:18:22,000 --> 00:18:24,207
+No pares de mirar el duc! Ho veus?
+
+289
+00:18:24,208 --> 00:18:27,249
+No miro el duc, disparo amb escopeta.
+
+290
+00:18:27,250 --> 00:18:29,332
+Sempre ets una torracollons!
+
+291
+00:18:29,333 --> 00:18:30,790
+Sempre et poses gelosa!
+
+292
+00:18:30,791 --> 00:18:33,750
+No marranegis amb el personal.
+Dispares com un vegà.
+
+293
+00:18:36,458 --> 00:18:37,583
+Cico!
+
+294
+00:18:38,750 --> 00:18:39,583
+Cico!
+
+295
+00:18:40,333 --> 00:18:42,583
+No es moguin! No disparin!
+
+296
+00:18:44,375 --> 00:18:46,874
+Cico.
+
+297
+00:18:46,875 --> 00:18:48,291
+És mort?
+
+298
+00:18:49,250 --> 00:18:50,499
+Es recuperarà.
+
+299
+00:18:50,500 --> 00:18:53,457
+Un cop de perdiu al cap no sol ser mortal.
+
+300
+00:18:53,458 --> 00:18:54,416
+"No sol"?
+
+301
+00:18:55,208 --> 00:18:56,541
+Llàstima.
+
+302
+00:18:57,208 --> 00:19:00,000
+Cico? Vinga!
+
+303
+00:19:02,333 --> 00:19:04,790
+Pallasso. No hem de comprar el quadre.
+
+304
+00:19:04,791 --> 00:19:07,582
+Si tens sort,
+no es refarà de l'agressió aèria.
+
+305
+00:19:07,583 --> 00:19:10,332
+- La lloca em volia mort.
+- Prioritza Lord Hawthorne.
+
+306
+00:19:10,333 --> 00:19:14,083
+Va curt de diners i té
+una mansió en ruïnes. No costarà gaire.
+
+307
+00:19:22,458 --> 00:19:28,000
+Semblo un marieta vell i inútil,
+però sé quan em volen fer la rosca.
+
+308
+00:19:28,708 --> 00:19:32,125
+Els ocells, el menjar, el Petrus.
+
+309
+00:19:32,625 --> 00:19:33,624
+Ho entenc.
+
+310
+00:19:33,625 --> 00:19:36,665
+I n'estic molt agraït, Eddie. De debò.
+
+311
+00:19:36,666 --> 00:19:38,791
+Però entenc les teves intencions.
+
+312
+00:19:39,375 --> 00:19:40,875
+M'estàs fent l'aleta.
+
+313
+00:19:41,458 --> 00:19:43,541
+M'estàs ensabonant.
+
+314
+00:19:44,583 --> 00:19:49,041
+Vols que et doni suport per aconseguir
+la posició de par hereditari.
+
+315
+00:19:49,541 --> 00:19:51,666
+Vostè és important, Lord Hawthorne.
+
+316
+00:19:52,500 --> 00:19:56,625
+El mínim és que rebi
+els embelliments apropiats.
+
+317
+00:19:57,916 --> 00:20:00,708
+Imagino que vols aquesta posició
+
+318
+00:20:01,333 --> 00:20:04,624
+per poder incidir
+en una part clau de la legislació
+
+319
+00:20:04,625 --> 00:20:07,958
+que proposa despenalitzar la marihuana.
+
+320
+00:20:09,625 --> 00:20:13,249
+- Per què m'hi hauria d'interessar?
+- Ni idea, Eddie.
+
+321
+00:20:13,250 --> 00:20:16,040
+No n'he de fer res, dels teus motius.
+
+322
+00:20:16,041 --> 00:20:19,165
+M'interessa la xifra
+per la qual em vols comprar.
+
+323
+00:20:19,166 --> 00:20:20,833
+No perdem més el temps.
+
+324
+00:20:23,541 --> 00:20:25,124
+En quina xifra ha pensat?
+
+325
+00:20:25,125 --> 00:20:28,374
+Va curt de diners. No costarà gaire.
+
+326
+00:20:28,375 --> 00:20:30,374
+Començaries amb dos milions?
+
+327
+00:20:30,375 --> 00:20:33,666
+- De cap manera. Uns 100.000.
+- No sigui ridícul.
+
+328
+00:20:35,250 --> 00:20:37,415
+Cinquanta mil lliures?
+
+329
+00:20:37,416 --> 00:20:38,749
+PREU D'UN LORD PELAT
+
+330
+00:20:38,750 --> 00:20:41,749
+No saps el que fan
+els polítics per tenir efectiu.
+
+331
+00:20:41,750 --> 00:20:44,375
+Si te'n surts,
+et convido a un menú del dia.
+
+332
+00:20:46,083 --> 00:20:49,624
+Em sap greu,
+però se m'escapa del pressupost.
+
+333
+00:20:49,625 --> 00:20:52,624
+Gaudeixi de la resta de l'ampolla.
+
+334
+00:20:52,625 --> 00:20:53,458
+Trenta-cinc.
+
+335
+00:20:54,375 --> 00:20:56,582
+35.000 ♪
+
+336
+00:20:56,583 --> 00:20:57,540
+Vint-i-cinc.
+
+337
+00:20:57,541 --> 00:20:58,707
+Trenta.
+
+338
+00:20:58,708 --> 00:21:00,124
+30.000 ♪
+
+339
+00:21:00,125 --> 00:21:03,832
+ESTALVI: 1.970.000 ♪
+
+340
+00:21:03,833 --> 00:21:07,374
+A canvi, avalarà
+la meva nominació com a par hereditari
+
+341
+00:21:07,375 --> 00:21:09,540
+i convencerà els independents,
+
+342
+00:21:09,541 --> 00:21:13,082
+encantats de fer-li costat
+si els ho demana,
+
+343
+00:21:13,083 --> 00:21:17,207
+cosa que m'assegurarà
+un escó a la Cambra dels Lords.
+
+344
+00:21:17,208 --> 00:21:19,040
+Si necessités més ajuda
+
+345
+00:21:19,041 --> 00:21:21,582
+per influir en alguna llei en concret,
+
+346
+00:21:21,583 --> 00:21:25,291
+ja ho negociaríem cas per cas.
+
+347
+00:21:28,541 --> 00:21:30,583
+Em sembla raonable.
+
+348
+00:21:32,333 --> 00:21:37,500
+Em sap greu, però tinc
+una altra condició irrenunciable.
+
+349
+00:21:38,083 --> 00:21:39,416
+Quina?
+
+350
+00:21:40,000 --> 00:21:40,915
+En Jack.
+
+351
+00:21:40,916 --> 00:21:44,707
+30.000 £ + EN JACK?
+
+352
+00:21:44,708 --> 00:21:45,624
+En Jack?
+
+353
+00:21:45,625 --> 00:21:48,999
+En Jack, el carregador. M'interessa.
+
+354
+00:21:49,000 --> 00:21:51,958
+En quin sentit?
+
+355
+00:21:52,666 --> 00:21:54,708
+En un sentit antropològic.
+
+356
+00:21:55,291 --> 00:21:57,333
+És una criatura poc comuna, Eddie.
+
+357
+00:21:57,958 --> 00:22:00,749
+Sembla posseir la vitalitat salvatge
+
+358
+00:22:00,750 --> 00:22:05,000
+d'un home primitiu caigut en l'oblit.
+
+359
+00:22:09,375 --> 00:22:11,415
+Hi podem fer alguna cosa.
+
+360
+00:22:11,416 --> 00:22:15,500
+30.000 £ + EN JACK + LA CIGALA D'EN JACK
+
+361
+00:22:16,708 --> 00:22:21,082
+Bon vespre. Espero que hagin gaudit
+del dia de caça a la Mansió Halstead.
+
+362
+00:22:21,083 --> 00:22:23,041
+La captura del dia.
+
+363
+00:22:23,541 --> 00:22:29,333
+Són 120 perdius,
+dos tudons i un home de negocis italià.
+
+364
+00:22:29,875 --> 00:22:31,290
+La mala notícia
+
+365
+00:22:31,291 --> 00:22:35,749
+és que el duc rep el premi de consolació
+per 94 trets i no gaires plomes.
+
+366
+00:22:35,750 --> 00:22:38,457
+Culpa del meu instructor, Geoffrey.
+
+367
+00:22:38,458 --> 00:22:40,665
+Parlaré amb ell personalment, senyor.
+
+368
+00:22:40,666 --> 00:22:44,707
+La bona notícia és que la duquessa
+ha redimit el cognom familiar.
+
+369
+00:22:44,708 --> 00:22:48,499
+Ha fet caure deu ocells seguits
+i és qui anava més ben vestida.
+
+370
+00:22:48,500 --> 00:22:49,875
+- Això!
+- Gràcies.
+
+371
+00:22:51,541 --> 00:22:54,666
+Vostra Excel·lència,
+duquessa, senyores i senyors.
+
+372
+00:22:55,166 --> 00:22:56,833
+Gràcies.
+
+373
+00:23:01,083 --> 00:23:05,166
+M'agradaria proposar un brindis en honor
+
+374
+00:23:06,041 --> 00:23:08,707
+de n'Edoardo, amfitrió d'allò més generós.
+
+375
+00:23:08,708 --> 00:23:12,290
+És increïble
+que m'hagis convidat a venir al Regne Unit
+
+376
+00:23:12,291 --> 00:23:16,291
+per formar part de la teva antiga tradició
+
+377
+00:23:16,791 --> 00:23:19,083
+i les teves visions inspiradores
+
+378
+00:23:20,000 --> 00:23:21,250
+d'un futur més clar.
+
+379
+00:23:23,958 --> 00:23:25,041
+Per a Sa gràcia.
+
+380
+00:23:25,625 --> 00:23:27,290
+- Eddie.
+- Edward.
+
+381
+00:23:27,291 --> 00:23:28,416
+Això!
+
+382
+00:23:29,666 --> 00:23:31,000
+- Comencem?
+- Sí.
+
+383
+00:23:33,416 --> 00:23:35,165
+Per què no has begut?
+
+384
+00:23:35,166 --> 00:23:38,457
+No s'acostuma a beure
+quan el brindis és en honor teu.
+
+385
+00:23:38,458 --> 00:23:43,540
+Ja hem ignorat la tradició. Proposar
+un brindis abans de seure no és habitual.
+
+386
+00:23:43,541 --> 00:23:45,290
+En Cico li sembla groller?
+
+387
+00:23:45,291 --> 00:23:48,290
+Lord Hawthorne
+assenyalava en què es diferencien
+
+388
+00:23:48,291 --> 00:23:50,500
+la tradició italiana i l'anglesa, oi?
+
+389
+00:23:54,041 --> 00:23:55,290
+És groller.
+
+390
+00:23:55,291 --> 00:23:57,500
+Trobo que el guarda ha errat.
+
+391
+00:23:58,000 --> 00:24:01,374
+Si fos per mi,
+hauries rebut el premi a més ben vestida.
+
+392
+00:24:01,375 --> 00:24:05,290
+Regalar-me un lleó ratllat
+pel meu aniversari li sembla distingit.
+
+393
+00:24:05,291 --> 00:24:07,125
+- Un tigre?
+- Com es digui.
+
+394
+00:24:07,916 --> 00:24:10,624
+- Sabrina, estimada. Em permeteu?
+- És clar.
+
+395
+00:24:10,625 --> 00:24:13,999
+- Aisha, pots venir per una cosa?
+- T'acompanyo.
+
+396
+00:24:14,000 --> 00:24:16,333
+Avui no te'n menges cap, eh?
+
+397
+00:24:17,708 --> 00:24:20,333
+- Com us vau conèixer?
+- En una festa.
+
+398
+00:24:21,000 --> 00:24:22,457
+Ell venia cocaïna.
+
+399
+00:24:22,458 --> 00:24:25,082
+Si més no, no és un clixé. En vas comprar?
+
+400
+00:24:25,083 --> 00:24:26,333
+I ara.
+
+401
+00:24:27,750 --> 00:24:33,750
+Sé que el trobes maldestre i sense tacte,
+però és ambiciós, cosa que m'atrau.
+
+402
+00:24:35,791 --> 00:24:38,874
+Estem treballant
+en la barroeria de l'ambició.
+
+403
+00:24:38,875 --> 00:24:43,000
+Sembla que li despertis la inseguretat
+i pot arribar a ser volàtil.
+
+404
+00:24:44,500 --> 00:24:47,499
+I tu, Eddie, quines ambicions tens?
+
+405
+00:24:47,500 --> 00:24:48,541
+Les meves?
+
+406
+00:24:49,125 --> 00:24:54,291
+Qui diu que no soc un aristòcrata inepte
+que vol viure d'una renda minvant?
+
+407
+00:24:55,500 --> 00:24:57,833
+Vostra Excel·lència no té res d'inepte.
+
+408
+00:24:59,750 --> 00:25:02,582
+Em dones el benefici del dubte.
+
+409
+00:25:02,583 --> 00:25:03,833
+Sí.
+
+410
+00:25:25,000 --> 00:25:26,375
+Perdoni, el puc ajudar?
+
+411
+00:25:31,583 --> 00:25:32,750
+No ho sé.
+
+412
+00:25:33,458 --> 00:25:34,416
+Pot?
+
+413
+00:25:35,000 --> 00:25:36,250
+S'ha perdut?
+
+414
+00:25:37,791 --> 00:25:40,416
+Sí, em penso que somio.
+
+415
+00:25:41,833 --> 00:25:44,708
+És l'automòbil
+més preciós que hagi vist mai.
+
+416
+00:25:48,041 --> 00:25:49,083
+En aquest cas,
+
+417
+00:25:50,250 --> 00:25:52,040
+et desperto d'aquest somni.
+
+418
+00:25:52,041 --> 00:25:53,166
+Sí.
+
+419
+00:25:59,541 --> 00:26:01,582
+- Estimada.
+- Estimat.
+
+420
+00:26:01,583 --> 00:26:05,082
+- El maletí, senyor?
+- És d'allò més amable, Sr. Lawrence.
+
+421
+00:26:05,083 --> 00:26:08,082
+Perdona que faci tard
+i vingui amb roba espantosa.
+
+422
+00:26:08,083 --> 00:26:11,749
+Hem tingut embolics a la feina.
+M'he perdut el meu petit?
+
+423
+00:26:11,750 --> 00:26:13,416
+L'acabo de posar al bressol.
+
+424
+00:26:15,416 --> 00:26:17,624
+Vine, que has d'estar mort de fam.
+
+425
+00:26:17,625 --> 00:26:22,957
+No aniré enlloc fins que em diguis
+de qui és aquest prodigi de vehicle.
+
+426
+00:26:22,958 --> 00:26:26,208
+Al final, va resultar ser
+un ballarí eròtic de Corint.
+
+427
+00:26:27,500 --> 00:26:28,958
+A vostè el conec.
+
+428
+00:26:30,375 --> 00:26:34,416
+Sap quants Mark VI Drophead
+va muntar la carrossera Franay?
+
+429
+00:26:36,250 --> 00:26:38,749
+- Pocs?
+- Divuit.
+
+430
+00:26:38,750 --> 00:26:41,500
+Com es troba, Lord Hawthorne?
+Nanny Asante.
+
+431
+00:26:42,125 --> 00:26:43,540
+Em pot dir Nanny.
+
+432
+00:26:43,541 --> 00:26:46,249
+El seu cotxe és tota una joia.
+
+433
+00:26:46,250 --> 00:26:48,207
+Gràcies, Nanny.
+
+434
+00:26:48,208 --> 00:26:50,749
+En aquest cas, demà faci un volt amb ell.
+
+435
+00:26:50,750 --> 00:26:53,250
+No en seria capaç. No ho hauria de fer.
+
+436
+00:26:54,458 --> 00:26:55,541
+Però ho he de fer.
+
+437
+00:26:57,541 --> 00:26:59,000
+Com us vau conèixer?
+
+438
+00:26:59,666 --> 00:27:02,207
+En Nanny és un soldat extraordinari.
+
+439
+00:27:02,208 --> 00:27:06,040
+El van condecorar
+pel seu enorme valor en combat.
+
+440
+00:27:06,041 --> 00:27:08,249
+Van coincidir
+en un ball de l'acadèmia militar.
+
+441
+00:27:08,250 --> 00:27:11,166
+- Vam ascendir junts.
+- Jo acompanyava n'Eddie.
+
+442
+00:27:12,625 --> 00:27:15,415
+Un vi del 95. El seu preferit.
+
+443
+00:27:15,416 --> 00:27:19,707
+Gràcies. Si em pot fer el favor,
+demani que em planxin la jaqueta.
+
+444
+00:27:19,708 --> 00:27:21,082
+Molt bé.
+
+445
+00:27:21,083 --> 00:27:26,040
+T'hauries de plantejar ser pare. No vols
+que la mansió acabi en mans de ton germà.
+
+446
+00:27:26,041 --> 00:27:28,541
+- On és, per cert?
+- S'està rehabilitant.
+
+447
+00:27:29,333 --> 00:27:31,333
+Vaja. De quina substància?
+
+448
+00:27:31,958 --> 00:27:35,250
+De moltes i tan variades
+que no fa d'explicar sopant.
+
+449
+00:27:46,500 --> 00:27:49,624
+La gent es pensa
+que només es cuida dels cavalls,
+
+450
+00:27:49,625 --> 00:27:54,416
+però un cavallerís reial
+és el secretari personal del sobirà.
+
+451
+00:27:55,000 --> 00:27:58,707
+En Nanny és
+l'home de confiança del rei d'Anglaterra.
+
+452
+00:27:58,708 --> 00:28:01,749
+No l'hi digui al meu cap
+o el voldrà pispar.
+
+453
+00:28:01,750 --> 00:28:05,833
+Anhela tot el que li agrada al rei anglès.
+
+454
+00:28:09,208 --> 00:28:11,207
+Segur que farien lliga com…
+
+455
+00:28:11,208 --> 00:28:12,665
+Vi.
+
+456
+00:28:12,666 --> 00:28:16,125
+Voldria una copa neta?
+És un vi nou. Hem passat al Mouton.
+
+457
+00:28:18,416 --> 00:28:22,958
+- Què ha passat amb el Masseto?
+- No en queda. És del 1989.
+
+458
+00:28:23,625 --> 00:28:28,875
+Si el fa patir, no és gens ranci.
+
+459
+00:28:39,958 --> 00:28:42,750
+- És clar.
+- Potser menjo peix.
+
+460
+00:29:04,458 --> 00:29:05,625
+El vi s'ha picat.
+
+461
+00:29:08,625 --> 00:29:09,708
+Sr. Lawrence.
+
+462
+00:29:10,416 --> 00:29:12,040
+Els explico una anècdota.
+
+463
+00:29:12,041 --> 00:29:16,790
+Una vegada, el meu sogre
+va fer tornar sis ampolles seguides.
+
+464
+00:29:16,791 --> 00:29:22,415
+Va resultar que un atac de feridura
+li havia fet perdre el gust.
+
+465
+00:29:22,416 --> 00:29:25,165
+Li va tornar un parell de dies més tard,
+
+466
+00:29:25,166 --> 00:29:28,958
+però van ser 20.000 £
+llençades pel <i>toilette</i>.
+
+467
+00:29:30,333 --> 00:29:33,333
+T'has plantejat
+que potser tens un atac de feridura?
+
+468
+00:29:33,833 --> 00:29:34,833
+Tens raó.
+
+469
+00:29:36,166 --> 00:29:37,250
+El vi està picat.
+
+470
+00:29:39,500 --> 00:29:41,750
+Et ve de grat escollir-ne un altre?
+
+471
+00:29:45,000 --> 00:29:47,291
+Aquí no hi ha vi italià.
+
+472
+00:29:48,583 --> 00:29:51,958
+Si ho desitges,
+puc demanar que portin un Barolo Riserva.
+
+473
+00:29:52,458 --> 00:29:55,833
+Si no et sembla que seria
+una mica massa… contundent.
+
+474
+00:29:57,208 --> 00:29:59,165
+No t'agrada el vi italià, eh?
+
+475
+00:29:59,166 --> 00:30:01,999
+Al contrari.
+El Masseto m'ha semblat digne.
+
+476
+00:30:02,000 --> 00:30:04,499
+Has dit "contundent" fent una ganyota.
+
+477
+00:30:04,500 --> 00:30:07,749
+Com si el vi italià
+no fos tan bo com el francès.
+
+478
+00:30:07,750 --> 00:30:12,749
+El vi francès acostuma a superar l'italià.
+Els italians fan de mona d'imitació
+
+479
+00:30:12,750 --> 00:30:15,750
+on els francesos fa 800 anys
+que s'enduen la palma.
+
+480
+00:30:17,208 --> 00:30:18,250
+"Mona"?
+
+481
+00:30:20,333 --> 00:30:21,500
+Com un mico?
+
+482
+00:30:22,416 --> 00:30:25,375
+El Barolo Riserva
+et sembla un vi de micos?
+
+483
+00:30:25,875 --> 00:30:27,165
+No ho he dit pas.
+
+484
+00:30:27,166 --> 00:30:29,582
+Amic, em sap greu, però ho has dit.
+
+485
+00:30:29,583 --> 00:30:35,833
+Et penses que el vi italià és inferior,
+només digne que se'l beguin els micos.
+
+486
+00:30:36,708 --> 00:30:38,290
+Potser tens raó.
+
+487
+00:30:38,291 --> 00:30:41,416
+Jo només dic
+que els italians van inventar el vi.
+
+488
+00:30:42,000 --> 00:30:44,999
+Els francesos feien mamades als seus ases
+
+489
+00:30:45,000 --> 00:30:48,624
+quan els romans van arribar
+i els van ensenyar viticultura.
+
+490
+00:30:48,625 --> 00:30:52,750
+Si no fos per nosaltres,
+els francesos beurien el seu pixum.
+
+491
+00:30:54,041 --> 00:30:55,125
+Exquisit.
+
+492
+00:30:56,250 --> 00:30:58,125
+El vi no estava picat, Cico.
+
+493
+00:31:00,250 --> 00:31:02,832
+Era el millor vi del vespre i ho saps.
+
+494
+00:31:02,833 --> 00:31:06,250
+- Dubtes del meu parer?
+- Sí.
+
+495
+00:31:07,333 --> 00:31:08,499
+No estava picat.
+
+496
+00:31:08,500 --> 00:31:11,791
+Si dic que estava picat, és que ho estava.
+
+497
+00:31:12,750 --> 00:31:17,666
+Soc italià i el meu llinatge
+arriba als temps de Michelangelo.
+
+498
+00:31:19,125 --> 00:31:22,582
+Insisteixo, dubtes del meu parer?
+
+499
+00:31:22,583 --> 00:31:27,957
+No és indiscutible. Vas regalar un tigre
+a la teva xicota pel seu aniversari.
+
+500
+00:31:27,958 --> 00:31:31,291
+I jo de tu
+no faria comèdia amb el llinatge.
+
+501
+00:31:32,166 --> 00:31:33,958
+Ara tinc sang de camperol?
+
+502
+00:31:35,625 --> 00:31:36,958
+Ai, Cico.
+
+503
+00:31:37,625 --> 00:31:43,083
+Si fossis un pagès o un aristòcrata,
+au, però no ets ni una cosa ni l'altra.
+
+504
+00:31:43,958 --> 00:31:46,791
+Vas néixer al fangar de la mediocritat.
+
+505
+00:31:47,291 --> 00:31:50,290
+Ets un poca-solta,
+fill d'un venedor de cotxes
+
+506
+00:31:50,291 --> 00:31:55,375
+que es va enriquir venent
+Fiat 500s de segona mà a Torí.
+
+507
+00:31:59,958 --> 00:32:03,958
+Aneu a la merda tu
+i tots els teus ancestres morts.
+
+508
+00:32:21,708 --> 00:32:23,375
+Ves amb compte, Cico.
+
+509
+00:32:25,833 --> 00:32:27,041
+Bona nit.
+
+510
+00:33:01,750 --> 00:33:02,833
+El duc és aquí.
+
+511
+00:33:06,791 --> 00:33:10,750
+Posa un parell de tudons
+al cotxe de Lord Hawthorne amb la resta.
+
+512
+00:33:11,250 --> 00:33:12,541
+I afegeix això.
+
+513
+00:33:13,125 --> 00:33:14,915
+Una doble màgnum de Petrus?
+
+514
+00:33:14,916 --> 00:33:16,415
+Segur que li fa peça.
+
+515
+00:33:16,416 --> 00:33:17,791
+Me n'encarrego.
+
+516
+00:33:18,541 --> 00:33:19,875
+Quan puguis, Geoff.
+
+517
+00:33:27,125 --> 00:33:30,791
+- Has solucionat les coses amb l'italià?
+- És un destraler.
+
+518
+00:33:31,291 --> 00:33:33,374
+Allò del quadre em fa mala espina.
+
+519
+00:33:33,375 --> 00:33:36,665
+Només tenim la seva paraula
+que arribarà al seu destí.
+
+520
+00:33:36,666 --> 00:33:40,958
+Sé que no el vols comprar.
+En tot cas, hem de parlar amb mon pare.
+
+521
+00:33:42,833 --> 00:33:44,750
+Has tret res de Lord Hawthorne?
+
+522
+00:33:46,291 --> 00:33:49,125
+- Tenim un número.
+- Et dec un Happy Meal?
+
+523
+00:33:49,833 --> 00:33:51,625
+Però té una condició.
+
+524
+00:33:52,208 --> 00:33:53,166
+Una condició?
+
+525
+00:33:53,750 --> 00:33:55,875
+En Jack l'interessa.
+
+526
+00:33:56,458 --> 00:33:58,499
+Quina mena d'interès té?
+
+527
+00:33:58,500 --> 00:33:59,916
+Un d'antropològic.
+
+528
+00:34:00,791 --> 00:34:02,124
+Què vol dir?
+
+529
+00:34:02,125 --> 00:34:02,958
+Vejam,
+
+530
+00:34:03,958 --> 00:34:07,374
+el vol convidar a sopar, potser a l'òpera.
+
+531
+00:34:07,375 --> 00:34:09,458
+I després, ja m'entens,
+
+532
+00:34:09,958 --> 00:34:11,333
+pelar-se-la una estona.
+
+533
+00:34:13,791 --> 00:34:15,415
+No hi veig inconvenient.
+
+534
+00:34:15,416 --> 00:34:19,583
+Li diràs al pare que el seu fill
+ha d'ajudar un noble a escórrer-se.
+
+535
+00:34:21,583 --> 00:34:22,916
+Jo me n'encarrego.
+
+536
+00:34:31,375 --> 00:34:33,958
+Has sentit a parlar del mite del <i>bannik</i>?
+
+537
+00:34:35,041 --> 00:34:35,875
+Sí.
+
+538
+00:34:36,958 --> 00:34:42,082
+L'esperit metamòrfic que freqüentava
+les saunes del nord d'Europa.
+
+539
+00:34:42,083 --> 00:34:45,625
+Segons diuen les llegendes, el <i>bannik</i> és…
+
+540
+00:34:46,458 --> 00:34:49,250
+un esperit entremaliat.
+
+541
+00:34:50,375 --> 00:34:57,291
+De vegades, apareix en forma d'homenet nu
+que es toca la barba i fuma una pipa.
+
+542
+00:34:57,791 --> 00:34:59,583
+Però has d'anar amb compte
+
+543
+00:35:00,125 --> 00:35:03,416
+que no convidis a casa
+esperits d'una altra naturalesa.
+
+544
+00:35:04,083 --> 00:35:09,290
+Si li demanes consell, l'has de compensar.
+
+545
+00:35:09,291 --> 00:35:13,625
+Si no, pot fer tota mena de trapelleries.
+
+546
+00:35:14,833 --> 00:35:16,041
+Per sort,
+
+547
+00:35:17,083 --> 00:35:18,208
+existeixen
+
+548
+00:35:19,208 --> 00:35:22,915
+alguns rituals
+que pots fer servir per aplacar el <i>bannik</i>.
+
+549
+00:35:22,916 --> 00:35:28,249
+Són una sèrie de rituals
+com ofegar una gallina de plomes negres
+
+550
+00:35:28,250 --> 00:35:31,790
+i enterrar-ne el cadàver sense esplomar
+sota la teva sauna.
+
+551
+00:35:31,791 --> 00:35:33,375
+També pots, simplement,
+
+552
+00:35:34,041 --> 00:35:37,708
+oferir-li una branca d'avet
+quan hagis acabat el bany de vapor
+
+553
+00:35:38,291 --> 00:35:39,833
+i donar-li les gràcies.
+
+554
+00:35:40,500 --> 00:35:42,875
+Però t'has d'assegurar de compensar-lo.
+
+555
+00:35:43,875 --> 00:35:47,249
+Aviam, el <i>bannik</i> té la seva utilitat.
+
+556
+00:35:47,250 --> 00:35:48,790
+En quin sentit, pare?
+
+557
+00:35:48,791 --> 00:35:51,000
+Pot predir el futur.
+
+558
+00:35:53,750 --> 00:35:55,166
+Us ensenyaré com es fa.
+
+559
+00:35:57,666 --> 00:36:00,249
+Et col·loques d'esquena a la caldera
+
+560
+00:36:00,250 --> 00:36:03,000
+i la deixes mig oberta.
+
+561
+00:36:03,666 --> 00:36:07,540
+Li fas la pregunta que vols al <i>bannik</i>,
+
+562
+00:36:07,541 --> 00:36:13,082
+però no te la respondrà directament.
+
+563
+00:36:13,083 --> 00:36:15,708
+No parla, només pot tocar.
+
+564
+00:36:16,541 --> 00:36:18,124
+Si és un bon averany,
+
+565
+00:36:18,125 --> 00:36:21,916
+notaràs com et toca
+l'esquena amb la maneta.
+
+566
+00:36:22,583 --> 00:36:24,416
+Si és un mal averany,
+
+567
+00:36:24,916 --> 00:36:27,916
+t'esgarraparà amb les urpetes esmolades.
+
+568
+00:36:30,500 --> 00:36:32,415
+Quina pregunta li vas fer?
+
+569
+00:36:32,416 --> 00:36:37,582
+Li vaig preguntar per la irrupció
+d'en Marco Moretti, el cap de la màfia,
+
+570
+00:36:37,583 --> 00:36:39,749
+i de tot aquest tema del quadre.
+
+571
+00:36:39,750 --> 00:36:43,416
+Ja. I què va respondre el <i>bannik</i>, Bobby?
+
+572
+00:36:45,541 --> 00:36:48,500
+Li compro el Botticelli
+a en Marco Moretti?
+
+573
+00:36:55,000 --> 00:36:58,750
+El <i>bannik</i> em va fer
+una fregada d'esquena de puta mare.
+
+574
+00:37:00,083 --> 00:37:02,707
+Interpreto
+que li has de comprar el quadre.
+
+575
+00:37:02,708 --> 00:37:04,165
+M'amoïna que,
+
+576
+00:37:04,166 --> 00:37:08,332
+tot i que hem començat
+amb molt bon peu a Itàlia,
+
+577
+00:37:08,333 --> 00:37:11,083
+no podem fiar-nos d'en Cico,
+que és un deixat.
+
+578
+00:37:11,708 --> 00:37:15,082
+Si soluciona el tema amb en Moretti,
+
+579
+00:37:15,083 --> 00:37:17,040
+estarà fent bé la feina.
+
+580
+00:37:17,041 --> 00:37:19,416
+Compreu-li el quadre, collons!
+
+581
+00:37:20,000 --> 00:37:22,750
+El <i>bannik</i> ha parlat, entesos?
+
+582
+00:37:24,208 --> 00:37:25,790
+Clar i net.
+
+583
+00:37:25,791 --> 00:37:28,291
+Doncs sortim a fer un cafetó.
+
+584
+00:37:35,500 --> 00:37:36,915
+- Georgie?
+- Digui.
+
+585
+00:37:36,916 --> 00:37:40,707
+Fes-me un <i>piccolo espresso</i>
+amb la Marzocco i porta'l a la sauna.
+
+586
+00:37:40,708 --> 00:37:43,041
+- Me n'ocupo. De seguida.
+- Fantàstic.
+
+587
+00:37:48,208 --> 00:37:51,124
+Sé que veieu en Cico amb reticència,
+
+588
+00:37:51,125 --> 00:37:52,916
+però és al terreny.
+
+589
+00:37:53,666 --> 00:37:55,958
+Vull que col·laboreu amb ell.
+
+590
+00:37:56,541 --> 00:37:58,957
+- Sense problemes, papa.
+- Sí.
+
+591
+00:37:58,958 --> 00:38:01,957
+Com va el pla
+d'accedir a la Cambra dels Lords?
+
+592
+00:38:01,958 --> 00:38:04,749
+Un cop resolt
+allò d'en Jack i Lord Hawthorne…
+
+593
+00:38:04,750 --> 00:38:09,290
+Segur que ho podem aconseguir.
+És la persona adequada per parlar-ne.
+
+594
+00:38:09,291 --> 00:38:10,500
+Me n'alegro.
+
+595
+00:38:11,125 --> 00:38:12,416
+Et necessito a dins.
+
+596
+00:38:13,000 --> 00:38:16,832
+Ens carregarem aquesta llei.
+Sense condicions ni peròs.
+
+597
+00:38:16,833 --> 00:38:19,708
+I res, que aquí se'm congelen els ous.
+
+598
+00:38:21,208 --> 00:38:24,915
+Entraré a beure'm el <i>piccolo espresso</i>.
+
+599
+00:38:24,916 --> 00:38:27,374
+- Aneu-me informant.
+- És clar.
+
+600
+00:38:27,375 --> 00:38:28,625
+T'estimo, reina.
+
+601
+00:38:33,791 --> 00:38:35,624
+Va de mal en pitjor, Susan.
+
+602
+00:38:35,625 --> 00:38:38,249
+Només t'aixeca la camisa. Fa broma.
+
+603
+00:38:38,250 --> 00:38:41,415
+Pren decisions
+aconsellat per una criatura mítica.
+
+604
+00:38:41,416 --> 00:38:43,374
+Ja t'ho he dit, fa broma.
+
+605
+00:38:43,375 --> 00:38:47,457
+<i>Senyores i senyors, els donem
+una calorosa benvinguda a la subhasta.</i>
+
+606
+00:38:47,458 --> 00:38:50,707
+<i>Començarem per un quadre molt especial d'un mestre,</i>
+
+607
+00:38:50,708 --> 00:38:53,957
+<i>el</i> Mare de Déu i Nen entronitzats
+<i>de Botticelli.</i>
+
+608
+00:38:53,958 --> 00:38:56,624
+N'han estat propietaris el rei Felip II,
+
+609
+00:38:56,625 --> 00:38:58,249
+el duc d'Orleans
+
+610
+00:38:58,250 --> 00:38:59,750
+i Lluís XV.
+
+611
+00:39:00,500 --> 00:39:02,791
+- Susie!
+- És d'un col·leccionista anònim.
+
+612
+00:39:03,750 --> 00:39:05,500
+Fa segles que no et veia.
+
+613
+00:39:06,000 --> 00:39:08,915
+Quant de temps, Joseph.
+Et presento n'Eddie.
+
+614
+00:39:08,916 --> 00:39:10,582
+- Joe Green.
+- Encantat.
+
+615
+00:39:10,583 --> 00:39:12,707
+- El món de l'art, eh?
+- Avui sí.
+
+616
+00:39:12,708 --> 00:39:15,582
+- Què fas a <i>Inglaterra</i>?
+- Vendre uns quadres.
+
+617
+00:39:15,583 --> 00:39:18,415
+- En col·lecciones?
+- Ajuda a moure diners.
+
+618
+00:39:18,416 --> 00:39:20,915
+Va començar així, però m'hi he aficionat.
+
+619
+00:39:20,916 --> 00:39:23,874
+Espero que no competim pel Botticelli.
+
+620
+00:39:23,875 --> 00:39:27,582
+No cal patir.
+El primer Renaixement no m'entusiasma.
+
+621
+00:39:27,583 --> 00:39:28,958
+- Ja.
+- I ton germà?
+
+622
+00:39:29,750 --> 00:39:33,665
+- Bé. És a fora. Saluda'l.
+- Ho faré.
+
+623
+00:39:33,666 --> 00:39:34,874
+Com està ton pare?
+
+624
+00:39:34,875 --> 00:39:38,624
+Li toquen deu anys,
+però sortirà per bon comportament.
+
+625
+00:39:38,625 --> 00:39:43,290
+- Massa temps per només herba, no?
+- No, va acabar a presó pels impostos.
+
+626
+00:39:43,291 --> 00:39:44,582
+Tothom hi cau.
+
+627
+00:39:44,583 --> 00:39:46,750
+Doncs dona-li records de part meva.
+
+628
+00:39:47,458 --> 00:39:48,500
+Mateix número?
+
+629
+00:39:49,458 --> 00:39:50,915
+Si em truques, ho sabràs.
+
+630
+00:39:50,916 --> 00:39:52,333
+Potser ho faig.
+
+631
+00:39:53,333 --> 00:39:54,583
+Potser m'agradaria.
+
+632
+00:39:56,333 --> 00:39:57,416
+Edward.
+
+633
+00:39:58,916 --> 00:40:02,916
+- Quin intercanvi tan emotiu.
+- Com?
+
+634
+00:40:03,500 --> 00:40:06,208
+Imagino que teniu un passat en comú.
+
+635
+00:40:06,791 --> 00:40:09,416
+- No cal que en parlem.
+- En parlarem.
+
+636
+00:40:10,041 --> 00:40:12,624
+- És molt atractiu.
+- Deixem estar el tema.
+
+637
+00:40:12,625 --> 00:40:14,624
+- Té una bona verga?
+- Eddie!
+
+638
+00:40:14,625 --> 00:40:16,082
+Si estan llestos,
+
+639
+00:40:16,083 --> 00:40:21,665
+començarem a licitar
+l'esplèndid Botticelli a la meva esquerra:
+
+640
+00:40:21,666 --> 00:40:24,000
+<i>Mare de Déu i Nen entronitzats</i>.
+
+641
+00:40:25,208 --> 00:40:26,833
+Senyores i senyors,
+
+642
+00:40:27,583 --> 00:40:30,082
+començarem amb dos milions de lliures.
+
+643
+00:40:30,083 --> 00:40:32,165
+Em sembla que l'interesses.
+
+644
+00:40:32,166 --> 00:40:33,832
+- Gràcies.
+- Deixa-ho.
+
+645
+00:40:33,833 --> 00:40:35,624
+- Dos i mig.
+- Sexualment.
+
+646
+00:40:35,625 --> 00:40:40,207
+- Prou.
+- Dos i mig. Gràcies. Tres milions?
+
+647
+00:40:40,208 --> 00:40:42,374
+- Et trucarà.
+- He dit que prou.
+
+648
+00:40:42,375 --> 00:40:45,124
+- T'ajudaria. Segur que fa temps.
+- Tres i mig.
+
+649
+00:40:45,125 --> 00:40:49,332
+- No pateixis, que vaig bé.
+- He notat química entre vosaltres.
+
+650
+00:40:49,333 --> 00:40:52,249
+Quatre milions.
+Gràcies. Veig quatre milions.
+
+651
+00:40:52,250 --> 00:40:54,415
+- Quatre i mig. Gràcies.
+- Gelós?
+
+652
+00:40:54,416 --> 00:40:57,415
+- Quatre i mig. Cinc milions.
+- Fot-li, reina.
+
+653
+00:40:57,416 --> 00:41:01,374
+Cinc milions a primera fila.
+La veig, senyora. Cinc i mig.
+
+654
+00:41:01,375 --> 00:41:02,874
+Més ofertes?
+
+655
+00:41:02,875 --> 00:41:04,707
+Sis milions de lliures.
+
+656
+00:41:04,708 --> 00:41:05,916
+Sis milions.
+
+657
+00:41:06,500 --> 00:41:08,040
+Sis milions.
+
+658
+00:41:08,041 --> 00:41:11,582
+- Això s'escalfa, Susan.
+- Percebo la temperatura.
+
+659
+00:41:11,583 --> 00:41:14,040
+<i>Set milions. La veig, senyora. Set.</i>
+
+660
+00:41:14,041 --> 00:41:16,165
+Tu manes. Jo, encantat d'ajudar.
+
+661
+00:41:16,166 --> 00:41:18,207
+- Gràcies.
+- Nou milions.
+
+662
+00:41:18,208 --> 00:41:21,332
+Espero que no et deixis endur
+per la competitivitat.
+
+663
+00:41:21,333 --> 00:41:23,415
+La senyora ofereix nou milions.
+
+664
+00:41:23,416 --> 00:41:25,207
+- Deu milions.
+- Cagondena!
+
+665
+00:41:25,208 --> 00:41:27,499
+<i>Deu milions. La dama n'ofereix deu.</i>
+
+666
+00:41:27,500 --> 00:41:30,332
+- T'estàs encegant, Susie.
+- Onze. Gràcies.
+
+667
+00:41:30,333 --> 00:41:31,875
+I tu no ajudes.
+
+668
+00:41:33,041 --> 00:41:35,041
+<i>La licitació va per onze milions.</i>
+
+669
+00:41:36,958 --> 00:41:40,499
+Dotze milions. Gràcies.
+Tenim dotze milions de lliures.
+
+670
+00:41:40,500 --> 00:41:42,624
+<i>Dotze milions de lliures.</i>
+
+671
+00:41:42,625 --> 00:41:44,207
+Qui n'ofereix tretze?
+
+672
+00:41:44,208 --> 00:41:46,082
+Tretze milions. Gràcies.
+
+673
+00:41:46,083 --> 00:41:48,666
+La dama ofereix tretze milions, senyor.
+
+674
+00:41:49,250 --> 00:41:50,957
+- Ja comencem.
+- Tretze.
+
+675
+00:41:50,958 --> 00:41:52,832
+Senyora. Algú amb catorze?
+
+676
+00:41:52,833 --> 00:41:54,750
+Papa, ja va per tretze.
+
+677
+00:41:55,458 --> 00:41:57,290
+Has de comprar el quadre.
+
+678
+00:41:57,291 --> 00:42:01,665
+<i>Necessitem els italians.
+Si volen una obra mestra, aconsegueix-la.</i>
+
+679
+00:42:01,666 --> 00:42:03,665
+Catorze milions? Els tenim.
+
+680
+00:42:03,666 --> 00:42:07,458
+- <i>Havia de costar sis milions</i>.
+- No sé ni per què en parlem.
+
+681
+00:42:08,291 --> 00:42:09,415
+<i>Ho va dir el</i> bannik<i>.</i>
+
+682
+00:42:09,416 --> 00:42:11,415
+- Collons.
+- Va per catorze.
+
+683
+00:42:11,416 --> 00:42:14,707
+- Susie.
+- <i>Em volia relaxar i estic crispat.</i>
+
+684
+00:42:14,708 --> 00:42:16,415
+Compreu el coi de quadre!
+
+685
+00:42:16,416 --> 00:42:19,082
+- Catorze milions.
+- Fills de puta!
+
+686
+00:42:19,083 --> 00:42:21,124
+- Parlàvem de sis.
+- La comprarem.
+
+687
+00:42:21,125 --> 00:42:22,874
+Quinze milions. Gràcies.
+
+688
+00:42:22,875 --> 00:42:25,624
+- Quinze milions. Algú ofereix…?
+- I mig.
+
+689
+00:42:25,625 --> 00:42:29,624
+- Quinze i mig. Gràcies.
+- Susie, no piquis l'ham.
+
+690
+00:42:29,625 --> 00:42:30,874
+<i>El senyor.</i>
+
+691
+00:42:30,875 --> 00:42:32,708
+- Algú n'ofereix setze?
+- Susan.
+
+692
+00:42:34,666 --> 00:42:36,249
+A l'una.
+
+693
+00:42:36,250 --> 00:42:38,291
+A les dues.
+
+694
+00:42:39,458 --> 00:42:40,333
+Susan.
+
+695
+00:42:41,291 --> 00:42:45,125
+Setze milions de lliures pel Botticelli.
+
+696
+00:42:45,625 --> 00:42:46,750
+I mig, senyor?
+
+697
+00:42:47,333 --> 00:42:50,416
+Última oportunitat.
+Setze milions de lliures.
+
+698
+00:42:51,916 --> 00:42:55,041
+Venut per setze milions.
+Moltes gràcies, senyora.
+
+699
+00:42:55,875 --> 00:42:57,375
+Fantàstic.
+
+700
+00:42:57,958 --> 00:43:01,250
+És molt demanar,
+però no em toquis el cony amb el tema.
+
+701
+00:43:07,500 --> 00:43:09,290
+Eddie. Bones notícies?
+
+702
+00:43:09,291 --> 00:43:12,666
+Tenim el quadre.
+L'hi volem donar a en Marco en persona.
+
+703
+00:43:13,250 --> 00:43:14,874
+En Marco va enfeinat.
+
+704
+00:43:14,875 --> 00:43:17,250
+És com aconseguir cita amb el papa.
+
+705
+00:43:18,916 --> 00:43:22,832
+Hem gastat setze milions
+en un quadre que n'havia de costar sis.
+
+706
+00:43:22,833 --> 00:43:24,415
+Troba'ns una puta cita.
+
+707
+00:43:24,416 --> 00:43:26,415
+<i>Entesos.</i>
+
+708
+00:43:26,416 --> 00:43:28,790
+<i>Parlaré amb ell i després us truco.</i>
+
+709
+00:43:28,791 --> 00:43:30,291
+Sí, arranja-ho.
+
+710
+00:43:30,958 --> 00:43:32,541
+- Susie!
+- Merda!
+
+711
+00:43:38,875 --> 00:43:40,125
+Jack, el quadre!
+
+712
+00:43:41,125 --> 00:43:42,250
+Hòstia!
+
+713
+00:43:43,000 --> 00:43:44,540
+Collons, entra al cotxe!
+
+714
+00:43:44,541 --> 00:43:45,666
+- Merda!
+- Entra-hi!
+
+715
+00:43:52,166 --> 00:43:53,083
+Ves a pastar!
+
+716
+00:43:54,583 --> 00:43:56,458
+Som-hi! Cagondeu!
+
+717
+00:43:58,333 --> 00:44:00,000
+Posa't l'orellera, Jack.
+
+718
+00:44:04,833 --> 00:44:07,416
+No podem perdre el coi de quadre.
+
+719
+00:44:12,250 --> 00:44:14,832
+Mira si el pots avançar baixant l'escala.
+
+720
+00:44:14,833 --> 00:44:16,041
+Buchanan Street.
+
+721
+00:44:17,041 --> 00:44:20,458
+Van cap a Buchanan.
+Gira a la dreta, aviam si els cacem.
+
+722
+00:44:28,583 --> 00:44:29,416
+A cagar!
+
+723
+00:44:30,666 --> 00:44:32,125
+A l'esquerra, Eddie.
+
+724
+00:44:35,333 --> 00:44:36,583
+Un de menys!
+
+725
+00:44:40,208 --> 00:44:42,416
+Esquerra. Atalla per Lower Robert Street.
+
+726
+00:44:48,416 --> 00:44:49,375
+Afanya't, Jack.
+
+727
+00:44:51,375 --> 00:44:54,583
+Drecera per a motos a la dreta.
+Els pots atrapar.
+
+728
+00:45:01,416 --> 00:45:03,208
+Dos fora, en queden dos.
+
+729
+00:45:10,500 --> 00:45:13,541
+Han caigut tots
+excepte el que té el quadre, hòstia!
+
+730
+00:45:18,666 --> 00:45:19,916
+Vine!
+
+731
+00:45:23,416 --> 00:45:25,833
+Tens deu segons
+per donar-me un nom satisfactori.
+
+732
+00:45:26,500 --> 00:45:27,540
+O què?
+
+733
+00:45:27,541 --> 00:45:30,458
+Què faràs?
+Menja'm el melindro, esnob merdós.
+
+734
+00:45:33,666 --> 00:45:34,666
+Que et bombin!
+
+735
+00:45:35,333 --> 00:45:38,708
+Menja'm el meu, desvergonyit merdós.
+
+736
+00:45:39,333 --> 00:45:40,457
+Fem una cosa.
+
+737
+00:45:40,458 --> 00:45:44,708
+I si li escrius un nom satisfactori
+i ningú no ha de menjar titoles?
+
+738
+00:45:58,291 --> 00:46:00,791
+L'ortografia esfereeix. És una P o una B?
+
+739
+00:46:02,000 --> 00:46:03,582
+- B…
+- Suposo que hi diu…
+
+740
+00:46:03,583 --> 00:46:05,000
+Robert Brooks?
+
+741
+00:46:05,500 --> 00:46:06,457
+Sí?
+
+742
+00:46:06,458 --> 00:46:07,790
+El famós marxant?
+
+743
+00:46:07,791 --> 00:46:09,790
+Sí, soc jo.
+
+744
+00:46:09,791 --> 00:46:11,166
+Podem parlar un moment?
+
+745
+00:46:14,541 --> 00:46:17,415
+Has contractat
+uns gamberros per robar el quadre.
+
+746
+00:46:17,416 --> 00:46:19,790
+Soc marxant, no un geni del mal.
+
+747
+00:46:19,791 --> 00:46:21,415
+Però no ho entenc.
+
+748
+00:46:21,416 --> 00:46:25,166
+Si volies robar el quadre,
+per què en vas apujar el preu?
+
+749
+00:46:25,833 --> 00:46:30,583
+T'ho juro, no ho feia. Treballava
+en nom d'un comprador acreditat.
+
+750
+00:46:32,583 --> 00:46:34,333
+- Tot bé, germaneta?
+- Jack.
+
+751
+00:46:35,208 --> 00:46:36,375
+Aquest qui és?
+
+752
+00:46:37,833 --> 00:46:39,500
+Qui és?
+
+753
+00:46:48,500 --> 00:46:49,666
+Podem parlar?
+
+754
+00:46:54,541 --> 00:46:57,124
+- Què coi hi pinta, aquí?
+- No he estat jo.
+
+755
+00:46:57,125 --> 00:47:01,082
+El duc ha demanat que el porti.
+Oi que has demanat resultats?
+
+756
+00:47:01,083 --> 00:47:04,082
+Sí, però no un cadàver mutilat.
+
+757
+00:47:04,083 --> 00:47:07,041
+Va matar un paio
+d'un cop de puny al fetge.
+
+758
+00:47:07,541 --> 00:47:09,541
+Li presento en John Òrgans?
+
+759
+00:47:10,041 --> 00:47:11,958
+Ho estem decidint, rei.
+
+760
+00:47:15,250 --> 00:47:19,625
+- Vols que et presenti en John Òrgans?
+- No ho sé. Qui és?
+
+761
+00:47:21,500 --> 00:47:23,582
+En John Òrgans és en John Òrgans.
+
+762
+00:47:23,583 --> 00:47:26,415
+En John
+parla de si mateix en tercera persona.
+
+763
+00:47:26,416 --> 00:47:29,832
+Et deixo descobrir
+perquè li diem "John Òrgans".
+
+764
+00:47:29,833 --> 00:47:33,458
+- En fi, aconsegueix resultats.
+- Qui coi és en John Òrgans?
+
+765
+00:47:36,916 --> 00:47:38,499
+T'ho diré sense embuts.
+
+766
+00:47:38,500 --> 00:47:42,625
+En John és la solució definitiva
+a un problema temporal.
+
+767
+00:47:44,916 --> 00:47:48,332
+Amb un cop seu, t'ofegaràs des de dins.
+
+768
+00:47:48,333 --> 00:47:51,833
+Tindrem temps de sobres
+per extreure't les dades que necessitem.
+
+769
+00:47:52,500 --> 00:47:57,000
+És desagradable veure algú
+anar-se'n al sot de forma tan inelegant.
+
+770
+00:48:02,125 --> 00:48:04,083
+A la merda!
+
+771
+00:48:04,666 --> 00:48:08,583
+No ha estat idea meva.
+Només li feia un favor a un amic.
+
+772
+00:48:09,166 --> 00:48:10,833
+De quin amic es tracta?
+
+773
+00:48:13,541 --> 00:48:15,041
+Com es diu?
+
+774
+00:48:15,583 --> 00:48:17,083
+És un italià fatxenda.
+
+775
+00:48:18,708 --> 00:48:20,125
+Es fa dir Gino de Bambi.
+
+776
+00:48:25,083 --> 00:48:29,290
+Per casualitats de la vida,
+aquest no deu ser en Gino de Bambi?
+
+777
+00:48:29,291 --> 00:48:32,375
+Sí, és en Gino de Bambi.
+
+778
+00:48:44,750 --> 00:48:47,833
+ITÀLIA
+LLAC MAGGIORE
+
+779
+00:49:00,916 --> 00:49:04,166
+PALAU DE LA COMTESSA ISABELLA
+
+780
+00:49:22,041 --> 00:49:23,208
+Hola?
+
+781
+00:49:24,416 --> 00:49:25,790
+<i>Buongiorno</i>.
+
+782
+00:49:25,791 --> 00:49:27,957
+El cap farà tard a la cita.
+
+783
+00:49:27,958 --> 00:49:32,166
+Els puc oferir un Campari
+o el que sigui fins que arribi?
+
+784
+00:49:32,583 --> 00:49:35,000
+- Ja que som al llac Maggiore…
+- <i>Grazie</i>.
+
+785
+00:49:37,333 --> 00:49:38,875
+Quines vistes.
+
+786
+00:49:40,208 --> 00:49:42,290
+No barregis el negoci i el plaer.
+
+787
+00:49:42,291 --> 00:49:45,165
+No, em limitava a admirar el paisatge.
+
+788
+00:49:45,166 --> 00:49:51,125
+No, t'imaginaves com seria esmorzar aquí
+després d'una nit fogosa amb la comtessa.
+
+789
+00:49:51,833 --> 00:49:54,708
+Què t'agrada? Llenceria Fleur du Mal?
+
+790
+00:49:55,208 --> 00:49:57,416
+Un conjunt color bordeus?
+
+791
+00:49:57,916 --> 00:49:59,500
+O potser beix i blanc?
+
+792
+00:50:00,000 --> 00:50:04,750
+De fet, m'imagino quelcom de més ambiciós.
+Un negligé negre de La Perla.
+
+793
+00:50:05,250 --> 00:50:07,708
+El clàssic de seda, d'estètica diàfana.
+
+794
+00:50:08,875 --> 00:50:12,749
+- Molt concret, Edward.
+- Soc de gustos específics, Susan.
+
+795
+00:50:12,750 --> 00:50:14,874
+I com t'assegures de satisfer-los?
+
+796
+00:50:14,875 --> 00:50:16,333
+Soc capità.
+
+797
+00:50:17,250 --> 00:50:18,750
+Estic acostumat a manar.
+
+798
+00:50:19,916 --> 00:50:23,208
+Segur que està receptiva i llesta
+per deixar-se manar.
+
+799
+00:50:26,291 --> 00:50:27,375
+Ja arriba.
+
+800
+00:50:30,083 --> 00:50:30,916
+Eddie.
+
+801
+00:50:31,708 --> 00:50:33,916
+- <i>Buongiorno.</i>
+- <i>Buongiorno</i>, Susie.
+
+802
+00:50:34,583 --> 00:50:36,875
+Perdoneu la meva impuntualitat.
+
+803
+00:50:37,375 --> 00:50:41,208
+Espero que el personal us hagi tractat bé.
+
+804
+00:50:41,791 --> 00:50:46,165
+- Ens han cuidat molt. Gràcies.
+- On és ta glamurosa xicota, la Bella?
+
+805
+00:50:46,166 --> 00:50:50,957
+Avui és a Montecarlo
+i demà volarà a París.
+
+806
+00:50:50,958 --> 00:50:53,082
+L'amfitriona que no és mai a casa.
+
+807
+00:50:53,083 --> 00:50:56,333
+I on és el Sr. Moretti?
+
+808
+00:50:57,416 --> 00:51:00,124
+Doncs mira, Eddie, no vindrà.
+
+809
+00:51:00,125 --> 00:51:02,665
+Com la meva xicota, va enfeinat.
+
+810
+00:51:02,666 --> 00:51:06,915
+No ha estat l'operació més senzilla.
+Aquí tenim la recompensa.
+
+811
+00:51:06,916 --> 00:51:09,958
+Haver pagat haurà valgut la pena.
+Li encantarà.
+
+812
+00:51:10,708 --> 00:51:13,790
+Ahir a la nit em va dir
+que adorava el Botticelli.
+
+813
+00:51:13,791 --> 00:51:16,708
+Lamenta no haver-lo comprat
+quan se subhastava.
+
+814
+00:51:17,458 --> 00:51:21,165
+Perfecte, però llàstima
+que no hagi pogut venir en persona.
+
+815
+00:51:21,166 --> 00:51:22,000
+Ja ho sé.
+
+816
+00:51:22,500 --> 00:51:25,208
+Però mira, amic meu.
+
+817
+00:51:25,958 --> 00:51:31,415
+Si vols, em pots deixar el quadre.
+Procuraré que rebi el teu elegant regal.
+
+818
+00:51:31,416 --> 00:51:35,416
+Preferim donar-l'hi nosaltres,
+ja que hem pagat tants diners.
+
+819
+00:51:36,083 --> 00:51:38,041
+És un home atrafegat.
+
+820
+00:51:38,541 --> 00:51:42,249
+Sé quines paraules fer servir amb ell.
+
+821
+00:51:42,250 --> 00:51:44,540
+Com escollir el moment oportú.
+
+822
+00:51:44,541 --> 00:51:48,083
+I obrirà les cames
+com en el pas de la mar Roja.
+
+823
+00:51:50,041 --> 00:51:52,874
+Oi que no l'has fet venir
+en cap moment, Cico?
+
+824
+00:51:52,875 --> 00:51:56,250
+O prefereixes que et digui Gino de Bambi?
+
+825
+00:52:02,416 --> 00:52:05,582
+Perdona, és que en passa alguna?
+
+826
+00:52:05,583 --> 00:52:07,458
+Sí, en passa alguna.
+
+827
+00:52:08,500 --> 00:52:12,582
+Sabem que el quadre és cosa teva.
+Que en vas inflar el preu.
+
+828
+00:52:12,583 --> 00:52:15,374
+Que vas pagar
+uns nanos perquè ens el robessin
+
+829
+00:52:15,375 --> 00:52:18,165
+i que no el poguéssim donar a en Marco.
+
+830
+00:52:18,166 --> 00:52:22,624
+Per sort, els teus subcontractats
+són tan poc de fiar com tu.
+
+831
+00:52:22,625 --> 00:52:26,582
+La seva raó per fer-ho
+és que tot aquest assumpte és ficció.
+
+832
+00:52:26,583 --> 00:52:31,166
+Com vols que actuem d'ara endavant, Cico?
+
+833
+00:52:35,500 --> 00:52:36,375
+Molt bé.
+
+834
+00:52:41,875 --> 00:52:46,750
+Us penseu que em podeu donar ordres?
+Un parell de venedors d'enciam?
+
+835
+00:52:47,458 --> 00:52:50,791
+Us voleu enfrontar a mi?
+A tota la puta màfia?
+
+836
+00:52:51,791 --> 00:52:54,874
+Preguntem a en Marco
+a què et dediques en la màfia?
+
+837
+00:52:54,875 --> 00:52:57,583
+I com ho farem, Eddie?
+
+838
+00:52:58,875 --> 00:53:01,374
+L'hi preguntarem nosaltres.
+
+839
+00:53:01,375 --> 00:53:03,957
+És aquell que arriba, oi?
+
+840
+00:53:03,958 --> 00:53:05,416
+Em penso que sí.
+
+841
+00:53:07,250 --> 00:53:11,790
+Com que no li vas trucar,
+ho hem fet nosaltres i l'hem posat al dia.
+
+842
+00:53:11,791 --> 00:53:15,458
+Tens raó. El quadre li fa molta il·lusió.
+
+843
+00:53:16,541 --> 00:53:18,083
+Sembla que no en sabia res.
+
+844
+00:53:21,708 --> 00:53:22,583
+Merda.
+
+845
+00:53:24,125 --> 00:53:27,625
+Marco, escolta'm.
+
+846
+00:53:32,500 --> 00:53:35,207
+Fa riure. He provat a trucar-te, però…
+
+847
+00:53:35,208 --> 00:53:39,749
+Fes mutis. Ara parlen els grans.
+
+848
+00:53:39,750 --> 00:53:40,875
+Queda't allà.
+
+849
+00:53:42,791 --> 00:53:44,875
+{\an8}- Hem de parlar en privat…
+- Allà!
+
+850
+00:53:48,541 --> 00:53:51,332
+Eddie, encantat.
+Gràcies per la teva trucada.
+
+851
+00:53:51,333 --> 00:53:57,790
+Em sap greu que ens coneguem així.
+Com hauríem de resoldre aquesta situació?
+
+852
+00:53:57,791 --> 00:54:01,915
+Sr. Moretti,
+som al seu país amb les seves normes.
+
+853
+00:54:01,916 --> 00:54:06,249
+Sé que està en millor posició
+de decidir quin és el desenllaç adequat.
+
+854
+00:54:06,250 --> 00:54:08,540
+És molt magnànim de la seva part.
+
+855
+00:54:08,541 --> 00:54:10,749
+Però, segons la meva experiència,
+
+856
+00:54:10,750 --> 00:54:15,000
+la benignitat
+sempre es malinterpreta com a debilitat.
+
+857
+00:54:17,458 --> 00:54:20,041
+Cico, ets una serp.
+
+858
+00:54:20,625 --> 00:54:23,416
+Bonica de veure, fastigosa de tocar.
+
+859
+00:54:24,000 --> 00:54:27,375
+Em fa mal
+perquè farà mal a la meva fillola.
+
+860
+00:54:28,000 --> 00:54:31,041
+Em penso que no entens
+on estàs a la cadena tròfica.
+
+861
+00:54:31,958 --> 00:54:32,833
+Per tant,
+
+862
+00:54:34,125 --> 00:54:35,375
+t'ho ensenyaré.
+
+863
+00:54:51,666 --> 00:54:53,665
+Aixeco el reixat?
+
+864
+00:54:53,666 --> 00:54:55,000
+Encara no.
+
+865
+00:54:56,125 --> 00:54:58,583
+En Cico sempre ha fet merder.
+
+866
+00:54:59,625 --> 00:55:02,040
+Potser aquesta és una fi adequada.
+
+867
+00:55:02,041 --> 00:55:06,165
+D'ara endavant,
+podríem arribar a un acord.
+
+868
+00:55:06,166 --> 00:55:08,874
+- Ho agrairia, oi?
+- És clar.
+
+869
+00:55:08,875 --> 00:55:11,332
+Ha muntat una operació
+
+870
+00:55:11,333 --> 00:55:16,166
+als terrenys
+de la finca de la meva fillola.
+
+871
+00:55:16,833 --> 00:55:19,540
+Tinc entès que n'hi ha més, com aquesta?
+
+872
+00:55:19,541 --> 00:55:24,749
+Resulta que ens interessa molt
+muntar operacions similars al sud.
+
+873
+00:55:24,750 --> 00:55:30,166
+Quan sigui l'hora i amb algú de confiança.
+
+874
+00:55:31,458 --> 00:55:33,416
+Els podríem ajudar molt al sud.
+
+875
+00:55:35,916 --> 00:55:38,833
+Cinc milions al mes
+a canvi de protecció i suport?
+
+876
+00:55:47,750 --> 00:55:48,666
+Gràcies.
+
+877
+00:55:58,083 --> 00:55:59,208
+Enzo!
+
+878
+00:55:59,875 --> 00:56:01,125
+Foc!
+
+879
+00:56:07,250 --> 00:56:08,707
+Quinze.
+
+880
+00:56:08,708 --> 00:56:11,000
+PROTECCIÓ I SUPORT D'EN MARCO
+
+881
+00:56:13,875 --> 00:56:15,415
+15.000.000 ♪
+
+882
+00:56:15,416 --> 00:56:16,540
+Set i mig.
+
+883
+00:56:16,541 --> 00:56:20,582
+PROTECCIÓ I SUPORT D'EN MARCO
+7.500.000 ♪
+
+884
+00:56:20,583 --> 00:56:21,499
+Deu.
+
+885
+00:56:21,500 --> 00:56:23,125
+10.000.000 ♪
+
+886
+00:56:24,500 --> 00:56:27,375
+Es pot confiar en ell?
+
+887
+00:56:31,000 --> 00:56:32,291
+A mig camí.
+
+888
+00:56:49,250 --> 00:56:50,749
+És un plaer fer negoci.
+
+889
+00:56:50,750 --> 00:56:53,625
+Es pot confiar en el duc?
+
+890
+00:56:56,708 --> 00:56:57,541
+I tant.
+
+891
+00:57:15,125 --> 00:57:16,041
+Enzo!
+
+892
+00:57:16,166 --> 00:57:18,083
+Aixeca el reixat.
+
+893
+00:57:38,125 --> 00:57:39,083
+Ja.
+
+894
+01:00:03,750 --> 01:00:06,250
+Subtítols: Rocío Rincón Fernández
+

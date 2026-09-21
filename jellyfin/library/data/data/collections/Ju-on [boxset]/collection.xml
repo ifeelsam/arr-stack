@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Item>
+  <Added>09/05/2026 17:20:55</Added>
+  <LockData>false</LockData>
+  <Overview>Japanese horror franchise revolving around a curse born when one person dies with a deep and burning rage. Four films released in this original series from 2000 to 2003, before being rebooted twice and crossing over with the Ring series.</Overview>
+  <LocalTitle>Ju-on Collection</LocalTitle>
+  <DisplayOrder>PremiereDate</DisplayOrder>
+  <TmdbId>1972</TmdbId>
+  <CollectionItems>
+    <CollectionItem>
+      <Path>/data/movies/movie/Ju on The Beginning Of The End 2014.mp4</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/movie/Ju on Black Ghost 2009.mp4</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/movie/Ju on The Curse 2000.mp4</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/movie/Ju on The Curse 2 2000.mp4</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/movie/Ju on The Grudge 2002.mp4</Path>
+    </CollectionItem>
+    <CollectionItem>
+      <Path>/data/movies/movie/Ju On White Ghost 2009-5.1.mp4</Path>
+    </CollectionItem>
+  </CollectionItems>
+</Item>
