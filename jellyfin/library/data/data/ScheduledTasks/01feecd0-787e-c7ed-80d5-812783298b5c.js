@@ -1,0 +1,1 @@
+{"StartTimeUtc":"2026-09-29T17:22:41.7095744Z","EndTimeUtc":"2026-09-29T17:24:24.040929Z","Status":"Cancelled","Name":"HSS Daily Translation Cache","Key":"Jellyfin.Plugin.HomeScreenSections.DailyTranslationCache","Id":"01feecd0787ec7ed80d5812783298b5c"}

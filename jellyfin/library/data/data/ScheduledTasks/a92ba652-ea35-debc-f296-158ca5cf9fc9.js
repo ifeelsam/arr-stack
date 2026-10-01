@@ -1,0 +1,1 @@
+{"StartTimeUtc":"2026-09-29T17:22:41.7078905Z","EndTimeUtc":"2026-09-29T17:22:43.8021265Z","Status":"Completed","Name":"HomeScreenSections Startup","Key":"Jellyfin.Plugin.HomeScreenSections.Startup","Id":"a92ba652ea35debcf296158ca5cf9fc9"}

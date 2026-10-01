@@ -1,0 +1,105 @@
+[2026-10-01 00:00:00.008 +00:00] [INF] [68] IntroSkipper.ScheduledTasks.DetectSegmentsTask: Scheduled Task is starting
+[2026-10-01 00:00:00.014 +00:00] [INF] [68] IntroSkipper.Manager.QueueManager: Running enqueue of items in library "Shows"
+[2026-10-01 00:00:00.157 +00:00] [INF] [68] IntroSkipper.Manager.QueueManager: Running enqueue of items in library "Movies"
+[2026-10-01 00:00:00.213 +00:00] [INF] [68] IntroSkipper.Manager.QueueManager: Running enqueue of items in library "Collections"
+[2026-10-01 00:00:00.354 +00:00] [INF] [68] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Detect and Analyze Media Segments" Completed after 0 minute(s) and 0 seconds
+[2026-10-01 00:00:01.007 +00:00] [INF] [71] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Detect and Analyze Media Segments" set to fire at 2026-10-02 00:00:00.000 +00:00, which is 23:59:58.9928292 from now.
+[2026-10-01 01:00:00.222 +00:00] [INF] [14] SkipMe.Db.Plugin.Tasks.SyncSegmentsTask: Starting SkipMe.db sync for 31 movie(s) and 86 episode(s)
+[2026-10-01 01:00:00.245 +00:00] [INF] [14] SkipMe.Db.Plugin.Tasks.SyncSegmentsTask: Querying SkipMe.db with 22 unique uncached movie/episode fallback lookup(s) and 2 unique uncached show lookup(s)
+[2026-10-01 01:00:01.003 +00:00] [INF] [14] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Sync SkipMe.db Segment Database" set to fire at 2026-10-02 01:00:00.000 +00:00, which is 23:59:58.9966040 from now.
+[2026-10-01 01:01:20.517 +00:00] [INF] [77] SkipMe.Db.Plugin.Services.SegmentStore: Saved segments for 85 item(s) to segment database
+[2026-10-01 01:01:20.519 +00:00] [INF] [77] SkipMe.Db.Plugin.Tasks.SyncSegmentsTask: SkipMe.db sync complete. Stored segments for 85 of 117 item(s).
+[2026-10-01 01:01:20.520 +00:00] [INF] [77] SkipMe.Db.Plugin.Tasks.SyncSegmentsTask: Queuing Jellyfin media segment scan ('"TaskExtractMediaSegments"')
+[2026-10-01 01:01:20.520 +00:00] [INF] [77] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Sync SkipMe.db Segment Database" Completed after 1 minute(s) and 20 seconds
+[2026-10-01 01:01:20.673 +00:00] [INF] [61] Jellyfin.Server.Implementations.MediaSegments.MediaSegmentManager: Media Segment provider "SkipMe.db" found 3 for "/data/movies/tv/The Night Agent/The.Night.Agent.S02E01.Call.Tracking.1080p.WEBRip.10bit.DDP5.1.x265-HODL.mkv"
+[2026-10-01 01:01:20.684 +00:00] [INF] [61] Jellyfin.Server.Implementations.MediaSegments.MediaSegmentManager: Media Segment provider "SkipMe.db" found 3 for "/data/movies/tv/The Night Agent/The.Night.Agent.S02E02.Disconnected.1080p.WEBRip.10bit.DDP5.1.x265-HODL.mkv"
+[2026-10-01 01:01:20.690 +00:00] [INF] [61] Jellyfin.Server.Implementations.MediaSegments.MediaSegmentManager: Media Segment provider "SkipMe.db" found 3 for "/data/movies/tv/The Night Agent/The.Night.Agent.S02E03.Government.Property.1080p.WEBRip.10bit.DDP5.1.x265-HODL.mkv"
+[2026-10-01 01:01:20.694 +00:00] [INF] [61] Jellyfin.Server.Implementations.MediaSegments.MediaSegmentManager: Media Segment provider "SkipMe.db" found 3 for "/data/movies/tv/The Night Agent/The.Night.Agent.S02E04.Desperate.Measures.1080p.WEBRip.10bit.DDP5.1.x265-HODL.mkv"
+[2026-10-01 01:01:20.698 +00:00] [INF] [61] Jellyfin.Server.Implementations.MediaSegments.MediaSegmentManager: Media Segment provider "SkipMe.db" found 3 for "/data/movies/tv/The Night Agent/The.Night.Agent.S02E05.A.Family.Matter.1080p.WEBRip.10bit.DDP5.1.x265-HODL.mkv"
+[2026-10-01 01:01:20.701 +00:00] [INF] [61] Jellyfin.Server.Implementations.MediaSegments.MediaSegmentManager: Media Segment provider "SkipMe.db" found 3 for "/data/movies/tv/The Night Agent/The.Night.Agent.S02E06.A.Good.Agent.1080p.WEBRip.10bit.DDP5.1.x265-HODL.mkv"
+[2026-10-01 01:01:20.707 +00:00] [INF] [61] Jellyfin.Server.Implementations.MediaSegments.MediaSegmentManager: Media Segment provider "SkipMe.db" found 3 for "/data/movies/tv/The Night Agent/The.Night.Agent.S02E07.Tilt.1080p.WEBRip.10bit.DDP5.1.x265-HODL.mkv"
+[2026-10-01 01:01:20.709 +00:00] [INF] [61] Jellyfin.Server.Implementations.MediaSegments.MediaSegmentManager: Media Segment provider "SkipMe.db" found 3 for "/data/movies/tv/The Night Agent/The.Night.Agent.S02E08.Divergence.1080p.WEBRip.10bit.DDP5.1.x265-HODL.mkv"
+[2026-10-01 01:01:20.715 +00:00] [INF] [61] Jellyfin.Server.Implementations.MediaSegments.MediaSegmentManager: Media Segment provider "SkipMe.db" found 3 for "/data/movies/tv/The Night Agent/The.Night.Agent.S02E09.Cultural.Exchange.1080p.WEBRip.10bit.DDP5.1.x265-HODL.mkv"
+[2026-10-01 01:01:20.718 +00:00] [INF] [61] Jellyfin.Server.Implementations.MediaSegments.MediaSegmentManager: Media Segment provider "SkipMe.db" found 3 for "/data/movies/tv/The Night Agent/The.Night.Agent.S02E10.Buyers.Remorse.1080p.WEBRip.10bit.DDP5.1.x265-HODL.mkv"
+[2026-10-01 01:01:20.721 +00:00] [INF] [61] Jellyfin.Server.Implementations.MediaSegments.MediaSegmentManager: Media Segment provider "SkipMe.db" found 2 for "/data/movies/tv/The Night Agent/The Night Agent S03 E01.mkv"
+[2026-10-01 01:01:20.725 +00:00] [INF] [61] Jellyfin.Server.Implementations.MediaSegments.MediaSegmentManager: Media Segment provider "SkipMe.db" found 2 for "/data/movies/tv/The Night Agent/The Night Agent S03 E02.mkv"
+[2026-10-01 01:01:20.728 +00:00] [INF] [61] Jellyfin.Server.Implementations.MediaSegments.MediaSegmentManager: Media Segment provider "SkipMe.db" found 2 for "/data/movies/tv/The Night Agent/The Night Agent S03 E03.mkv"
+[2026-10-01 01:01:20.735 +00:00] [INF] [61] Jellyfin.Server.Implementations.MediaSegments.MediaSegmentManager: Media Segment provider "SkipMe.db" found 2 for "/data/movies/tv/The Night Agent/The Night Agent S03 E04.mkv"
+[2026-10-01 01:01:20.738 +00:00] [INF] [61] Jellyfin.Server.Implementations.MediaSegments.MediaSegmentManager: Media Segment provider "SkipMe.db" found 2 for "/data/movies/tv/The Night Agent/The Night Agent S03 E05.mkv"
+[2026-10-01 01:01:20.742 +00:00] [INF] [61] Jellyfin.Server.Implementations.MediaSegments.MediaSegmentManager: Media Segment provider "SkipMe.db" found 2 for "/data/movies/tv/The Night Agent/The Night Agent S03 E06.mkv"
+[2026-10-01 01:01:20.744 +00:00] [INF] [61] Jellyfin.Server.Implementations.MediaSegments.MediaSegmentManager: Media Segment provider "SkipMe.db" found 2 for "/data/movies/tv/The Night Agent/The Night Agent S03 E07.mkv"
+[2026-10-01 01:01:20.750 +00:00] [INF] [61] Jellyfin.Server.Implementations.MediaSegments.MediaSegmentManager: Media Segment provider "SkipMe.db" found 2 for "/data/movies/tv/The Night Agent/The Night Agent S03 E08.mkv"
+[2026-10-01 01:01:20.753 +00:00] [INF] [61] Jellyfin.Server.Implementations.MediaSegments.MediaSegmentManager: Media Segment provider "SkipMe.db" found 2 for "/data/movies/tv/The Night Agent/The Night Agent S03 E09.mkv"
+[2026-10-01 01:01:20.756 +00:00] [INF] [61] Jellyfin.Server.Implementations.MediaSegments.MediaSegmentManager: Media Segment provider "SkipMe.db" found 2 for "/data/movies/tv/The Night Agent/The Night Agent S03 E10.mkv"
+[2026-10-01 01:01:20.878 +00:00] [INF] [61] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Media Segment Scan" Completed after 0 minute(s) and 0 seconds
+[2026-10-01 01:42:37.167 +00:00] [WRN] [56] Jellyfin.Plugin.FileTransformation.Infrastructure.FileTransformationMiddleware: [FileTransformation] Virtual file synthesis for 'avatars/list.txt' produced empty content, reverting to 404
+[2026-10-01 01:42:37.618 +00:00] [INF] [36] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "::ffff:10.0.7.1" request
+[2026-10-01 01:43:06.465 +00:00] [INF] [46] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "::ffff:10.0.7.1" closed
+[2026-10-01 02:00:00.231 +00:00] [INF] [27] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Extract Chapter Images" Completed after 0 minute(s) and 0 seconds
+[2026-10-01 02:00:01.000 +00:00] [INF] [27] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Extract Chapter Images" set to fire at 2026-10-02 02:00:00.000 +00:00, which is 23:59:58.9996810 from now.
+[2026-10-01 03:00:00.019 +00:00] [INF] [61] Jellyfin.Plugin.JellyfinEnhanced: "[TagCacheMonitor] Event subscriptions active"
+[2026-10-01 03:00:00.020 +00:00] [INF] [74] Jellyfin.Plugin.JellyfinEnhanced: "[Seerr→Jellyfin Watchlist Sync] Sync is disabled in plugin configuration."
+[2026-10-01 03:00:00.021 +00:00] [INF] [74] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Sync Watchlist from Seerr to Jellyfin" Completed after 0 minute(s) and 0 seconds
+[2026-10-01 03:00:00.088 +00:00] [INF] [61] Jellyfin.Plugin.JellyfinEnhanced: "[TagCache] Reconciling changes since 2026-09-30T02:58:00.0361602Z"
+[2026-10-01 03:00:00.976 +00:00] [INF] [67] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Generate Trickplay Images" Completed after 0 minute(s) and 0 seconds
+[2026-10-01 03:00:01.040 +00:00] [INF] [75] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Sync Watchlist from Seerr to Jellyfin" set to fire at 2026-10-02 03:00:00.000 +00:00, which is 23:59:58.9593287 from now.
+[2026-10-01 03:00:01.040 +00:00] [INF] [8] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Refresh Tag Cache" set to fire at 2026-10-02 03:00:00.000 +00:00, which is 23:59:58.9592735 from now.
+[2026-10-01 03:00:01.094 +00:00] [INF] [61] Jellyfin.Plugin.JellyfinEnhanced: "[TagCache] Saved 132 entries to disk"
+[2026-10-01 03:00:01.094 +00:00] [INF] [61] Jellyfin.Plugin.JellyfinEnhanced: "[TagCache] Reconciliation complete: 23 changed items, 23 entries checked"
+[2026-10-01 03:00:01.094 +00:00] [INF] [61] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Refresh Tag Cache" Completed after 0 minute(s) and 1 seconds
+[2026-10-01 03:00:01.161 +00:00] [INF] [8] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Generate Trickplay Images" set to fire at 2026-10-02 03:00:00.000 +00:00, which is 23:59:58.8385727 from now.
+[2026-10-01 03:30:00.023 +00:00] [INF] [50] Jellyfin.Plugin.JellyfinEnhanced: "[Jellyfin→Seerr Watchlist Sync] Sync is disabled in plugin configuration."
+[2026-10-01 03:30:00.023 +00:00] [INF] [50] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Sync Watchlist from Jellyfin to Seerr" Completed after 0 minute(s) and 0 seconds
+[2026-10-01 03:30:01.010 +00:00] [INF] [14] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Sync Watchlist from Jellyfin to Seerr" set to fire at 2026-10-02 03:30:00.000 +00:00, which is 23:59:58.9893322 from now.
+[2026-10-01 05:24:12.520 +00:00] [INF] [24] Jellyfin.Plugin.JellyfinEnhanced: "[CDN] Refreshing local CDN asset cache…"
+[2026-10-01 05:24:12.521 +00:00] [INF] [41] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Send Anonymous Usage Report" Completed after 0 minute(s) and 0 seconds
+[2026-10-01 05:24:12.580 +00:00] [INF] [20] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Download missing subtitles" Completed after 0 minute(s) and 0 seconds
+[2026-10-01 05:24:12.662 +00:00] [INF] [41] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Clean Log Directory" Completed after 0 minute(s) and 0 seconds
+[2026-10-01 05:24:12.746 +00:00] [INF] [17] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Clean Transcode Directory" Completed after 0 minute(s) and 0 seconds
+[2026-10-01 05:24:12.804 +00:00] [INF] [17] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Refresh Channels" Completed after 0 minute(s) and 0 seconds
+[2026-10-01 05:24:12.920 +00:00] [INF] [67] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Clean Cache Directory" Completed after 0 minute(s) and 0 seconds
+[2026-10-01 05:24:13.022 +00:00] [INF] [24] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Download missing lyrics" Completed after 0 minute(s) and 0 seconds
+[2026-10-01 05:24:13.079 +00:00] [INF] [20] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Audio Normalization" Completed after 0 minute(s) and 0 seconds
+[2026-10-01 05:24:15.602 +00:00] [INF] [20] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Update Plugins" Completed after 0 minute(s) and 2 seconds
+[2026-10-01 05:24:15.990 +00:00] [INF] [76] Jellyfin.LiveTv.Guide.GuideManager: Refreshing guide with 7 days of guide data
+[2026-10-01 05:24:15.999 +00:00] [INF] [76] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Refresh Guide" Completed after 0 minute(s) and 3 seconds
+[2026-10-01 05:24:33.439 +00:00] [WRN] [76] Jellyfin.Plugin.JellyfinEnhanced: "[CDN] Fetch failed for source 'moonbase': The request was canceled due to the configured HttpClient.Timeout of 20 seconds elapsing."
+[2026-10-01 05:24:34.792 +00:00] [WRN] [76] Jellyfin.Plugin.JellyfinEnhanced: "[CDN] Failed to refresh known asset 'award-logos/oscar'."
+[2026-10-01 05:25:00.040 +00:00] [INF] [41] Jellyfin.Plugin.JellyfinEnhanced: "[CDN] Refreshed 57/58 known assets into the local cache."
+[2026-10-01 05:25:00.040 +00:00] [INF] [41] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Refresh CDN Assets" Completed after 0 minute(s) and 47 seconds
+[2026-10-01 05:25:13.531 +00:00] [INF] [53] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/data/movies/tv"
+[2026-10-01 05:25:13.531 +00:00] [INF] [53] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/data/movies/movie"
+[2026-10-01 05:25:13.531 +00:00] [INF] [53] Emby.Server.Implementations.Library.LibraryManager: Validating media library
+[2026-10-01 05:25:13.539 +00:00] [WRN] [53] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/data/playlists" is inaccessible or empty, skipping
+[2026-10-01 05:25:13.556 +00:00] [WRN] [53] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/data/playlists" is inaccessible or empty, skipping
+[2026-10-01 05:25:13.838 +00:00] [INF] [41] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Media Segment Scan" Completed after 0 minute(s) and 0 seconds
+[2026-10-01 05:25:15.054 +00:00] [INF] [53] Emby.Server.Implementations.Library.LibraryManager: Running 8 post-scan task(s)
+[2026-10-01 05:25:15.054 +00:00] [INF] [53] Emby.Server.Implementations.Library.LibraryManager: Running post-scan task 1/8: "SplashscreenPostScanTask"
+[2026-10-01 05:25:20.013 +00:00] [INF] [53] Emby.Server.Implementations.Library.LibraryManager: Post-scan task "SplashscreenPostScanTask" completed after 0 minute(s) and 4 seconds
+[2026-10-01 05:25:20.013 +00:00] [INF] [53] Emby.Server.Implementations.Library.LibraryManager: Running post-scan task 2/8: "ArtistsPostScanTask"
+[2026-10-01 05:25:20.016 +00:00] [INF] [53] Emby.Server.Implementations.Library.Validators.ArtistsValidator: Refreshed metadata for 0 new artists out of 0 total
+[2026-10-01 05:25:20.017 +00:00] [INF] [53] Emby.Server.Implementations.Library.LibraryManager: Post-scan task "ArtistsPostScanTask" completed after 0 minute(s) and 0 seconds
+[2026-10-01 05:25:20.017 +00:00] [INF] [53] Emby.Server.Implementations.Library.LibraryManager: Running post-scan task 3/8: "CollectionPosterVerifyPostScanTask"
+[2026-10-01 05:25:20.017 +00:00] [INF] [53] Emby.Server.Implementations.Library.LibraryManager: Post-scan task "CollectionPosterVerifyPostScanTask" completed after 0 minute(s) and 0 seconds
+[2026-10-01 05:25:20.017 +00:00] [INF] [53] Emby.Server.Implementations.Library.LibraryManager: Running post-scan task 4/8: "CollectionPostScanTask"
+[2026-10-01 05:25:20.018 +00:00] [INF] [53] Emby.Server.Implementations.Library.LibraryManager: Post-scan task "CollectionPostScanTask" completed after 0 minute(s) and 0 seconds
+[2026-10-01 05:25:20.018 +00:00] [INF] [53] Emby.Server.Implementations.Library.LibraryManager: Running post-scan task 5/8: "GenresPostScanTask"
+[2026-10-01 05:25:20.022 +00:00] [INF] [53] Emby.Server.Implementations.Library.Validators.GenresValidator: Refreshed metadata for 0 new genres out of 13 total
+[2026-10-01 05:25:20.024 +00:00] [INF] [53] Emby.Server.Implementations.Library.LibraryManager: Post-scan task "GenresPostScanTask" completed after 0 minute(s) and 0 seconds
+[2026-10-01 05:25:20.024 +00:00] [INF] [53] Emby.Server.Implementations.Library.LibraryManager: Running post-scan task 6/8: "MusicGenresPostScanTask"
+[2026-10-01 05:25:20.026 +00:00] [INF] [53] Emby.Server.Implementations.Library.Validators.MusicGenresValidator: Refreshed metadata for 0 new music genres out of 0 total
+[2026-10-01 05:25:20.026 +00:00] [INF] [53] Emby.Server.Implementations.Library.LibraryManager: Post-scan task "MusicGenresPostScanTask" completed after 0 minute(s) and 0 seconds
+[2026-10-01 05:25:20.026 +00:00] [INF] [53] Emby.Server.Implementations.Library.LibraryManager: Running post-scan task 7/8: "StudiosPostScanTask"
+[2026-10-01 05:25:20.036 +00:00] [INF] [53] Emby.Server.Implementations.Library.Validators.StudiosValidator: Refreshed metadata for 0 new studios out of 84 total
+[2026-10-01 05:25:20.037 +00:00] [INF] [53] Emby.Server.Implementations.Library.LibraryManager: Post-scan task "StudiosPostScanTask" completed after 0 minute(s) and 0 seconds
+[2026-10-01 05:25:20.037 +00:00] [INF] [53] Emby.Server.Implementations.Library.LibraryManager: Running post-scan task 8/8: "CleanDatabaseScheduledTask"
+[2026-10-01 05:25:20.040 +00:00] [INF] [53] Emby.Server.Implementations.Library.LibraryManager: Post-scan task "CleanDatabaseScheduledTask" completed after 0 minute(s) and 0 seconds
+[2026-10-01 05:25:20.041 +00:00] [INF] [53] Emby.Server.Implementations.Library.LibraryManager: All post-scan tasks completed after 0 minute(s) and 4 seconds
+[2026-10-01 05:25:20.041 +00:00] [INF] [53] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Scan Media Library" Completed after 0 minute(s) and 6 seconds
+[2026-10-01 05:25:20.097 +00:00] [INF] [71] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/data/movies/movie"
+[2026-10-01 05:25:20.097 +00:00] [INF] [53] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/data/movies/tv"
+[2026-10-01 05:27:15.541 +00:00] [INF] [19] Jellyfin.Plugin.JellyfinEnhanced: "[Jellyseerr User Import] Auto-import is disabled in plugin configuration."
+[2026-10-01 05:27:15.541 +00:00] [INF] [19] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Import Jellyfin Users to Seerr" Completed after 0 minute(s) and 0 seconds
+[2026-10-01 05:27:15.603 +00:00] [INF] [74] Emby.Server.Implementations.ScheduledTasks.Tasks.OptimizeDatabaseTask: Vacuuming and analyzing jellyfin.db...
+[2026-10-01 05:27:15.792 +00:00] [INF] [74] Jellyfin.Database.Providers.Sqlite.SqliteDatabaseProvider: jellyfin.db optimized successfully!
+[2026-10-01 05:27:15.792 +00:00] [INF] [74] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Optimize database" Completed after 0 minute(s) and 0 seconds

@@ -2,6 +2,7 @@
 <PluginConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Enabled>Enabled</Enabled>
   <VersionString>main</VersionString>
+  <AllowUnpinnedRefs>false</AllowUnpinnedRefs>
   <UseAvatarsFile>true</UseAvatarsFile>
   <AvatarsPlaylist />
   <WebConfig>
@@ -17,6 +18,7 @@
     <PreloadCount>-1</PreloadCount>
     <FadeTransitionDuration>-1</FadeTransitionDuration>
     <SlideAnimationEnabled>true</SlideAnimationEnabled>
+    <SyncPageBackdrop>false</SyncPageBackdrop>
     <EnableTrailers>true</EnableTrailers>
   </WebConfig>
 </PluginConfiguration>

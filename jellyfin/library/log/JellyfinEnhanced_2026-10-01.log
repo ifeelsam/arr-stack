@@ -1,0 +1,22 @@
+[2026-10-01 01:42:39] [DEBUG] Seerr returned 500 for /api/v1/genres/tv; retrying (1/2)
+[2026-10-01 01:42:39] [DEBUG] Seerr returned 500 for /api/v1/genres/movie; retrying (1/2)
+[2026-10-01 01:42:39] [DEBUG] Seerr returned 500 for /api/v1/genres/movie; retrying (2/2)
+[2026-10-01 03:00:00] [INFO] [TagCacheMonitor] Event subscriptions active
+[2026-10-01 03:00:00] [INFO] [Seerr→Jellyfin Watchlist Sync] Sync is disabled in plugin configuration.
+[2026-10-01 03:00:00] [INFO] [TagCache] Reconciling changes since 2026-09-30T02:58:00.0361602Z
+[2026-10-01 03:00:01] [INFO] [TagCache] Saved 132 entries to disk
+[2026-10-01 03:00:01] [INFO] [TagCache] Reconciliation complete: 23 changed items, 23 entries checked
+[2026-10-01 03:30:00] [INFO] [Jellyfin→Seerr Watchlist Sync] Sync is disabled in plugin configuration.
+[2026-10-01 05:24:12] [INFO] [CDN] Refreshing local CDN asset cache…
+[2026-10-01 05:24:33] [WARN] [CDN] Fetch failed for source 'moonbase': The request was canceled due to the configured HttpClient.Timeout of 20 seconds elapsing.
+[2026-10-01 05:24:33] [DEBUG] [CDN] Serving stale cached copy of 'moonbase/moonfin-client' after upstream fetch failure.
+[2026-10-01 05:24:34] [DEBUG] [CDN] Upstream returned 429 for source 'award-logos'.
+[2026-10-01 05:24:34] [WARN] [CDN] Failed to refresh known asset 'award-logos/oscar'.
+[2026-10-01 05:24:49] [DEBUG] [CDN] Upstream returned 429 for source 'award-logos'.
+[2026-10-01 05:24:49] [DEBUG] [CDN] Serving stale cached copy of 'award-logos/national-board-of-review' after upstream fetch failure.
+[2026-10-01 05:24:54] [DEBUG] [CDN] Upstream returned 429 for source 'award-logos'.
+[2026-10-01 05:24:54] [DEBUG] [CDN] Serving stale cached copy of 'award-logos/kids-choice' after upstream fetch failure.
+[2026-10-01 05:24:59] [DEBUG] [CDN] Upstream returned 429 for source 'award-logos'.
+[2026-10-01 05:24:59] [DEBUG] [CDN] Serving stale cached copy of 'award-logos/cannes' after upstream fetch failure.
+[2026-10-01 05:25:00] [INFO] [CDN] Refreshed 57/58 known assets into the local cache.
+[2026-10-01 05:27:15] [INFO] [Jellyseerr User Import] Auto-import is disabled in plugin configuration.

@@ -1,0 +1,16 @@
+{
+  "category": "General",
+  "changelog": "## Changelog\n### Features\n- Include Videos with multiple parts (can be toggled in the plugin settings)\n- Auto close the preview popup when starting a new episode (can be toggled in the plugin settings)\n- Switch the display mode for the season summary by clicking on the label\n### Fixes\n- Episode playstate will not be reset anymore on a rewatch\n- Spoiler blur will now be updated immediately when triggering the playstate button inside the preview popup\n- Video progress bar and season summary will now be live updated\n- Season summary will now be displayed at the correct position during season selection\n- Empty descriptions will now be shown empty instead of \u0022loading...\u0022",
+  "description": "Adds episode preview functionality to Jellyfin.",
+  "guid": "73833d5f-0bcb-45dc-ab8b-7ce668f4345d",
+  "name": "InPlayerEpisodePreview",
+  "overview": "Adds an overview of episode data inside the video player.",
+  "owner": "Namo",
+  "targetAbi": "12.0",
+  "timestamp": "2026-09-19T20:41:17.0000000Z",
+  "version": "2.4.0.3",
+  "status": "Active",
+  "autoUpdate": true,
+  "imagePath": "/config/data/plugins/InPlayerEpisodePreview_2.4.0.3/logo.png",
+  "assemblies": []
+}

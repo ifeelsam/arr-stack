@@ -1,0 +1,16 @@
+{
+  "category": "General",
+  "changelog": "**Build for Jellyfin 12.**\n\n- Add Jellyfin 12 support via IStartupFilter, drop 10.10.7\n - Add CodeMirror code editor with JSHint linting to config page",
+  "description": "Inject custom javascript(s) to the Jellyfin Web UI",
+  "guid": "f5a34f7b-2e8a-4e6a-a722-3a216a81b374",
+  "name": "JavaScript Injector",
+  "overview": "Inject custom javascript(s) to the Jellyfin Web UI",
+  "owner": "n00bcodr",
+  "targetAbi": "12.0.0.0",
+  "timestamp": "2026-08-12T15:53:52.0000000Z",
+  "version": "4.0.0.0",
+  "status": "Active",
+  "autoUpdate": true,
+  "imagePath": "/config/data/plugins/JavaScript Injector_4.0.0.0/icon.png",
+  "assemblies": []
+}

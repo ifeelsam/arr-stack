@@ -1,0 +1,325 @@
+{"Protocol":1,"Id":"bb21841d9932ee59693c775ad6804ebe","Path":"https://9xjio.wiseplayout.com/9XM/master.m3u8","EncoderPath":null,"EncoderProtocol":null,"Type":0,"Container":"hls","Size":761,"Name":null,"IsRemote":true,"ETag":null,"RunTimeTicks":null,"ReadAtNativeFramerate":true,"IgnoreDts":true,"IgnoreIndex":false,"GenPtsInput":false,"SupportsTranscoding":true,"SupportsDirectStream":false,"SupportsDirectPlay":false,"IsInfiniteStream":true,"UseMostCompatibleTranscodingProfile":true,"RequiresOpening":true,"OpenToken":null,"RequiresClosing":true,"LiveStreamId":"e2329f4997b378e64ccf8fa396deb76e_af999c25a00715699361240d4c6c7a53_bb21841d9932ee59693c775ad6804ebe","BufferMs":null,"RequiresLooping":false,"SupportsProbing":true,"VideoType":null,"IsoType":null,"Video3DFormat":null,"MediaStreams":[{"Codec":"h264","CodecTag":null,"Language":null,"ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/90000","CodecTimeBase":null,"Title":null,"Hdr10PlusPresentFlag":null,"VideoRange":1,"VideoRangeType":1,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":null,"LocalizedForced":null,"LocalizedExternal":null,"LocalizedHearingImpaired":null,"LocalizedLanguage":null,"LocalizedOriginal":null,"DisplayTitle":"720p H264 SDR","NalLengthSize":"0","IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":8000000,"BitDepth":8,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":720,"Width":1280,"AverageFrameRate":25,"RealFrameRate":25,"ReferenceFrameRate":25,"Profile":"Main","Type":1,"AspectRatio":"16:9","Index":-1,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":"yuv420p","Level":31,"IsAnamorphic":false},{"Codec":"aac","CodecTag":null,"Language":null,"ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/90000","CodecTimeBase":null,"Title":null,"Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"LocalizedLanguage":null,"LocalizedOriginal":"Original","DisplayTitle":"AAC - Stereo","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":"stereo","BitRate":192000,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":2,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":"LC","Type":0,"AspectRatio":null,"Index":-1,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null}],"MediaAttachments":[],"Formats":[],"Bitrate":8192000,"FallbackMaxStreamingBitrate":30000000,"Timestamp":null,"RequiredHttpHeaders":{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"},"TranscodingUrl":null,"TranscodingSubProtocol":0,"TranscodingContainer":null,"AnalyzeDurationMs":3000,"DefaultAudioStreamIndex":null,"DefaultSubtitleStreamIndex":null,"HasSegments":false}
+
+/usr/lib/jellyfin-ffmpeg/ffmpeg -analyzeduration 3000000 -probesize 1G -user_agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" -re -readrate_catchup 100 -fflags +igndts+genpts  -i "https://9xjio.wiseplayout.com/9XM/master.m3u8" -map_metadata -1 -map_chapters -1 -threads 0 -sn -codec:v:0 copy -start_at_zero -flags -global_header -codec:a:0 copy -copyts -avoid_negative_ts disabled -max_muxing_queue_size 2048 -f hls -max_delay 5000000 -hls_time 3 -hls_segment_type mpegts -start_number 0 -hls_base_url "hls/0edfa2eab8c37930c8a35a6c7fbc2301/" -hls_segment_filename "/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc2301%d.ts" -hls_playlist_type event -hls_list_size 0 -y "/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc2301.m3u8"
+
+
+ffmpeg version 8.1.2-Jellyfin Copyright (c) 2000-2026 the FFmpeg developers
+  built with gcc 15 (Ubuntu 15.2.0-16ubuntu1)
+  configuration: --prefix=/usr/lib/jellyfin-ffmpeg --target-os=linux --extra-version=Jellyfin --disable-unstable --disable-doc --disable-ffplay --disable-static --disable-libxcb --disable-libxcb-shm --disable-libxcb-xfixes --disable-libxcb-shape --disable-xlib --disable-sdl2 --enable-lto=auto --enable-gpl --enable-version3 --enable-shared --enable-gmp --enable-gnutls --enable-chromaprint --enable-opencl --enable-libdrm --enable-libxml2 --enable-libass --enable-libfreetype --enable-libfribidi --enable-libfontconfig --enable-libharfbuzz --enable-libbluray --enable-libmp3lame --enable-libopus --enable-libtheora --enable-libvorbis --enable-libopenmpt --enable-libdav1d --enable-libsvtav1 --enable-libwebp --enable-libvpx --enable-libx264 --enable-libx265 --enable-libzvbi --enable-libzimg --enable-libfdk-aac --enable-libshaderc --enable-libplacebo --enable-vulkan --enable-vulkan-static --enable-vaapi --enable-ffnvcodec --enable-cuda --enable-cuda-llvm --enable-cuvid --enable-nvdec --enable-nvenc --arch=arm64 --cross-prefix=/usr/bin/aarch64-linux-gnu- --enable-cross-compile --enable-rkmpp --enable-rkrga
+  libavutil      60. 26.102 / 60. 26.102
+  libavcodec     62. 28.102 / 62. 28.102
+  libavformat    62. 12.102 / 62. 12.102
+  libavdevice    62.  3.102 / 62.  3.102
+  libavfilter    11. 14.102 / 11. 14.102
+  libswscale      9.  5.102 /  9.  5.102
+  libswresample   6.  3.102 /  6.  3.102
+[in#0 @ 0xaaaad7aba400] Opening 'https://9xjio.wiseplayout.com/9XM/HD720/HD720.m3u8' for reading
+[https @ 0xaaaad7adfc80] Opening 'https://9xjio.wiseplayout.com/9XM/SD504/SD504.m3u8' for reading
+[https @ 0xaaaad7adfc80] Opening 'https://9xjio.wiseplayout.com/9XM/HD1080/HD1080.m3u8' for reading
+[https @ 0xaaaad7adfc80] Opening 'https://9xjio.wiseplayout.com/9XM/SD360/SD360.m3u8' for reading
+[https @ 0xaaaad7adfc80] Opening 'https://9xjio.wiseplayout.com/9XM/SD216/SD216.m3u8' for reading
+[in#0 @ 0xaaaad7aba400] Opening 'https://9xjio.wiseplayout.com/9XM/HD720/WiseVideo00062312_934387730700.ts' for reading
+[in#0 @ 0xaaaad7aba400] Opening 'https://9xjio.wiseplayout.com/9XM/HD720/WiseVideo00062313_934549730700.ts' for reading
+[in#0 @ 0xaaaad7aba400] Opening 'https://9xjio.wiseplayout.com/9XM/SD504/WiseVideo00062312_934387730700.ts' for reading
+[in#0 @ 0xaaaad7aba400] Opening 'https://9xjio.wiseplayout.com/9XM/SD504/WiseVideo00062313_934549730700.ts' for reading
+[in#0 @ 0xaaaad7aba400] Opening 'https://9xjio.wiseplayout.com/9XM/HD1080/WiseVideo00062312_934387730700.ts' for reading
+[in#0 @ 0xaaaad7aba400] Opening 'https://9xjio.wiseplayout.com/9XM/HD1080/WiseVideo00062313_934549730700.ts' for reading
+[in#0 @ 0xaaaad7aba400] Opening 'https://9xjio.wiseplayout.com/9XM/SD360/WiseVideo00062312_934387730700.ts' for reading
+[in#0 @ 0xaaaad7aba400] Opening 'https://9xjio.wiseplayout.com/9XM/SD360/WiseVideo00062313_934549730700.ts' for reading
+[https @ 0xaaaad7adfc80] Opening 'https://9xjio.wiseplayout.com/9XM/SD216/SD216.m3u8' for reading
+[in#0 @ 0xaaaad7aba400] Opening 'https://9xjio.wiseplayout.com/9XM/SD216/WiseVideo00062312_934387730700.ts' for reading
+[in#0 @ 0xaaaad7aba400] Opening 'https://9xjio.wiseplayout.com/9XM/SD216/WiseVideo00062313_934549730700.ts' for reading
+Input #0, hls, from 'https://9xjio.wiseplayout.com/9XM/master.m3u8':
+  Duration: N/A, start: 34606.874978, bitrate: N/A
+  Program 0 
+    Metadata:
+      variant_bitrate : 2500000
+  Stream #0:0[0x0]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p, 1280x720 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, start 34606.952989
+    Metadata:
+      variant_bitrate : 2500000
+  Stream #0:1[0x0]: Audio: aac (LC) ([15][0][0][0] / 0x000F), 48000 Hz, stereo, fltp, start 34606.874978
+    Metadata:
+      variant_bitrate : 2500000
+  Program 1 
+    Metadata:
+      variant_bitrate : 1000000
+  Stream #0:2[0x1]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p, 896x504 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, start 34606.952989
+    Metadata:
+      variant_bitrate : 1000000
+  Stream #0:3[0x1]: Audio: aac (LC) ([15][0][0][0] / 0x000F), 48000 Hz, stereo, fltp, start 34606.874978
+    Metadata:
+      variant_bitrate : 1000000
+  Program 2 
+    Metadata:
+      variant_bitrate : 4000000
+  Stream #0:4[0x2]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, start 34606.952989
+    Metadata:
+      variant_bitrate : 4000000
+  Stream #0:5[0x2]: Audio: aac (LC) ([15][0][0][0] / 0x000F), 48000 Hz, stereo, fltp, start 34606.874978
+    Metadata:
+      variant_bitrate : 4000000
+  Program 3 
+    Metadata:
+      variant_bitrate : 700000
+  Stream #0:6[0x3]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p, 640x360 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, start 34606.952989
+    Metadata:
+      variant_bitrate : 700000
+  Stream #0:7[0x3]: Audio: aac (LC) ([15][0][0][0] / 0x000F), 48000 Hz, stereo, fltp, start 34606.874978
+    Metadata:
+      variant_bitrate : 700000
+  Program 4 
+    Metadata:
+      variant_bitrate : 364000
+  Stream #0:8[0x4]: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p, 384x216 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, start 34606.952989
+    Metadata:
+      variant_bitrate : 364000
+  Stream #0:9[0x4]: Audio: aac (LC) ([15][0][0][0] / 0x000F), 48000 Hz, stereo, fltp, start 34606.874978
+    Metadata:
+      variant_bitrate : 364000
+Stream mapping:
+  Stream #0:4 -> #0:0 (copy)
+  Stream #0:1 -> #0:1 (copy)
+Output #0, hls, to '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc2301.m3u8':
+  Metadata:
+    encoder         : Lavf62.12.102
+  Stream #0:0: Video: h264 (Main) ([27][0][0][0] / 0x001B), yuv420p, 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 25 fps, 25 tbr, 90k tbn
+  Stream #0:1: Audio: aac (LC) ([15][0][0][0] / 0x000F), 48000 Hz, stereo, fltp
+Press [q] to stop, [?] for help
+frame=   25 fps=0.0 q=-1.0 size=N/A time=00:00:00.00 bitrate=N/A speed=   0x elapsed=0:00:00.50    
+frame=   37 fps= 37 q=-1.0 size=N/A time=00:00:00.48 bitrate=N/A speed=0.474x elapsed=0:00:01.01    
+frame=   50 fps= 33 q=-1.0 size=N/A time=00:00:01.00 bitrate=N/A speed=0.661x elapsed=0:00:01.51    
+frame=   63 fps= 31 q=-1.0 size=N/A time=00:00:01.52 bitrate=N/A speed=0.755x elapsed=0:00:02.01    
+frame=   75 fps= 30 q=-1.0 size=N/A time=00:00:02.00 bitrate=N/A speed=0.794x elapsed=0:00:02.51    
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc23010.ts' for writing
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc2301.m3u8.tmp' for writing
+frame=   88 fps= 29 q=-1.0 size=N/A time=00:00:02.52 bitrate=N/A speed=0.834x elapsed=0:00:03.01    
+frame=  100 fps= 28 q=-1.0 size=N/A time=00:00:03.00 bitrate=N/A speed=0.852x elapsed=0:00:03.51    
+frame=  113 fps= 28 q=-1.0 size=N/A time=00:00:03.52 bitrate=N/A speed=0.876x elapsed=0:00:04.02    
+frame=  125 fps= 28 q=-1.0 size=N/A time=00:00:04.00 bitrate=N/A speed=0.885x elapsed=0:00:04.52    
+frame=  138 fps= 27 q=-1.0 size=N/A time=00:00:04.52 bitrate=N/A speed= 0.9x elapsed=0:00:05.02    
+[https @ 0xaaaad7adfc80] Opening 'https://9xjio.wiseplayout.com/9XM/HD720/HD720.m3u8' for reading
+frame=  148 fps= 27 q=-1.0 size=N/A time=00:00:04.92 bitrate=N/A speed=0.891x elapsed=0:00:05.52    
+[https @ 0xaaaad7e13400] Opening 'https://9xjio.wiseplayout.com/9XM/HD720/WiseVideo00062314_934711730700.ts' for reading
+[https @ 0xaaaad7adfc80] Opening 'https://9xjio.wiseplayout.com/9XM/HD1080/HD1080.m3u8' for reading
+[https @ 0xaaaad87733b0] Opening 'https://9xjio.wiseplayout.com/9XM/HD1080/WiseVideo00062314_934711730700.ts' for reading
+frame=  148 fps= 25 q=-1.0 size=N/A time=00:00:04.92 bitrate=N/A speed=0.817x elapsed=0:00:06.02    
+frame=  148 fps= 23 q=-1.0 size=N/A time=00:00:04.92 bitrate=N/A speed=0.755x elapsed=0:00:06.52    
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc23011.ts' for writing
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc2301.m3u8.tmp' for writing
+frame=  174 fps= 25 q=-1.0 size=N/A time=00:00:05.96 bitrate=N/A speed=0.849x elapsed=0:00:07.02    
+frame=  200 fps= 27 q=-1.0 size=N/A time=00:00:07.00 bitrate=N/A speed=0.931x elapsed=0:00:07.52    
+frame=  213 fps= 27 q=-1.0 size=N/A time=00:00:07.52 bitrate=N/A speed=0.938x elapsed=0:00:08.02    
+frame=  225 fps= 26 q=-1.0 size=N/A time=00:00:08.00 bitrate=N/A speed=0.939x elapsed=0:00:08.52    
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc23012.ts' for writing
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc2301.m3u8.tmp' for writing
+frame=  238 fps= 26 q=-1.0 size=N/A time=00:00:08.52 bitrate=N/A speed=0.944x elapsed=0:00:09.02    
+frame=  250 fps= 26 q=-1.0 size=N/A time=00:00:09.00 bitrate=N/A speed=0.945x elapsed=0:00:09.52    
+frame=  263 fps= 26 q=-1.0 size=N/A time=00:00:09.52 bitrate=N/A speed=0.95x elapsed=0:00:10.02    
+frame=  275 fps= 26 q=-1.0 size=N/A time=00:00:10.00 bitrate=N/A speed=0.95x elapsed=0:00:10.52    
+frame=  288 fps= 26 q=-1.0 size=N/A time=00:00:10.52 bitrate=N/A speed=0.954x elapsed=0:00:11.02    
+[https @ 0xaaaad8131620] Opening 'https://9xjio.wiseplayout.com/9XM/HD720/WiseVideo00062315_934873730700.ts' for reading
+frame=  298 fps= 26 q=-1.0 size=N/A time=00:00:10.92 bitrate=N/A speed=0.948x elapsed=0:00:11.52    
+[https @ 0xaaaad8dc70b0] Opening 'https://9xjio.wiseplayout.com/9XM/HD1080/WiseVideo00062315_934873730700.ts' for reading
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc23013.ts' for writing
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc2301.m3u8.tmp' for writing
+frame=  313 fps= 26 q=-1.0 size=N/A time=00:00:11.52 bitrate=N/A speed=0.958x elapsed=0:00:12.02    
+frame=  325 fps= 26 q=-1.0 size=N/A time=00:00:12.00 bitrate=N/A speed=0.958x elapsed=0:00:12.52    
+frame=  338 fps= 26 q=-1.0 size=N/A time=00:00:12.52 bitrate=N/A speed=0.961x elapsed=0:00:13.02    
+frame=  350 fps= 26 q=-1.0 size=N/A time=00:00:13.04 bitrate=N/A speed=0.964x elapsed=0:00:13.52    
+frame=  363 fps= 26 q=-1.0 size=N/A time=00:00:13.52 bitrate=N/A speed=0.964x elapsed=0:00:14.02    
+frame=  375 fps= 26 q=-1.0 size=N/A time=00:00:14.04 bitrate=N/A speed=0.966x elapsed=0:00:14.52    
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc23014.ts' for writing
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc2301.m3u8.tmp' for writing
+frame=  388 fps= 26 q=-1.0 size=N/A time=00:00:14.52 bitrate=N/A speed=0.966x elapsed=0:00:15.02    
+frame=  401 fps= 26 q=-1.0 size=N/A time=00:00:15.04 bitrate=N/A speed=0.969x elapsed=0:00:15.52    
+frame=  413 fps= 26 q=-1.0 size=N/A time=00:00:15.52 bitrate=N/A speed=0.968x elapsed=0:00:16.02    
+frame=  426 fps= 26 q=-1.0 size=N/A time=00:00:16.04 bitrate=N/A speed=0.97x elapsed=0:00:16.52    
+frame=  438 fps= 26 q=-1.0 size=N/A time=00:00:16.52 bitrate=N/A speed=0.97x elapsed=0:00:17.02    
+[https @ 0xaaaad7adfc80] Opening 'https://9xjio.wiseplayout.com/9XM/HD720/HD720.m3u8' for reading
+[https @ 0xaaaad7acd440] Error reading HTTP response: End of file
+[in#0/hls @ 0xaaaad7aba400] Opening 'https://9xjio.wiseplayout.com/9XM/HD720/HD720.m3u8' for reading
+frame=  448 fps= 26 q=-1.0 size=N/A time=00:00:16.92 bitrate=N/A speed=0.965x elapsed=0:00:17.52    
+frame=  448 fps= 25 q=-1.0 size=N/A time=00:00:16.92 bitrate=N/A speed=0.939x elapsed=0:00:18.02    
+frame=  448 fps= 24 q=-1.0 size=N/A time=00:00:16.92 bitrate=N/A speed=0.913x elapsed=0:00:18.52    
+[https @ 0xaaaad7e13400] Opening 'https://9xjio.wiseplayout.com/9XM/HD720/WiseVideo00062316_935035730700.ts' for reading
+[https @ 0xaaaad7e03020] Error reading HTTP response: End of file
+[in#0/hls @ 0xaaaad7aba400] Opening 'https://9xjio.wiseplayout.com/9XM/HD720/WiseVideo00062316_935035730700.ts' for reading
+frame=  448 fps= 24 q=-1.0 size=N/A time=00:00:16.92 bitrate=N/A speed=0.889x elapsed=0:00:19.02    
+[https @ 0xfffe6c036b10] Opening 'https://9xjio.wiseplayout.com/9XM/HD1080/HD1080.m3u8' for reading
+frame=  448 fps= 23 q=-1.0 size=N/A time=00:00:16.92 bitrate=N/A speed=0.866x elapsed=0:00:19.52    
+[https @ 0xaaaad87733b0] Opening 'https://9xjio.wiseplayout.com/9XM/HD1080/WiseVideo00062316_935035730700.ts' for reading
+[https @ 0xaaaad8a8e880] Error reading HTTP response: End of file
+[in#0/hls @ 0xaaaad7aba400] Opening 'https://9xjio.wiseplayout.com/9XM/HD1080/WiseVideo00062316_935035730700.ts' for reading
+frame=  448 fps= 22 q=-1.0 size=N/A time=00:00:16.92 bitrate=N/A speed=0.845x elapsed=0:00:20.02    
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc23015.ts' for writing
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc2301.m3u8.tmp' for writing
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc23016.ts' for writing
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc2301.m3u8.tmp' for writing
+frame=  526 fps= 26 q=-1.0 size=N/A time=00:00:20.04 bitrate=N/A speed=0.976x elapsed=0:00:20.52    
+frame=  538 fps= 26 q=-1.0 size=N/A time=00:00:20.52 bitrate=N/A speed=0.976x elapsed=0:00:21.02    
+frame=  551 fps= 26 q=-1.0 size=N/A time=00:00:21.04 bitrate=N/A speed=0.977x elapsed=0:00:21.52    
+frame=  563 fps= 26 q=-1.0 size=N/A time=00:00:21.52 bitrate=N/A speed=0.977x elapsed=0:00:22.02    
+frame=  576 fps= 26 q=-1.0 size=N/A time=00:00:22.04 bitrate=N/A speed=0.978x elapsed=0:00:22.52    
+frame=  588 fps= 26 q=-1.0 size=N/A time=00:00:22.52 bitrate=N/A speed=0.978x elapsed=0:00:23.02    
+[https @ 0xaaaad8131620] Opening 'https://9xjio.wiseplayout.com/9XM/HD720/WiseVideo00062317_935197730700.ts' for reading
+[https @ 0xaaaad81250a0] Error reading HTTP response: End of file
+[in#0/hls @ 0xaaaad7aba400] Opening 'https://9xjio.wiseplayout.com/9XM/HD720/WiseVideo00062317_935197730700.ts' for reading
+frame=  598 fps= 25 q=-1.0 size=N/A time=00:00:22.92 bitrate=N/A speed=0.974x elapsed=0:00:23.52    
+frame=  598 fps= 25 q=-1.0 size=N/A time=00:00:22.92 bitrate=N/A speed=0.954x elapsed=0:00:24.03    
+[https @ 0xaaaad8dc70b0] Opening 'https://9xjio.wiseplayout.com/9XM/HD1080/WiseVideo00062317_935197730700.ts' for reading
+[https @ 0xaaaad8dbab30] Error reading HTTP response: End of file
+[in#0/hls @ 0xaaaad7aba400] Opening 'https://9xjio.wiseplayout.com/9XM/HD1080/WiseVideo00062317_935197730700.ts' for reading
+frame=  598 fps= 24 q=-1.0 size=N/A time=00:00:22.92 bitrate=N/A speed=0.934x elapsed=0:00:24.53    
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc23017.ts' for writing
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc2301.m3u8.tmp' for writing
+frame=  615 fps= 25 q=-1.0 size=N/A time=00:00:23.60 bitrate=N/A speed=0.943x elapsed=0:00:25.03    
+frame=  649 fps= 25 q=-1.0 size=N/A time=00:00:24.96 bitrate=N/A speed=0.978x elapsed=0:00:25.53    
+frame=  663 fps= 25 q=-1.0 size=N/A time=00:00:25.52 bitrate=N/A speed=0.98x elapsed=0:00:26.03    
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc23018.ts' for writing
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc2301.m3u8.tmp' for writing
+frame=  676 fps= 25 q=-1.0 size=N/A time=00:00:26.04 bitrate=N/A speed=0.982x elapsed=0:00:26.53    
+frame=  688 fps= 25 q=-1.0 size=N/A time=00:00:26.52 bitrate=N/A speed=0.981x elapsed=0:00:27.03    
+frame=  701 fps= 25 q=-1.0 size=N/A time=00:00:27.04 bitrate=N/A speed=0.982x elapsed=0:00:27.53    
+frame=  713 fps= 25 q=-1.0 size=N/A time=00:00:27.52 bitrate=N/A speed=0.982x elapsed=0:00:28.03    
+frame=  726 fps= 25 q=-1.0 size=N/A time=00:00:28.04 bitrate=N/A speed=0.983x elapsed=0:00:28.53    
+frame=  738 fps= 25 q=-1.0 size=N/A time=00:00:28.52 bitrate=N/A speed=0.982x elapsed=0:00:29.03    
+[https @ 0xfffe6c036b10] Opening 'https://9xjio.wiseplayout.com/9XM/HD720/HD720.m3u8' for reading
+frame=  748 fps= 25 q=-1.0 size=N/A time=00:00:28.92 bitrate=N/A speed=0.979x elapsed=0:00:29.53    
+[https @ 0xfffe6c050620] Opening 'https://9xjio.wiseplayout.com/9XM/HD720/WiseVideo00062318_935359730700.ts' for reading
+[https @ 0xfffe6c036b10] Opening 'https://9xjio.wiseplayout.com/9XM/HD1080/HD1080.m3u8' for reading
+frame=  748 fps= 25 q=-1.0 size=N/A time=00:00:28.92 bitrate=N/A speed=0.963x elapsed=0:00:30.03    
+[https @ 0xfffe6c093c60] Opening 'https://9xjio.wiseplayout.com/9XM/HD1080/WiseVideo00062318_935359730700.ts' for reading
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc23019.ts' for writing
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc2301.m3u8.tmp' for writing
+frame=  767 fps= 25 q=-1.0 size=N/A time=00:00:29.68 bitrate=N/A speed=0.972x elapsed=0:00:30.54    
+frame=  788 fps= 25 q=-1.0 size=N/A time=00:00:30.56 bitrate=N/A speed=0.984x elapsed=0:00:31.04    
+frame=  801 fps= 25 q=-1.0 size=N/A time=00:00:31.04 bitrate=N/A speed=0.984x elapsed=0:00:31.54    
+frame=  814 fps= 25 q=-1.0 size=N/A time=00:00:31.56 bitrate=N/A speed=0.984x elapsed=0:00:32.05    
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc230110.ts' for writing
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc2301.m3u8.tmp' for writing
+frame=  826 fps= 25 q=-1.0 size=N/A time=00:00:32.04 bitrate=N/A speed=0.984x elapsed=0:00:32.57    
+frame=  839 fps= 25 q=-1.0 size=N/A time=00:00:32.56 bitrate=N/A speed=0.985x elapsed=0:00:33.07    
+frame=  852 fps= 25 q=-1.0 size=N/A time=00:00:33.08 bitrate=N/A speed=0.985x elapsed=0:00:33.58    
+frame=  864 fps= 25 q=-1.0 size=N/A time=00:00:33.56 bitrate=N/A speed=0.984x elapsed=0:00:34.09    
+frame=  877 fps= 25 q=-1.0 size=N/A time=00:00:34.08 bitrate=N/A speed=0.985x elapsed=0:00:34.61    
+frame=  890 fps= 25 q=-1.0 size=N/A time=00:00:34.60 bitrate=N/A speed=0.985x elapsed=0:00:35.11    
+[https @ 0xfffe6c0328d0] Opening 'https://9xjio.wiseplayout.com/9XM/HD720/WiseVideo00062319_935521730700.ts' for reading
+frame=  898 fps= 25 q=-1.0 size=N/A time=00:00:34.92 bitrate=N/A speed=0.98x elapsed=0:00:35.62    
+[https @ 0xfffe6c036b10] Opening 'https://9xjio.wiseplayout.com/9XM/HD720/HD720.m3u8' for reading
+[https @ 0xfffe6c398ae0] Opening 'https://9xjio.wiseplayout.com/9XM/HD1080/WiseVideo00062319_935521730700.ts' for reading
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc230111.ts' for writing
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc2301.m3u8.tmp' for writing
+frame=  915 fps= 25 q=-1.0 size=N/A time=00:00:35.60 bitrate=N/A speed=0.984x elapsed=0:00:36.16    
+frame=  929 fps= 25 q=-1.0 size=N/A time=00:00:36.16 bitrate=N/A speed=0.986x elapsed=0:00:36.68    
+frame=  942 fps= 25 q=-1.0 size=N/A time=00:00:36.68 bitrate=N/A speed=0.986x elapsed=0:00:37.18    
+frame=  954 fps= 25 q=-1.0 size=N/A time=00:00:37.20 bitrate=N/A speed=0.987x elapsed=0:00:37.68    
+frame=  967 fps= 25 q=-1.0 size=N/A time=00:00:37.68 bitrate=N/A speed=0.987x elapsed=0:00:38.19    
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc230112.ts' for writing
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc2301.m3u8.tmp' for writing
+frame=  980 fps= 25 q=-1.0 size=N/A time=00:00:38.20 bitrate=N/A speed=0.987x elapsed=0:00:38.70    
+frame=  993 fps= 25 q=-1.0 size=N/A time=00:00:38.72 bitrate=N/A speed=0.987x elapsed=0:00:39.22    
+frame= 1005 fps= 25 q=-1.0 size=N/A time=00:00:39.20 bitrate=N/A speed=0.987x elapsed=0:00:39.73    
+frame= 1018 fps= 25 q=-1.0 size=N/A time=00:00:39.72 bitrate=N/A speed=0.987x elapsed=0:00:40.24    
+frame= 1031 fps= 25 q=-1.0 size=N/A time=00:00:40.24 bitrate=N/A speed=0.987x elapsed=0:00:40.75    
+frame= 1044 fps= 25 q=-1.0 size=N/A time=00:00:40.76 bitrate=N/A speed=0.988x elapsed=0:00:41.25    
+[https @ 0xfffe6c050620] Opening 'https://9xjio.wiseplayout.com/9XM/HD720/WiseVideo00062320_935683730700.ts' for reading
+[https @ 0xfffe6c048250] Error reading HTTP response: End of file
+[in#0/hls @ 0xaaaad7aba400] Opening 'https://9xjio.wiseplayout.com/9XM/HD720/WiseVideo00062320_935683730700.ts' for reading
+frame= 1048 fps= 25 q=-1.0 size=N/A time=00:00:40.92 bitrate=N/A speed=0.98x elapsed=0:00:41.75    
+[https @ 0xfffe6c036b10] Opening 'https://9xjio.wiseplayout.com/9XM/HD720/HD720.m3u8' for reading
+frame= 1048 fps= 25 q=-1.0 size=N/A time=00:00:40.92 bitrate=N/A speed=0.968x elapsed=0:00:42.26    
+[https @ 0xfffe6c036b10] Opening 'https://9xjio.wiseplayout.com/9XM/HD1080/HD1080.m3u8' for reading
+[https @ 0xfffe6c093c60] Opening 'https://9xjio.wiseplayout.com/9XM/HD1080/WiseVideo00062320_935683730700.ts' for reading
+[https @ 0xfffe6c398720] Error reading HTTP response: End of file
+[in#0/hls @ 0xaaaad7aba400] Opening 'https://9xjio.wiseplayout.com/9XM/HD1080/WiseVideo00062320_935683730700.ts' for reading
+frame= 1048 fps= 25 q=-1.0 size=N/A time=00:00:40.92 bitrate=N/A speed=0.957x elapsed=0:00:42.77    
+frame= 1048 fps= 24 q=-1.0 size=N/A time=00:00:40.92 bitrate=N/A speed=0.946x elapsed=0:00:43.27    
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc230113.ts' for writing
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc2301.m3u8.tmp' for writing
+frame= 1106 fps= 25 q=-1.0 size=N/A time=00:00:43.24 bitrate=N/A speed=0.988x elapsed=0:00:43.77    
+frame= 1119 fps= 25 q=-1.0 size=N/A time=00:00:43.76 bitrate=N/A speed=0.988x elapsed=0:00:44.27    
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc230114.ts' for writing
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc2301.m3u8.tmp' for writing
+frame= 1132 fps= 25 q=-1.0 size=N/A time=00:00:44.28 bitrate=N/A speed=0.989x elapsed=0:00:44.78    
+frame= 1144 fps= 25 q=-1.0 size=N/A time=00:00:44.76 bitrate=N/A speed=0.988x elapsed=0:00:45.28    
+frame= 1157 fps= 25 q=-1.0 size=N/A time=00:00:45.28 bitrate=N/A speed=0.989x elapsed=0:00:45.79    
+frame= 1170 fps= 25 q=-1.0 size=N/A time=00:00:45.80 bitrate=N/A speed=0.989x elapsed=0:00:46.30    
+frame= 1182 fps= 25 q=-1.0 size=N/A time=00:00:46.28 bitrate=N/A speed=0.989x elapsed=0:00:46.80    
+frame= 1195 fps= 25 q=-1.0 size=N/A time=00:00:46.80 bitrate=N/A speed=0.989x elapsed=0:00:47.30    
+[https @ 0xfffe6c0328d0] Opening 'https://9xjio.wiseplayout.com/9XM/HD720/WiseVideo00062321_935845730700.ts' for reading
+[https @ 0xfffe6c69d5a0] Error reading HTTP response: End of file
+[in#0/hls @ 0xaaaad7aba400] Opening 'https://9xjio.wiseplayout.com/9XM/HD720/WiseVideo00062321_935845730700.ts' for reading
+frame= 1198 fps= 25 q=-1.0 size=N/A time=00:00:46.92 bitrate=N/A speed=0.981x elapsed=0:00:47.81    
+[https @ 0xfffe6c398ae0] Opening 'https://9xjio.wiseplayout.com/9XM/HD1080/WiseVideo00062321_935845730700.ts' for reading
+[https @ 0xfffe6c9a1610] Error reading HTTP response: End of file
+[in#0/hls @ 0xaaaad7aba400] Opening 'https://9xjio.wiseplayout.com/9XM/HD1080/WiseVideo00062321_935845730700.ts' for reading
+frame= 1198 fps= 25 q=-1.0 size=N/A time=00:00:46.92 bitrate=N/A speed=0.971x elapsed=0:00:48.31    
+frame= 1198 fps= 25 q=-1.0 size=N/A time=00:00:46.92 bitrate=N/A speed=0.961x elapsed=0:00:48.82    
+[https @ 0xfffe6c036b10] Opening 'https://9xjio.wiseplayout.com/9XM/HD1080/HD1080.m3u8' for reading
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc230115.ts' for writing
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc2301.m3u8.tmp' for writing
+frame= 1221 fps= 25 q=-1.0 size=N/A time=00:00:47.84 bitrate=N/A speed=0.97x elapsed=0:00:49.33    
+frame= 1258 fps= 25 q=-1.0 size=N/A time=00:00:49.36 bitrate=N/A speed=0.99x elapsed=0:00:49.85    
+frame= 1271 fps= 25 q=-1.0 size=N/A time=00:00:49.84 bitrate=N/A speed=0.99x elapsed=0:00:50.35    
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc230116.ts' for writing
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc2301.m3u8.tmp' for writing
+frame= 1284 fps= 25 q=-1.0 size=N/A time=00:00:50.36 bitrate=N/A speed=0.99x elapsed=0:00:50.85    
+frame= 1296 fps= 25 q=-1.0 size=N/A time=00:00:50.84 bitrate=N/A speed=0.99x elapsed=0:00:51.35    
+frame= 1309 fps= 25 q=-1.0 size=N/A time=00:00:51.36 bitrate=N/A speed=0.99x elapsed=0:00:51.85    
+frame= 1321 fps= 25 q=-1.0 size=N/A time=00:00:51.84 bitrate=N/A speed=0.99x elapsed=0:00:52.36    
+frame= 1334 fps= 25 q=-1.0 size=N/A time=00:00:52.36 bitrate=N/A speed=0.99x elapsed=0:00:52.87    
+frame= 1346 fps= 25 q=-1.0 size=N/A time=00:00:52.88 bitrate=N/A speed=0.991x elapsed=0:00:53.37    
+[https @ 0xfffe6c036b10] Opening 'https://9xjio.wiseplayout.com/9XM/HD720/HD720.m3u8' for reading
+[https @ 0xfffe6c050620] Opening 'https://9xjio.wiseplayout.com/9XM/HD720/WiseVideo00062322_936007730700.ts' for reading
+[https @ 0xfffe6c997270] Opening 'https://9xjio.wiseplayout.com/9XM/HD1080/WiseVideo00062322_936007730700.ts' for reading
+frame= 1348 fps= 25 q=-1.0 size=N/A time=00:00:52.92 bitrate=N/A speed=0.982x elapsed=0:00:53.88    
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc230117.ts' for writing
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc2301.m3u8.tmp' for writing
+frame= 1372 fps= 25 q=-1.0 size=N/A time=00:00:53.88 bitrate=N/A speed=0.991x elapsed=0:00:54.39    
+frame= 1385 fps= 25 q=-1.0 size=N/A time=00:00:54.40 bitrate=N/A speed=0.991x elapsed=0:00:54.90    
+frame= 1398 fps= 25 q=-1.0 size=N/A time=00:00:54.92 bitrate=N/A speed=0.991x elapsed=0:00:55.40    
+frame= 1410 fps= 25 q=-1.0 size=N/A time=00:00:55.40 bitrate=N/A speed=0.991x elapsed=0:00:55.90    
+frame= 1422 fps= 25 q=-1.0 size=N/A time=00:00:55.92 bitrate=N/A speed=0.991x elapsed=0:00:56.41    
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc230118.ts' for writing
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc2301.m3u8.tmp' for writing
+frame= 1435 fps= 25 q=-1.0 size=N/A time=00:00:56.40 bitrate=N/A speed=0.991x elapsed=0:00:56.91    
+frame= 1448 fps= 25 q=-1.0 size=N/A time=00:00:56.92 bitrate=N/A speed=0.991x elapsed=0:00:57.41    
+frame= 1460 fps= 25 q=-1.0 size=N/A time=00:00:57.40 bitrate=N/A speed=0.991x elapsed=0:00:57.91    
+frame= 1473 fps= 25 q=-1.0 size=N/A time=00:00:57.92 bitrate=N/A speed=0.991x elapsed=0:00:58.42    
+frame= 1485 fps= 25 q=-1.0 size=N/A time=00:00:58.40 bitrate=N/A speed=0.991x elapsed=0:00:58.92    
+[https @ 0xfffe6cc9b270] Opening 'https://9xjio.wiseplayout.com/9XM/HD720/WiseVideo00062323_936169730700.ts' for reading
+frame= 1498 fps= 25 q=-1.0 size=N/A time=00:00:58.92 bitrate=N/A speed=0.992x elapsed=0:00:59.42    
+frame= 1498 fps= 25 q=-1.0 size=N/A time=00:00:58.92 bitrate=N/A speed=0.983x elapsed=0:00:59.92    
+[https @ 0xfffe6c036b10] Opening 'https://9xjio.wiseplayout.com/9XM/HD720/HD720.m3u8' for reading
+[https @ 0xfffe6c036b10] Opening 'https://9xjio.wiseplayout.com/9XM/HD1080/HD1080.m3u8' for reading
+[https @ 0xfffe6cf9f250] Opening 'https://9xjio.wiseplayout.com/9XM/HD1080/WiseVideo00062323_936169730700.ts' for reading
+frame= 1498 fps= 25 q=-1.0 size=N/A time=00:00:58.92 bitrate=N/A speed=0.975x elapsed=0:01:00.42    
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc230119.ts' for writing
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc2301.m3u8.tmp' for writing
+frame= 1535 fps= 25 q=-1.0 size=N/A time=00:01:00.40 bitrate=N/A speed=0.991x elapsed=0:01:00.93    
+frame= 1548 fps= 25 q=-1.0 size=N/A time=00:01:00.92 bitrate=N/A speed=0.992x elapsed=0:01:01.43    
+frame= 1560 fps= 25 q=-1.0 size=N/A time=00:01:01.40 bitrate=N/A speed=0.991x elapsed=0:01:01.93    
+frame= 1573 fps= 25 q=-1.0 size=N/A time=00:01:01.92 bitrate=N/A speed=0.992x elapsed=0:01:02.43    
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc230120.ts' for writing
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc2301.m3u8.tmp' for writing
+frame= 1586 fps= 25 q=-1.0 size=N/A time=00:01:02.44 bitrate=N/A speed=0.992x elapsed=0:01:02.93    
+frame= 1598 fps= 25 q=-1.0 size=N/A time=00:01:02.92 bitrate=N/A speed=0.992x elapsed=0:01:03.44    
+frame= 1611 fps= 25 q=-1.0 size=N/A time=00:01:03.44 bitrate=N/A speed=0.992x elapsed=0:01:03.94    
+frame= 1624 fps= 25 q=-1.0 size=N/A time=00:01:03.96 bitrate=N/A speed=0.992x elapsed=0:01:04.45    
+frame= 1636 fps= 25 q=-1.0 size=N/A time=00:01:04.44 bitrate=N/A speed=0.992x elapsed=0:01:04.96    
+[https @ 0xfffe6c050620] Opening 'https://9xjio.wiseplayout.com/9XM/HD720/WiseVideo00062324_936331730700.ts' for reading
+[https @ 0xfffe6c68d8a0] Error reading HTTP response: End of file
+[in#0/hls @ 0xaaaad7aba400] Opening 'https://9xjio.wiseplayout.com/9XM/HD720/WiseVideo00062324_936331730700.ts' for reading
+frame= 1648 fps= 25 q=-1.0 size=N/A time=00:01:04.92 bitrate=N/A speed=0.992x elapsed=0:01:05.46    
+frame= 1648 fps= 25 q=-1.0 size=N/A time=00:01:04.92 bitrate=N/A speed=0.984x elapsed=0:01:05.97    
+[https @ 0xfffe6c997270] Opening 'https://9xjio.wiseplayout.com/9XM/HD1080/WiseVideo00062324_936331730700.ts' for reading
+[https @ 0xfffe6c5cfb90] Error reading HTTP response: End of file
+[in#0/hls @ 0xaaaad7aba400] Opening 'https://9xjio.wiseplayout.com/9XM/HD1080/WiseVideo00062324_936331730700.ts' for reading
+frame= 1648 fps= 25 q=-1.0 size=N/A time=00:01:04.92 bitrate=N/A speed=0.976x elapsed=0:01:06.49    
+
+[q] command received. Exiting.
+
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc230121.ts' for writing
+[hls @ 0xaaaadac57cb0] Opening '/config/cache/transcodes/0edfa2eab8c37930c8a35a6c7fbc2301.m3u8.tmp' for writing
+[out#0/hls @ 0xaaaada1fb820] video:24219KiB audio:1032KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame= 1648 fps= 25 q=-1.0 Lsize=N/A time=00:01:04.92 bitrate=N/A speed=0.967x elapsed=0:01:07.14    

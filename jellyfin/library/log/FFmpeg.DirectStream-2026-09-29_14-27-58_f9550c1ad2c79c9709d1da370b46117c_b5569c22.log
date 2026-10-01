@@ -1,0 +1,1562 @@
+{"Protocol":0,"Id":"f9550c1ad2c79c9709d1da370b46117c","Path":"/data/movies/tv/Teach You a Lesson/Teach.You.a.Lesson.S01E01.Episode.01.1080p.ITA-KOR-ENG.MULTI.WEBRip.x265.AAC-V3SP4EV3R.mkv","EncoderPath":null,"EncoderProtocol":null,"Type":0,"Container":"mkv","Size":590233597,"Name":"Teach.You.a.Lesson.S01E01.Episode.01.1080p.ITA-KOR-ENG.MULTI.WEBRip.x265.AAC-V3SP4EV3R","IsRemote":false,"ETag":"0debb468ef8c9eb5953c5a555e9941e7","RunTimeTicks":31629640000,"ReadAtNativeFramerate":false,"IgnoreDts":false,"IgnoreIndex":false,"GenPtsInput":false,"SupportsTranscoding":true,"SupportsDirectStream":true,"SupportsDirectPlay":true,"IsInfiniteStream":false,"UseMostCompatibleTranscodingProfile":false,"RequiresOpening":false,"OpenToken":null,"RequiresClosing":false,"LiveStreamId":null,"BufferMs":null,"RequiresLooping":false,"SupportsProbing":true,"VideoType":0,"IsoType":null,"Video3DFormat":null,"MediaStreams":[{"Codec":"hevc","CodecTag":null,"Language":null,"ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":null,"Hdr10PlusPresentFlag":null,"VideoRange":1,"VideoRangeType":1,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":null,"LocalizedForced":null,"LocalizedExternal":null,"LocalizedHearingImpaired":null,"LocalizedLanguage":null,"LocalizedOriginal":null,"DisplayTitle":"1080p HEVC SDR","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":906980,"BitDepth":10,"RefFrames":1,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":true,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":800,"Width":1920,"AverageFrameRate":23.976025,"RealFrameRate":23.976025,"ReferenceFrameRate":23.976025,"Profile":"Main 10","Type":1,"AspectRatio":"2.40:1","Index":0,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":"yuv420p10le","Level":120,"IsAnamorphic":false},{"Codec":"aac","CodecTag":null,"Language":"ita","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Italian","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"LocalizedLanguage":"Italian","LocalizedOriginal":"Original","DisplayTitle":"Italian - AAC - 5.1 - Default","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":"5.1","BitRate":191999,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":6,"SampleRate":48000,"IsDefault":true,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":"LC","Type":0,"AspectRatio":null,"Index":1,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"aac","CodecTag":null,"Language":"kor","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Korean","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"LocalizedLanguage":"Korean","LocalizedOriginal":"Original","DisplayTitle":"Korean - AAC - 5.1","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":"5.1","BitRate":192000,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":6,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":"LC","Type":0,"AspectRatio":null,"Index":2,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"aac","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"English","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"LocalizedLanguage":"English","LocalizedOriginal":"Original","DisplayTitle":"English - AAC - 5.1","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":"5.1","BitRate":191999,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":6,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":"LC","Type":0,"AspectRatio":null,"Index":3,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"ara","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Arabic","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Arabic","LocalizedOriginal":null,"DisplayTitle":"Arabic - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":4,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"ces","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Czech","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Czech","LocalizedOriginal":null,"DisplayTitle":"Czech - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":5,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"dan","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Danish","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Danish","LocalizedOriginal":null,"DisplayTitle":"Danish - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":6,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"deu","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"German","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"German","LocalizedOriginal":null,"DisplayTitle":"German - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":7,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"deu","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"German (SDH)","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"German","LocalizedOriginal":null,"DisplayTitle":"German (SDH) - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":8,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"ell","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Greek","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Greek","LocalizedOriginal":null,"DisplayTitle":"Greek - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":9,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"English","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"English","LocalizedOriginal":null,"DisplayTitle":"English - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":10,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"English (dub)","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"English","LocalizedOriginal":null,"DisplayTitle":"English (dub) - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":11,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"English (forced)","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"English","LocalizedOriginal":null,"DisplayTitle":"English (forced) - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":12,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"English (SDH)","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"English","LocalizedOriginal":null,"DisplayTitle":"English (SDH) - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":13,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"spa","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Spanish (Latin America)","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Spanish","LocalizedOriginal":null,"DisplayTitle":"Spanish (Latin America) - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":14,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"spa","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Spanish (Latin America) (SDH)","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Spanish","LocalizedOriginal":null,"DisplayTitle":"Spanish (Latin America) (SDH) - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":15,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"spa","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Spanish (Spain)","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Spanish","LocalizedOriginal":null,"DisplayTitle":"Spanish (Spain) - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":16,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"fin","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Finnish","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Finnish","LocalizedOriginal":null,"DisplayTitle":"Finnish - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":17,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"fil","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Filipino","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Filipino","LocalizedOriginal":null,"DisplayTitle":"Filipino - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":18,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"fra","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"French","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"French","LocalizedOriginal":null,"DisplayTitle":"French - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":19,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"fra","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"French (SDH)","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"French","LocalizedOriginal":null,"DisplayTitle":"French (SDH) - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":20,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"heb","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Hebrew","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Hebrew","LocalizedOriginal":null,"DisplayTitle":"Hebrew - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":21,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"hrv","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Croatian","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Croatian","LocalizedOriginal":null,"DisplayTitle":"Croatian - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":22,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"hun","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Hungarian","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Hungarian","LocalizedOriginal":null,"DisplayTitle":"Hungarian - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":23,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"ind","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Indonesian","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Indonesian","LocalizedOriginal":null,"DisplayTitle":"Indonesian - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":24,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"ita","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Italian","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Italian","LocalizedOriginal":null,"DisplayTitle":"Italian - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":25,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"ita","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Italian (dub)","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Italian","LocalizedOriginal":null,"DisplayTitle":"Italian (dub) - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":26,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"ita","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Italian (forced)","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Italian","LocalizedOriginal":null,"DisplayTitle":"Italian (forced) - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":true,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":27,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"jpn","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Japanese","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Japanese","LocalizedOriginal":null,"DisplayTitle":"Japanese - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":28,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"jpn","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Japanese (SDH)","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Japanese","LocalizedOriginal":null,"DisplayTitle":"Japanese (SDH) - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":29,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"kor","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Korean","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Korean","LocalizedOriginal":null,"DisplayTitle":"Korean - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":30,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"kor","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Korean (SDH)","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Korean","LocalizedOriginal":null,"DisplayTitle":"Korean (SDH) - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":31,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"msa","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Malay","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Malay","LocalizedOriginal":null,"DisplayTitle":"Malay - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":32,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"nob","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Norwegian","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Norwegian (Bokmal)","LocalizedOriginal":null,"DisplayTitle":"Norwegian - Norwegian (Bokmal) - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":33,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"nld","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Dutch","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Dutch","LocalizedOriginal":null,"DisplayTitle":"Dutch - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":34,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"pol","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Polish","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Polish","LocalizedOriginal":null,"DisplayTitle":"Polish - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":35,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"por","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Portuguese (Brazil)","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Portuguese","LocalizedOriginal":null,"DisplayTitle":"Portuguese (Brazil) - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":36,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"por","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Portuguese (Brazil) (SDH)","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Portuguese","LocalizedOriginal":null,"DisplayTitle":"Portuguese (Brazil) (SDH) - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":37,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"por","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Portuguese (Portugal)","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Portuguese","LocalizedOriginal":null,"DisplayTitle":"Portuguese (Portugal) - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":38,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"ron","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Romanian","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Romanian","LocalizedOriginal":null,"DisplayTitle":"Romanian - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":39,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"rus","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Russian","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Russian","LocalizedOriginal":null,"DisplayTitle":"Russian - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":40,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"swe","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Swedish","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Swedish","LocalizedOriginal":null,"DisplayTitle":"Swedish - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":41,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"tha","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Thai","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Thai","LocalizedOriginal":null,"DisplayTitle":"Thai - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":42,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"tha","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Thai (SDH)","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Thai","LocalizedOriginal":null,"DisplayTitle":"Thai (SDH) - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":43,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"tur","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Turkish","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Turkish","LocalizedOriginal":null,"DisplayTitle":"Turkish - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":44,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"ukr","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Ukrainian","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Ukrainian","LocalizedOriginal":null,"DisplayTitle":"Ukrainian - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":45,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"vie","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Vietnamese","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Vietnamese","LocalizedOriginal":null,"DisplayTitle":"Vietnamese - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":46,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"zho","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Chinese (Simplified)","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Chinese","LocalizedOriginal":null,"DisplayTitle":"Chinese (Simplified) - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":47,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"zho","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Chinese (Traditional)","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","LocalizedLanguage":"Chinese","LocalizedOriginal":null,"DisplayTitle":"Chinese (Traditional) - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":null,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"IsOriginal":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":48,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":null,"IsAnamorphic":null}],"MediaAttachments":[],"Formats":[],"Bitrate":1492862,"FallbackMaxStreamingBitrate":null,"Timestamp":null,"RequiredHttpHeaders":{},"TranscodingUrl":null,"TranscodingSubProtocol":0,"TranscodingContainer":null,"AnalyzeDurationMs":null,"DefaultAudioStreamIndex":null,"DefaultSubtitleStreamIndex":null,"HasSegments":true}
+
+/usr/lib/jellyfin-ffmpeg/ffmpeg -analyzeduration 200M -probesize 1G -fflags +genpts  -i file:"/data/movies/tv/Teach You a Lesson/Teach.You.a.Lesson.S01E01.Episode.01.1080p.ITA-KOR-ENG.MULTI.WEBRip.x265.AAC-V3SP4EV3R.mkv" -map_metadata -1 -map_chapters -1 -threads 0 -map 0:0 -map 0:3 -map -0:s -codec:v:0 copy -tag:v:0 hvc1 -bsf:v hevc_mp4toannexb -start_at_zero -codec:a:0 libfdk_aac -ac 2 -ab 191999 -af "volume=2" -copyts -avoid_negative_ts disabled -max_muxing_queue_size 2048 -f hls -max_delay 5000000 -hls_time 6 -hls_segment_type fmp4 -hls_fmp4_init_filename "bff7086b6d4eb25699249e54726dee8e-1.mp4" -start_number 0 -hls_segment_filename "/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e%d.mp4" -hls_playlist_type vod -hls_list_size 0 -hls_segment_options movflags=+frag_discont+skip_sidx -y "/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e.m3u8"
+
+
+ffmpeg version 8.1.2-Jellyfin Copyright (c) 2000-2026 the FFmpeg developers
+  built with gcc 15 (Ubuntu 15.2.0-16ubuntu1)
+  configuration: --prefix=/usr/lib/jellyfin-ffmpeg --target-os=linux --extra-version=Jellyfin --disable-unstable --disable-doc --disable-ffplay --disable-static --disable-libxcb --disable-libxcb-shm --disable-libxcb-xfixes --disable-libxcb-shape --disable-xlib --disable-sdl2 --enable-lto=auto --enable-gpl --enable-version3 --enable-shared --enable-gmp --enable-gnutls --enable-chromaprint --enable-opencl --enable-libdrm --enable-libxml2 --enable-libass --enable-libfreetype --enable-libfribidi --enable-libfontconfig --enable-libharfbuzz --enable-libbluray --enable-libmp3lame --enable-libopus --enable-libtheora --enable-libvorbis --enable-libopenmpt --enable-libdav1d --enable-libsvtav1 --enable-libwebp --enable-libvpx --enable-libx264 --enable-libx265 --enable-libzvbi --enable-libzimg --enable-libfdk-aac --enable-libshaderc --enable-libplacebo --enable-vulkan --enable-vulkan-static --enable-vaapi --enable-ffnvcodec --enable-cuda --enable-cuda-llvm --enable-cuvid --enable-nvdec --enable-nvenc --arch=arm64 --cross-prefix=/usr/bin/aarch64-linux-gnu- --enable-cross-compile --enable-rkmpp --enable-rkrga
+  libavutil      60. 26.102 / 60. 26.102
+  libavcodec     62. 28.102 / 62. 28.102
+  libavformat    62. 12.102 / 62. 12.102
+  libavdevice    62.  3.102 / 62.  3.102
+  libavfilter    11. 14.102 / 11. 14.102
+  libswscale      9.  5.102 /  9.  5.102
+  libswresample   6.  3.102 /  6.  3.102
+Input #0, matroska,webm, from 'file:/data/movies/tv/Teach You a Lesson/Teach.You.a.Lesson.S01E01.Episode.01.1080p.ITA-KOR-ENG.MULTI.WEBRip.x265.AAC-V3SP4EV3R.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2026-08-11T14:39:34.000000Z
+  Duration: 00:52:42.96, start: 0.000000, bitrate: 1492 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 2976.000000
+      Metadata:
+        title           : Chapter 01
+    Chapter #0:1: start 2976.000000, end 3162.964000
+      Metadata:
+        title           : Outro
+  Stream #0:0: Video: hevc (Main 10), yuv420p10le(tv), 1920x800 [SAR 1:1 DAR 12:5], 23.98 fps, 23.98 tbr, 1k tbn (default)
+    Metadata:
+      BPS             : 906980
+      DURATION        : 00:52:42.868000000
+      NUMBER_OF_FRAMES: 75833
+      NUMBER_OF_BYTES : 358582479
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:1(ita): Audio: aac (LC), 48000 Hz, 5.1, fltp, start 0.020000 (default)
+    Metadata:
+      title           : Italian
+      BPS             : 191999
+      DURATION        : 00:52:42.944000000
+      NUMBER_OF_FRAMES: 148263
+      NUMBER_OF_BYTES : 75910430
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(kor): Audio: aac (LC), 48000 Hz, 5.1, fltp, start 0.020000
+    Metadata:
+      title           : Korean
+      BPS             : 192000
+      DURATION        : 00:52:42.901000000
+      NUMBER_OF_FRAMES: 148261
+      NUMBER_OF_BYTES : 75909645
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(eng): Audio: aac (LC), 48000 Hz, 5.1, fltp, start 0.020000
+    Metadata:
+      title           : English
+      BPS             : 191999
+      DURATION        : 00:52:42.944000000
+      NUMBER_OF_FRAMES: 148263
+      NUMBER_OF_BYTES : 75910503
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(ara): Subtitle: subrip (srt)
+    Metadata:
+      title           : Arabic
+      BPS             : 102
+      DURATION        : 00:50:22.478000000
+      NUMBER_OF_FRAMES: 709
+      NUMBER_OF_BYTES : 38776
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(cze): Subtitle: subrip (srt)
+    Metadata:
+      title           : Czech
+      BPS             : 56
+      DURATION        : 00:50:08.255000000
+      NUMBER_OF_FRAMES: 700
+      NUMBER_OF_BYTES : 21199
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:6(dan): Subtitle: subrip (srt)
+    Metadata:
+      title           : Danish
+      BPS             : 52
+      DURATION        : 00:50:22.478000000
+      NUMBER_OF_FRAMES: 673
+      NUMBER_OF_BYTES : 19988
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:7(ger): Subtitle: subrip (srt)
+    Metadata:
+      title           : German
+      BPS             : 60
+      DURATION        : 00:48:27.446000000
+      NUMBER_OF_FRAMES: 663
+      NUMBER_OF_BYTES : 22046
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:8(ger): Subtitle: subrip (srt)
+    Metadata:
+      title           : German (SDH)
+      BPS             : 77
+      DURATION        : 00:50:32.237000000
+      NUMBER_OF_FRAMES: 843
+      NUMBER_OF_BYTES : 29238
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:9(gre): Subtitle: subrip (srt)
+    Metadata:
+      title           : Greek
+      BPS             : 95
+      DURATION        : 00:50:22.478000000
+      NUMBER_OF_FRAMES: 708
+      NUMBER_OF_BYTES : 36059
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:10(eng): Subtitle: subrip (srt)
+    Metadata:
+      title           : English
+      BPS             : 59
+      DURATION        : 00:50:22.478000000
+      NUMBER_OF_FRAMES: 709
+      NUMBER_OF_BYTES : 22528
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:11(eng): Subtitle: subrip (srt)
+    Metadata:
+      title           : English (dub)
+      BPS             : 72
+      DURATION        : 00:50:16.430000000
+      NUMBER_OF_FRAMES: 741
+      NUMBER_OF_BYTES : 27436
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:12(eng): Subtitle: subrip (srt)
+    Metadata:
+      title           : English (forced)
+      BPS             : 6
+      DURATION        : 00:47:03.112000000
+      NUMBER_OF_FRAMES: 50
+      NUMBER_OF_BYTES : 2161
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:13(eng): Subtitle: subrip (srt)
+    Metadata:
+      title           : English (SDH)
+      BPS             : 86
+      DURATION        : 00:50:32.279000000
+      NUMBER_OF_FRAMES: 934
+      NUMBER_OF_BYTES : 32805
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:14(spa): Subtitle: subrip (srt)
+    Metadata:
+      title           : Spanish (Latin America)
+      BPS             : 56
+      DURATION        : 00:50:22.436000000
+      NUMBER_OF_FRAMES: 694
+      NUMBER_OF_BYTES : 21500
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:15(spa): Subtitle: subrip (srt)
+    Metadata:
+      title           : Spanish (Latin America) (SDH)
+      BPS             : 68
+      DURATION        : 00:49:30.509000000
+      NUMBER_OF_FRAMES: 747
+      NUMBER_OF_BYTES : 25545
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:16(spa): Subtitle: subrip (srt)
+    Metadata:
+      title           : Spanish (Spain)
+      BPS             : 52
+      DURATION        : 00:50:08.255000000
+      NUMBER_OF_FRAMES: 674
+      NUMBER_OF_BYTES : 19702
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:17(fin): Subtitle: subrip (srt)
+    Metadata:
+      title           : Finnish
+      BPS             : 49
+      DURATION        : 00:50:22.478000000
+      NUMBER_OF_FRAMES: 547
+      NUMBER_OF_BYTES : 18650
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:18(fil): Subtitle: subrip (srt)
+    Metadata:
+      title           : Filipino
+      BPS             : 57
+      DURATION        : 00:50:19.892000000
+      NUMBER_OF_FRAMES: 667
+      NUMBER_OF_BYTES : 21775
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:19(fre): Subtitle: subrip (srt)
+    Metadata:
+      title           : French
+      BPS             : 57
+      DURATION        : 00:50:08.255000000
+      NUMBER_OF_FRAMES: 672
+      NUMBER_OF_BYTES : 21733
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:20(fre): Subtitle: subrip (srt)
+    Metadata:
+      title           : French (SDH)
+      BPS             : 76
+      DURATION        : 00:50:32.279000000
+      NUMBER_OF_FRAMES: 858
+      NUMBER_OF_BYTES : 28817
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:21(heb): Subtitle: subrip (srt)
+    Metadata:
+      title           : Hebrew
+      BPS             : 93
+      DURATION        : 00:48:27.446000000
+      NUMBER_OF_FRAMES: 706
+      NUMBER_OF_BYTES : 34016
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:22(hrv): Subtitle: subrip (srt)
+    Metadata:
+      title           : Croatian
+      BPS             : 50
+      DURATION        : 00:50:08.213000000
+      NUMBER_OF_FRAMES: 691
+      NUMBER_OF_BYTES : 19108
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:23(hun): Subtitle: subrip (srt)
+    Metadata:
+      title           : Hungarian
+      BPS             : 56
+      DURATION        : 00:50:22.436000000
+      NUMBER_OF_FRAMES: 679
+      NUMBER_OF_BYTES : 21302
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:24(ind): Subtitle: subrip (srt)
+    Metadata:
+      title           : Indonesian
+      BPS             : 54
+      DURATION        : 00:50:22.478000000
+      NUMBER_OF_FRAMES: 688
+      NUMBER_OF_BYTES : 20467
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:25(ita): Subtitle: subrip (srt)
+    Metadata:
+      title           : Italian
+      BPS             : 57
+      DURATION        : 00:50:22.478000000
+      NUMBER_OF_FRAMES: 704
+      NUMBER_OF_BYTES : 21730
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:26(ita): Subtitle: subrip (srt) (dub)
+    Metadata:
+      title           : Italian (dub)
+      BPS             : 70
+      DURATION        : 00:48:12.389000000
+      NUMBER_OF_FRAMES: 690
+      NUMBER_OF_BYTES : 25432
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:27(ita): Subtitle: subrip (srt) (forced)
+    Metadata:
+      title           : Italian (forced)
+      BPS             : 3
+      DURATION        : 00:47:00.901000000
+      NUMBER_OF_FRAMES: 57
+      NUMBER_OF_BYTES : 1241
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:28(jpn): Subtitle: subrip (srt)
+    Metadata:
+      title           : Japanese
+      BPS             : 51
+      DURATION        : 00:50:22.436000000
+      NUMBER_OF_FRAMES: 693
+      NUMBER_OF_BYTES : 19640
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:29(jpn): Subtitle: subrip (srt)
+    Metadata:
+      title           : Japanese (SDH)
+      BPS             : 113
+      DURATION        : 00:50:20.560000000
+      NUMBER_OF_FRAMES: 1004
+      NUMBER_OF_BYTES : 42878
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:30(kor): Subtitle: subrip (srt)
+    Metadata:
+      title           : Korean
+      BPS             : 69
+      DURATION        : 00:46:59.858000000
+      NUMBER_OF_FRAMES: 759
+      NUMBER_OF_BYTES : 24634
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:31(kor): Subtitle: subrip (srt)
+    Metadata:
+      title           : Korean (SDH)
+      BPS             : 78
+      DURATION        : 00:49:30.217000000
+      NUMBER_OF_FRAMES: 856
+      NUMBER_OF_BYTES : 29219
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:32(may): Subtitle: subrip (srt)
+    Metadata:
+      title           : Malay
+      BPS             : 51
+      DURATION        : 00:50:22.478000000
+      NUMBER_OF_FRAMES: 713
+      NUMBER_OF_BYTES : 19594
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:33(nob): Subtitle: subrip (srt)
+    Metadata:
+      title           : Norwegian
+      BPS             : 51
+      DURATION        : 00:50:08.255000000
+      NUMBER_OF_FRAMES: 669
+      NUMBER_OF_BYTES : 19181
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:34(dut): Subtitle: subrip (srt)
+    Metadata:
+      title           : Dutch
+      BPS             : 48
+      DURATION        : 00:50:08.422000000
+      NUMBER_OF_FRAMES: 551
+      NUMBER_OF_BYTES : 18423
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:35(pol): Subtitle: subrip (srt)
+    Metadata:
+      title           : Polish
+      BPS             : 49
+      DURATION        : 00:50:22.478000000
+      NUMBER_OF_FRAMES: 707
+      NUMBER_OF_BYTES : 18888
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:36(por): Subtitle: subrip (srt)
+    Metadata:
+      title           : Portuguese (Brazil)
+      BPS             : 54
+      DURATION        : 00:50:22.478000000
+      NUMBER_OF_FRAMES: 720
+      NUMBER_OF_BYTES : 20619
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:37(por): Subtitle: subrip (srt)
+    Metadata:
+      title           : Portuguese (Brazil) (SDH)
+      BPS             : 75
+      DURATION        : 00:50:21.935000000
+      NUMBER_OF_FRAMES: 801
+      NUMBER_OF_BYTES : 28338
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:38(por): Subtitle: subrip (srt)
+    Metadata:
+      title           : Portuguese (Portugal)
+      BPS             : 60
+      DURATION        : 00:50:22.478000000
+      NUMBER_OF_FRAMES: 729
+      NUMBER_OF_BYTES : 22799
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:39(rum): Subtitle: subrip (srt)
+    Metadata:
+      title           : Romanian
+      BPS             : 57
+      DURATION        : 00:48:27.446000000
+      NUMBER_OF_FRAMES: 659
+      NUMBER_OF_BYTES : 20829
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:40(rus): Subtitle: subrip (srt)
+    Metadata:
+      title           : Russian
+      BPS             : 90
+      DURATION        : 00:50:22.478000000
+      NUMBER_OF_FRAMES: 725
+      NUMBER_OF_BYTES : 34337
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:41(swe): Subtitle: subrip (srt)
+    Metadata:
+      title           : Swedish
+      BPS             : 55
+      DURATION        : 00:50:08.255000000
+      NUMBER_OF_FRAMES: 615
+      NUMBER_OF_BYTES : 20710
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:42(tha): Subtitle: subrip (srt)
+    Metadata:
+      title           : Thai
+      BPS             : 164
+      DURATION        : 00:49:17.913000000
+      NUMBER_OF_FRAMES: 744
+      NUMBER_OF_BYTES : 60791
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:43(tha): Subtitle: subrip (srt)
+    Metadata:
+      title           : Thai (SDH)
+      BPS             : 183
+      DURATION        : 00:49:30.634000000
+      NUMBER_OF_FRAMES: 863
+      NUMBER_OF_BYTES : 68268
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:44(tur): Subtitle: subrip (srt)
+    Metadata:
+      title           : Turkish
+      BPS             : 54
+      DURATION        : 00:50:08.255000000
+      NUMBER_OF_FRAMES: 602
+      NUMBER_OF_BYTES : 20487
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:45(ukr): Subtitle: subrip (srt)
+    Metadata:
+      title           : Ukrainian
+      BPS             : 88
+      DURATION        : 00:50:23.270000000
+      NUMBER_OF_FRAMES: 713
+      NUMBER_OF_BYTES : 33450
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:46(vie): Subtitle: subrip (srt)
+    Metadata:
+      title           : Vietnamese
+      BPS             : 78
+      DURATION        : 00:50:22.478000000
+      NUMBER_OF_FRAMES: 715
+      NUMBER_OF_BYTES : 29698
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:47(chi): Subtitle: subrip (srt)
+    Metadata:
+      title           : Chinese (Simplified)
+      BPS             : 51
+      DURATION        : 00:50:22.478000000
+      NUMBER_OF_FRAMES: 735
+      NUMBER_OF_BYTES : 19541
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:48(chi): Subtitle: subrip (srt)
+    Metadata:
+      title           : Chinese (Traditional)
+      BPS             : 50
+      DURATION        : 00:50:22.478000000
+      NUMBER_OF_FRAMES: 735
+      NUMBER_OF_BYTES : 18966
+      _STATISTICS_WRITING_APP: mkvmerge v90.0 ('Hanging On') 64-bit
+      _STATISTICS_WRITING_DATE_UTC: 2026-08-11 14:39:34
+      _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #0:3 -> #0:1 (aac (native) -> aac (libfdk_aac))
+Press [q] to stop, [?] for help
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e-1.mp4' for writing
+Output #0, hls, to '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e.m3u8':
+  Metadata:
+    encoder         : Lavf62.12.102
+  Stream #0:0: Video: hevc (Main 10) (hvc1 / 0x31637668), yuv420p10le(tv), 1920x800 [SAR 1:1 DAR 12:5], q=2-31, 23.98 fps, 23.98 tbr, 16k tbn (default)
+  Stream #0:1: Audio: aac, 48000 Hz, stereo, s16, 191 kb/s
+    Metadata:
+      encoder         : Lavc62.28.102 libfdk_aac
+    Side data:
+      CPB properties: bitrate max/min/avg: 191999/191999/191999 buffer size: 0 vbv_delay: N/A
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e0.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 661416 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e1.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 1141656 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e2.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 1621896 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame=  985 fps=0.0 q=-1.0 size=N/A time=00:00:00.00 bitrate=N/A speed=   0x elapsed=0:00:00.50    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e3.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e4.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 2024376 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e5.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 2038728 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e6.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 2254728 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e7.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e8.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e9.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 3007368 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e10.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 3581832 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame= 1957 fps=1957 q=-1.0 size=N/A time=00:00:40.55 bitrate=N/A speed=40.5x elapsed=0:00:01.00    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e11.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e12.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e13.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e14.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e15.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e16.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 5009304 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e17.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e18.mp4' for writing
+frame= 2798 fps=1861 q=-1.0 size=N/A time=00:01:15.80 bitrate=N/A speed=50.4x elapsed=0:00:01.50    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e19.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 5766072 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e20.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e21.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e22.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e23.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e24.mp4' for writing
+frame= 3651 fps=1818 q=-1.0 size=N/A time=00:01:51.21 bitrate=N/A speed=55.4x elapsed=0:00:02.00    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e25.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e26.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e27.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e28.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 8360904 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e29.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 8740776 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e30.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e31.mp4' for writing
+frame= 4660 fps=1858 q=-1.0 size=N/A time=00:02:33.43 bitrate=N/A speed=61.2x elapsed=0:00:02.50    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e32.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e33.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 10128264 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e34.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e35.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 10436520 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e36.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 10729416 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame= 5647 fps=1875 q=-1.0 size=N/A time=00:03:14.63 bitrate=N/A speed=64.6x elapsed=0:00:03.01    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e37.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 11327400 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e38.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e39.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e40.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e41.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 12332952 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e42.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 12750792 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e43.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e44.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 13005720 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame= 6579 fps=1873 q=-1.0 size=N/A time=00:03:53.32 bitrate=N/A speed=66.4x elapsed=0:00:03.51    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e45.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e46.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e47.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e48.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e49.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 14707608 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e50.mp4' for writing
+frame= 7584 fps=1890 q=-1.0 size=N/A time=00:04:35.28 bitrate=N/A speed=68.6x elapsed=0:00:04.01    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e51.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 15245256 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e52.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 15517608 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e53.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 15586200 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e54.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e55.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e56.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 16452504 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e57.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e58.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e59.mp4' for writing
+frame= 8639 fps=1914 q=-1.0 size=N/A time=00:05:19.31 bitrate=N/A speed=70.8x elapsed=0:00:04.51    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e60.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e61.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e62.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 18194328 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e63.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 18858888 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e64.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e65.mp4' for writing
+frame= 9614 fps=1918 q=-1.0 size=N/A time=00:06:00.04 bitrate=N/A speed=71.8x elapsed=0:00:05.01    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e66.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e67.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e68.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e69.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e70.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e71.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 20745144 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e72.mp4' for writing
+frame=10674 fps=1936 q=-1.0 size=N/A time=00:06:44.20 bitrate=N/A speed=73.3x elapsed=0:00:05.51    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e73.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 21426072 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e74.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e75.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 22024104 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e76.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 22451112 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e77.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e78.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 22811544 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e79.mp4' for writing
+frame=11638 fps=1935 q=-1.0 size=N/A time=00:07:24.26 bitrate=N/A speed=73.9x elapsed=0:00:06.01    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e80.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e81.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e82.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 23942088 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e83.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 24206232 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e84.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e85.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 24916920 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e86.mp4' for writing
+frame=12629 fps=1939 q=-1.0 size=N/A time=00:08:05.84 bitrate=N/A speed=74.6x elapsed=0:00:06.51    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e87.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e88.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e89.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e90.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e91.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 26526648 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e92.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 26811336 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e93.mp4' for writing
+frame=13594 fps=1936 q=-1.0 size=N/A time=00:08:45.84 bitrate=N/A speed=74.9x elapsed=0:00:07.02    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e94.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e95.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 27654072 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e96.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e97.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e98.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e99.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e100.mp4' for writing
+frame=14558 fps=1935 q=-1.0 size=N/A time=00:09:26.03 bitrate=N/A speed=75.3x elapsed=0:00:07.52    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e101.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e102.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 29700024 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e103.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e104.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e105.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e106.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e107.mp4' for writing
+frame=15637 fps=1949 q=-1.0 size=N/A time=00:10:11.15 bitrate=N/A speed=76.2x elapsed=0:00:08.02    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e108.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e109.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e110.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e111.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e112.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e113.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 32847768 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e114.mp4' for writing
+frame=16681 fps=1957 q=-1.0 size=N/A time=00:10:54.72 bitrate=N/A speed=76.8x elapsed=0:00:08.52    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e115.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 33462168 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e116.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e117.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 34046904 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e118.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 34311048 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e119.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e120.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e121.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e122.mp4' for writing
+frame=17740 fps=1965 q=-1.0 size=N/A time=00:11:39.01 bitrate=N/A speed=77.4x elapsed=0:00:09.02    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e123.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e124.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 36332424 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e125.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e126.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e127.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 37079976 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame=18685 fps=1961 q=-1.0 size=N/A time=00:12:18.26 bitrate=N/A speed=77.5x elapsed=0:00:09.52    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e128.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e129.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 37533624 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e130.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e131.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e132.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e133.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e134.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e135.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 39183288 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame=19722 fps=1967 q=-1.0 size=N/A time=00:13:01.52 bitrate=N/A speed=77.9x elapsed=0:00:10.02    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e136.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e137.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 39790488 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e138.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e139.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 40425384 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e140.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 40905624 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e141.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 41075640 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e142.mp4' for writing
+frame=20695 fps=1966 q=-1.0 size=N/A time=00:13:42.14 bitrate=N/A speed=78.1x elapsed=0:00:10.52    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e143.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e144.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e145.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 42182568 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e146.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 42377112 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e147.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e148.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e149.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 43199400 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame=21731 fps=1971 q=-1.0 size=N/A time=00:14:25.42 bitrate=N/A speed=78.5x elapsed=0:00:11.02    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e150.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e151.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 43872168 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e152.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 44060616 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e153.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e154.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 44695464 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e155.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e156.mp4' for writing
+frame=22703 fps=1969 q=-1.0 size=N/A time=00:15:05.87 bitrate=N/A speed=78.6x elapsed=0:00:11.52    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e157.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e158.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 45836184 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e159.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 46102440 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e160.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 46397352 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e161.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e162.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e163.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 47280024 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e164.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 47578008 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame=23783 fps=1977 q=-1.0 size=N/A time=00:15:50.89 bitrate=N/A speed=  79x elapsed=0:00:12.03    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e165.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e166.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 48120744 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e167.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e168.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 48831432 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e169.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 48973704 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e170.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 49281960 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e171.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 49548168 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame=24889 fps=1984 q=-1.0 size=N/A time=00:16:36.94 bitrate=N/A speed=79.5x elapsed=0:00:12.54    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e172.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 49842072 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e173.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e174.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e175.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e176.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 51007416 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e177.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e178.mp4' for writing
+frame=25916 fps=1987 q=-1.0 size=N/A time=00:17:19.80 bitrate=N/A speed=79.7x elapsed=0:00:13.04    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e179.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 51878808 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e180.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e181.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e182.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e183.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 53029800 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e184.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 53510040 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e185.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e186.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 53854104 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame=26935 fps=1989 q=-1.0 size=N/A time=00:18:02.28 bitrate=N/A speed=79.9x elapsed=0:00:13.54    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e187.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e188.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e189.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e190.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 55047096 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e191.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e192.mp4' for writing
+frame=27879 fps=1985 q=-1.0 size=N/A time=00:18:41.66 bitrate=N/A speed=79.9x elapsed=0:00:14.04    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e193.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e194.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e195.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 56497080 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e196.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e197.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e198.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 57323400 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e199.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 57597864 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame=28929 fps=1988 q=-1.0 size=N/A time=00:19:25.48 bitrate=N/A speed=80.1x elapsed=0:00:14.55    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e200.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e201.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e202.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e203.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e204.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e205.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e206.mp4' for writing
+frame=29935 fps=1989 q=-1.0 size=N/A time=00:20:07.53 bitrate=N/A speed=80.2x elapsed=0:00:15.05    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e207.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 59924376 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e208.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e209.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 60597144 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e210.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 61157256 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e211.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e212.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e213.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 61724616 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame=31004 fps=1992 q=-1.0 size=N/A time=00:20:52.07 bitrate=N/A speed=80.5x elapsed=0:00:15.56    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e214.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 62142408 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e215.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e216.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e217.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e218.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e219.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e220.mp4' for writing
+frame=31982 fps=1991 q=-1.0 size=N/A time=00:21:32.86 bitrate=N/A speed=80.5x elapsed=0:00:16.06    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e221.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 64240536 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e222.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e223.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 64819128 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e224.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 65299368 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e225.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e226.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 65988504 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame=33019 fps=1994 q=-1.0 size=N/A time=00:22:16.23 bitrate=N/A speed=80.7x elapsed=0:00:16.56    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e227.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 66134952 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e228.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e229.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 66909096 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e230.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e231.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 67583928 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e232.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 68064168 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame=34090 fps=1998 q=-1.0 size=N/A time=00:23:00.77 bitrate=N/A speed=80.9x elapsed=0:00:17.06    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e233.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e234.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 68384664 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e235.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 68783016 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e236.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e237.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e238.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 69675912 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e239.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e240.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e241.mp4' for writing
+frame=35117 fps=1999 q=-1.0 size=N/A time=00:23:43.77 bitrate=N/A speed=81.1x elapsed=0:00:17.56    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e242.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 70428600 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e243.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e244.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e245.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e246.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 71489448 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e247.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e248.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 72092568 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e249.mp4' for writing
+frame=36169 fps=2002 q=-1.0 size=N/A time=00:24:27.65 bitrate=N/A speed=81.2x elapsed=0:00:18.06    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e250.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 72654744 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e251.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e252.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e253.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 73729944 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e254.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 73826232 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e255.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e256.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e257.mp4' for writing
+frame=37192 fps=2003 q=-1.0 size=N/A time=00:25:10.18 bitrate=N/A speed=81.3x elapsed=0:00:18.57    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e258.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 74823576 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e259.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 75131784 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e260.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e261.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 75628488 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e262.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e263.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 76374936 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame=38202 fps=2003 q=-1.0 size=N/A time=00:25:52.34 bitrate=N/A speed=81.4x elapsed=0:00:19.07    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e264.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e265.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 77039496 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e266.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 77071272 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e267.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 77291448 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e268.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e269.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e270.mp4' for writing
+frame=39250 fps=2005 q=-1.0 size=N/A time=00:26:36.15 bitrate=N/A speed=81.6x elapsed=0:00:19.57    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e271.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e272.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 79139736 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e273.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e274.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 79508424 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e275.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e276.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e277.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 80116632 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e278.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 80393160 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame=40228 fps=2004 q=-1.0 size=N/A time=00:27:16.86 bitrate=N/A speed=81.5x elapsed=0:00:20.07    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e279.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 80833464 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e280.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e281.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e282.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 81567624 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e283.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e284.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 82186152 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e285.mp4' for writing
+frame=41259 fps=2006 q=-1.0 size=N/A time=00:27:59.80 bitrate=N/A speed=81.7x elapsed=0:00:20.57    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e286.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e287.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e288.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 83367864 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e289.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e290.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 83988360 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e291.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 84468648 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e292.mp4' for writing
+frame=42354 fps=2008 q=-1.0 size=N/A time=00:28:45.44 bitrate=N/A speed=81.8x elapsed=0:00:21.09    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e293.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e294.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 85249944 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e295.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e296.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e297.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e298.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e299.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e300.mp4' for writing
+frame=43326 fps=2007 q=-1.0 size=N/A time=00:29:26.10 bitrate=N/A speed=81.8x elapsed=0:00:21.59    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e301.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e302.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e303.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e304.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 87891864 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e305.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 88344504 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame=44273 fps=2004 q=-1.0 size=N/A time=00:30:05.56 bitrate=N/A speed=81.7x elapsed=0:00:22.09    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e306.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 88629144 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e307.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e308.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 89291688 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e309.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e310.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e311.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 90417048 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame=45271 fps=2004 q=-1.0 size=N/A time=00:30:47.18 bitrate=N/A speed=81.8x elapsed=0:00:22.59    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e312.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e313.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e314.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 91461576 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e315.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 91599768 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e316.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e317.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e318.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 92392344 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame=46297 fps=2005 q=-1.0 size=N/A time=00:31:30.19 bitrate=N/A speed=81.8x elapsed=0:00:23.09    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e319.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e320.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 93037464 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e321.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e322.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e323.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 93710280 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e324.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e325.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e326.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e327.mp4' for writing
+frame=47253 fps=2003 q=-1.0 size=N/A time=00:32:09.83 bitrate=N/A speed=81.8x elapsed=0:00:23.59    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e328.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e329.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 95301528 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e330.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 95800200 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e331.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 95852424 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e332.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 95974296 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e333.mp4' for writing
+frame=48255 fps=2002 q=-1.0 size=N/A time=00:32:51.69 bitrate=N/A speed=81.8x elapsed=0:00:24.10    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e334.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e335.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e336.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e337.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e338.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e339.mp4' for writing
+frame=49196 fps=2000 q=-1.0 size=N/A time=00:33:30.88 bitrate=N/A speed=81.7x elapsed=0:00:24.60    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e340.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e341.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 98991000 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e342.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e343.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e344.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 99866520 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e345.mp4' for writing
+frame=50170 fps=1999 q=-1.0 size=N/A time=00:34:11.43 bitrate=N/A speed=81.7x elapsed=0:00:25.10    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e346.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e347.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 101015448 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e348.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 101495688 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e349.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e350.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 102182808 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame=51188 fps=1999 q=-1.0 size=N/A time=00:34:54.05 bitrate=N/A speed=81.8x elapsed=0:00:25.60    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e351.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 102663048 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e352.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 103143336 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e353.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e354.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 103357368 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e355.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 103434120 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e356.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 103474104 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e357.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 103509912 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e358.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e359.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 104114088 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame=52154 fps=1998 q=-1.0 size=N/A time=00:35:34.36 bitrate=N/A speed=81.8x elapsed=0:00:26.10    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e360.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 104595336 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e361.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 105075624 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e362.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 105555864 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e363.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 106036104 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame=53212 fps=2000 q=-1.0 size=N/A time=00:36:18.21 bitrate=N/A speed=81.9x elapsed=0:00:26.61    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e364.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 106517400 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e365.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e366.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 107316120 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e367.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e368.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e369.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 107528088 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e370.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 107748264 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e371.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 107943864 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e372.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e373.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 108102552 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e374.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 108158904 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e375.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 108374952 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame=54219 fps=2000 q=-1.0 size=N/A time=00:37:00.39 bitrate=N/A speed=81.9x elapsed=0:00:27.11    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e376.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e377.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 108947400 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e378.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 109355928 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e379.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 109551528 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e380.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 110032776 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e381.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e382.mp4' for writing
+frame=55233 fps=2000 q=-1.0 size=N/A time=00:37:42.67 bitrate=N/A speed=81.9x elapsed=0:00:27.62    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e383.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e384.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 110991240 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e385.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e386.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e387.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e388.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e389.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 112450488 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e390.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 112605096 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame=56304 fps=2002 q=-1.0 size=N/A time=00:38:27.24 bitrate=N/A speed=  82x elapsed=0:00:28.12    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e391.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e392.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 113343384 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e393.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e394.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e395.mp4' for writing
+frame=57251 fps=2000 q=-1.0 size=N/A time=00:39:06.90 bitrate=N/A speed=  82x elapsed=0:00:28.62    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e396.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 114768792 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e397.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 115250088 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e398.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 115338168 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e399.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e400.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 115927992 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e401.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 116330424 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e402.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e403.mp4' for writing
+frame=58295 fps=2002 q=-1.0 size=N/A time=00:39:50.49 bitrate=N/A speed=82.1x elapsed=0:00:29.12    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e404.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 117181320 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e405.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e406.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e407.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 118104984 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e408.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e409.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 118468536 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e410.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e411.mp4' for writing
+frame=59302 fps=2001 q=-1.0 size=N/A time=00:40:32.34 bitrate=N/A speed=82.1x elapsed=0:00:29.63    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e412.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 119167896 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e413.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e414.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 119671704 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e415.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 119838648 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e416.mp4' for writing
+frame=60065 fps=1993 q=-1.0 size=N/A time=00:41:04.27 bitrate=N/A speed=81.8x elapsed=0:00:30.13    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e417.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e418.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e419.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e420.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e421.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e422.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 121826184 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame=60934 fps=1989 q=-1.0 size=N/A time=00:41:40.43 bitrate=N/A speed=81.6x elapsed=0:00:30.63    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e423.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e424.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e425.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 123054984 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e426.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e427.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e428.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 123589512 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame=61793 fps=1985 q=-1.0 size=N/A time=00:42:16.29 bitrate=N/A speed=81.5x elapsed=0:00:31.13    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e429.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e430.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e431.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e432.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 125131704 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e433.mp4' for writing
+frame=62589 fps=1979 q=-1.0 size=N/A time=00:42:49.47 bitrate=N/A speed=81.2x elapsed=0:00:31.63    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e434.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e435.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e436.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 125988744 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e437.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e438.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e439.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e440.mp4' for writing
+frame=63629 fps=1980 q=-1.0 size=N/A time=00:43:32.82 bitrate=N/A speed=81.3x elapsed=0:00:32.13    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e441.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 127659912 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e442.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e443.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e444.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e445.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 128519064 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e446.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e447.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 129057672 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame=64591 fps=1979 q=-1.0 size=N/A time=00:44:13.05 bitrate=N/A speed=81.3x elapsed=0:00:32.63    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e448.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e449.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e450.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e451.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 130586520 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e452.mp4' for writing
+frame=65458 fps=1976 q=-1.0 size=N/A time=00:44:49.06 bitrate=N/A speed=81.2x elapsed=0:00:33.13    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e453.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e454.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 131671944 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e455.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e456.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 132623256 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame=66432 fps=1974 q=-1.0 size=N/A time=00:45:29.66 bitrate=N/A speed=81.1x elapsed=0:00:33.65    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e457.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 133103496 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e458.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 133583784 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e459.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e460.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e461.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 133966776 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e462.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 134447016 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e463.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e464.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e465.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e466.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 134807448 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e467.mp4' for writing
+frame=67418 fps=1974 q=-1.0 size=N/A time=00:46:10.85 bitrate=N/A speed=81.1x elapsed=0:00:34.15    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e468.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e469.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e470.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e471.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e472.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e473.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 136576920 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame=68378 fps=1973 q=-1.0 size=N/A time=00:46:50.94 bitrate=N/A speed=81.1x elapsed=0:00:34.65    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e474.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 137057160 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e475.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 137207688 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e476.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e477.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e478.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 138010536 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e479.mp4' for writing
+frame=69341 fps=1972 q=-1.0 size=N/A time=00:47:31.00 bitrate=N/A speed=81.1x elapsed=0:00:35.15    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e480.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 138855336 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e481.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e482.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e483.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e484.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 140100504 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e485.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 140507016 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e486.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 140735400 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame=70335 fps=1972 q=-1.0 size=N/A time=00:48:12.48 bitrate=N/A speed=81.1x elapsed=0:00:35.65    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e487.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 141014952 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e488.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e489.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e490.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 142152600 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e491.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e492.mp4' for writing
+frame=71327 fps=1973 q=-1.0 size=N/A time=00:48:53.82 bitrate=N/A speed=81.1x elapsed=0:00:36.15    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e493.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e494.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e495.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 143119272 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e496.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 143599512 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e497.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 144080808 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e498.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 144561048 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e499.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 144703368 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame=72310 fps=1972 q=-1.0 size=N/A time=00:49:34.84 bitrate=N/A speed=81.1x elapsed=0:00:36.65    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e500.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e501.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e502.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 145087416 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e503.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 145328040 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e504.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -8 / dts: 145519560 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e505.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e506.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 146336664 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e507.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e508.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 147201960 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e509.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 147682200 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+frame=73902 fps=1989 q=-1.0 size=N/A time=00:50:41.21 bitrate=N/A speed=81.8x elapsed=0:00:37.15    
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e510.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 147969960 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e511.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 148258728 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e512.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 148738968 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e513.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e514.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e515.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 149604264 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e516.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 150084504 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e517.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 150564744 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e518.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e519.mp4' for writing
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e520.mp4' for writing
+[mp4 @ 0xffffa80555a0] Packet duration: -16 / dts: 151430040 in stream 1 is out of range
+[mp4 @ 0xffffa80555a0] pts has no value
+[hls @ 0xaaaae73d4510] Opening '/config/cache/transcodes/bff7086b6d4eb25699249e54726dee8e521.mp4' for writing
+[out#0/hls @ 0xaaaae73b3a80] video:350262KiB audio:74132KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=75833 fps=2018 q=-1.0 Lsize=N/A time=00:52:01.97 bitrate=N/A speed=83.1x elapsed=0:00:37.56    

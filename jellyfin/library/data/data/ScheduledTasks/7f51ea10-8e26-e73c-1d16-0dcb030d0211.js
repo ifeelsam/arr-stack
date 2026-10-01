@@ -1,0 +1,1 @@
+{"StartTimeUtc":"2026-10-01T03:30:00.0105048Z","EndTimeUtc":"2026-10-01T03:30:00.0231364Z","Status":"Completed","Name":"Sync Watchlist from Jellyfin to Seerr","Key":"JellyfinEnhancedJellyfinToSeerrWatchlistSync","Id":"7f51ea108e26e73c1d160dcb030d0211"}

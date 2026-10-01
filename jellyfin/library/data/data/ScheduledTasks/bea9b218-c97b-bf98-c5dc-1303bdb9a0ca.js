@@ -1,1 +1,1 @@
-{"StartTimeUtc":"2026-09-20T18:21:32.2259822Z","EndTimeUtc":"2026-09-20T20:35:01.9866242Z","Status":"Aborted","Name":"Refresh Guide","Key":"RefreshGuide","Id":"bea9b218c97bbf98c5dc1303bdb9a0ca"}
+{"StartTimeUtc":"2026-10-01T05:24:12.912953Z","EndTimeUtc":"2026-10-01T05:24:15.9991493Z","Status":"Completed","Name":"Refresh Guide","Key":"RefreshGuide","Id":"bea9b218c97bbf98c5dc1303bdb9a0ca"}

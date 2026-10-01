@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DefaultLibraryPageSize>100</DefaultLibraryPageSize>
+  <MaxDaysNextUp>365</MaxDaysNextUp>
+  <EnableBackdropsByDefault xsi:nil="true" />
+  <EnableDetailsBannerByDefault xsi:nil="true" />
+  <ForceEnableThemeMusic xsi:nil="true" />
+  <ForceEnableThemeVideos xsi:nil="true" />
+  <ForceDisableNextVideoInfo xsi:nil="true" />
+  <ForceEnableRewatchingInNextUp xsi:nil="true" />
+  <ForceEnableEpisodeImagesInNextUp xsi:nil="true" />
+  <DesktopDisplayMode />
+  <MobileDisplayMode />
+  <MaxVideoWidth>0</MaxVideoWidth>
+  <LimitSupportedVideoResolution>false</LimitSupportedVideoResolution>
+  <ForceEnablePgsSubtitleRendering xsi:nil="true" />
+  <ForceAudioLanguagePreference />
+  <ForcePlayDefaultAudioTrack xsi:nil="true" />
+  <ForceSubtitleLanguagePreference />
+  <ForceSubtitleMode />
+  <ForceRememberAudioSelections xsi:nil="true" />
+  <ForceRememberSubtitleSelections xsi:nil="true" />
+  <LibrarySortOverrides />
+  <ForceAllowedAudioChannels />
+  <ForcePreferFmp4HlsContainer xsi:nil="true" />
+  <ForceLimitSegmentLength xsi:nil="true" />
+  <SubtitleAppearance>
+    <Enabled>false</Enabled>
+    <SubtitleStyling>Auto</SubtitleStyling>
+    <TextSize />
+    <TextWeight>normal</TextWeight>
+    <DropShadow />
+    <Font />
+    <TextColor>#ffffff</TextColor>
+    <VerticalPosition>-3</VerticalPosition>
+    <AspectMode>stretch</AspectMode>
+  </SubtitleAppearance>
+  <ForceEnableCinemaMode xsi:nil="true" />
+  <ForceEnableVideoRemainingTime xsi:nil="true" />
+  <ForceEnableFastFadein xsi:nil="true" />
+  <ForceEnableBlurhash xsi:nil="true" />
+  <ForceSelectAudioNormalization />
+  <ForceStillWatchingPrompt />
+  <ForceSkipBackLength xsi:nil="true" />
+  <ForceSkipForwardLength xsi:nil="true" />
+  <ForceEnableNextEpisodeAutoPlay xsi:nil="true" />
+  <ForceHidePlayedInLatest xsi:nil="true" />
+  <ForceDisplayMissingEpisodes xsi:nil="true" />
+  <ForceAppTheme />
+  <ForceDashboardTheme />
+  <ForceScreensaver />
+  <ForceScreensaverTime xsi:nil="true" />
+  <ForceBackdropScreensaverInterval xsi:nil="true" />
+  <ForceSlideshowInterval xsi:nil="true" />
+  <ForceLanguage />
+  <ForceDateTimeLocale />
+  <ForceDisableCustomCss xsi:nil="true" />
+  <ForceCustomCss />
+  <ForceGuideColorCodedBackgrounds xsi:nil="true" />
+  <ForceLiveTvFavoriteChannelsAtTop xsi:nil="true" />
+  <ForceLiveTvChannelOrder />
+  <GuideIndicatorHd xsi:nil="true" />
+  <GuideIndicatorLive xsi:nil="true" />
+  <GuideIndicatorNew xsi:nil="true" />
+  <GuideIndicatorPremiere xsi:nil="true" />
+  <GuideIndicatorRepeat xsi:nil="true" />
+  <ForceEnableLocalPassword xsi:nil="true" />
+  <ManageLatestItemsExcludes>false</ManageLatestItemsExcludes>
+  <LatestItemsExcludes />
+  <ManageMyMediaExcludes>false</ManageMyMediaExcludes>
+  <MyMediaExcludes />
+  <ManageOrderedViews>false</ManageOrderedViews>
+  <OrderedViews>
+    <string>a656b907eb3a73532e40e44b968d0225</string>
+    <string>f137a2dd21bbc1b99aa5c0f6bf02a805</string>
+    <string>9d7ad6afe9afa2dab1a2f6e00ad28fa6</string>
+  </OrderedViews>
+  <ManageGroupedFolders>false</ManageGroupedFolders>
+  <GroupedFolders />
+  <HomeSections>
+    <string />
+    <string>none</string>
+    <string />
+    <string />
+    <string />
+    <string />
+    <string />
+    <string />
+    <string />
+    <string />
+  </HomeSections>
+  <LandingScreens />
+  <ForceEnableAutoLogin xsi:nil="true" />
+  <ForceEnableGamepad xsi:nil="true" />
+  <ForceEnableSmoothScroll xsi:nil="true" />
+  <ForceEnableSystemExternalPlayers xsi:nil="true" />
+  <ForcePreferredTranscodeVideoCodec />
+  <ForcePreferredTranscodeVideoAudioCodec />
+  <ForceAlwaysBurnInSubtitleWhenTranscoding xsi:nil="true" />
+  <ForceSubtitleBurnInMode />
+  <ForceEnableDts xsi:nil="true" />
+  <ForceEnableTrueHd xsi:nil="true" />
+  <ForceEnableHi10p xsi:nil="true" />
+  <ForceDisableVbrAudio xsi:nil="true" />
+  <ForceAlwaysRemuxFlac xsi:nil="true" />
+  <ForceAlwaysRemuxMp3 xsi:nil="true" />
+  <ForceAspectRatio />
+  <ForceMaxStaticMusicBitrate xsi:nil="true" />
+  <ForceMaxChromecastBitrate xsi:nil="true" />
+  <BitrateOverrides />
+  <DisableScriptInjectionMiddleware>false</DisableScriptInjectionMiddleware>
+  <DisableAllTweaks>false</DisableAllTweaks>
+</PluginConfiguration>

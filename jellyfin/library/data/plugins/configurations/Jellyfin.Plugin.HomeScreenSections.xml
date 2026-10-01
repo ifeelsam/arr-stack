@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Enabled>true</Enabled>
+  <LazyLoadEnabled>false</LazyLoadEnabled>
+  <NumSectionsPerPage>10</NumSectionsPerPage>
+  <AllowUserOverride>true</AllowUserOverride>
+  <LibreTranslateUrl />
+  <LibreTranslateApiKey />
+  <JellyseerrUrl />
+  <JellyseerrExternalUrl />
+  <JellyseerrApiKey />
+  <JellyseerrPreferredLanguages>en</JellyseerrPreferredLanguages>
+  <DefaultMoviesLibraryId />
+  <DefaultTVShowsLibraryId />
+  <DefaultMusicLibraryId />
+  <DefaultBooksLibraryId />
+  <DefaultMusicVideosLibraryId />
+  <Sonarr>
+    <ApiKey />
+    <Url />
+    <UpcomingTimeframeValue>1</UpcomingTimeframeValue>
+    <UpcomingTimeframeUnit>Weeks</UpcomingTimeframeUnit>
+    <ConsiderCinemaRelease>false</ConsiderCinemaRelease>
+    <ConsiderPhysicalRelease>false</ConsiderPhysicalRelease>
+    <ConsiderDigitalRelease>true</ConsiderDigitalRelease>
+  </Sonarr>
+  <Radarr>
+    <ApiKey />
+    <Url />
+    <UpcomingTimeframeValue>3</UpcomingTimeframeValue>
+    <UpcomingTimeframeUnit>Months</UpcomingTimeframeUnit>
+    <ConsiderCinemaRelease>false</ConsiderCinemaRelease>
+    <ConsiderPhysicalRelease>false</ConsiderPhysicalRelease>
+    <ConsiderDigitalRelease>true</ConsiderDigitalRelease>
+  </Radarr>
+  <Lidarr>
+    <ApiKey />
+    <Url />
+    <UpcomingTimeframeValue>6</UpcomingTimeframeValue>
+    <UpcomingTimeframeUnit>Months</UpcomingTimeframeUnit>
+    <ConsiderCinemaRelease>false</ConsiderCinemaRelease>
+    <ConsiderPhysicalRelease>false</ConsiderPhysicalRelease>
+    <ConsiderDigitalRelease>true</ConsiderDigitalRelease>
+  </Lidarr>
+  <Readarr>
+    <ApiKey />
+    <Url />
+    <UpcomingTimeframeValue>1</UpcomingTimeframeValue>
+    <UpcomingTimeframeUnit>Years</UpcomingTimeframeUnit>
+    <ConsiderCinemaRelease>false</ConsiderCinemaRelease>
+    <ConsiderPhysicalRelease>false</ConsiderPhysicalRelease>
+    <ConsiderDigitalRelease>true</ConsiderDigitalRelease>
+  </Readarr>
+  <DateFormat>YYYY/MM/DD</DateFormat>
+  <DateDelimiter>/</DateDelimiter>
+  <FilterUpcomingByLibraryAccess>true</FilterUpcomingByLibraryAccess>
+  <DeveloperMode>false</DeveloperMode>
+  <CacheBustCounter>0</CacheBustCounter>
+  <CacheTimeoutSeconds>86400</CacheTimeoutSeconds>
+  <OverrideStreamyfinHome>false</OverrideStreamyfinHome>
+  <MaxImageCacheEntries>10000</MaxImageCacheEntries>
+  <MaxImageWidth>600</MaxImageWidth>
+  <ImageJpegQuality>85</ImageJpegQuality>
+  <SectionSettings>
+    <SectionSettings>
+      <SectionId>MyMedia</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>1</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Landscape</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations />
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>ContinueWatching</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>1</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Landscape</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations />
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>NextUp</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>1</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Landscape</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations />
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>ContinueWatchingNextUp</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>1</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Landscape</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations />
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>RecentlyAddedMovies</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>1</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Landscape</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations />
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>RecentlyAddedShows</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>1</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Landscape</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations>
+        <Entry Key="itemType" Value="shows" Type="string" />
+      </PluginConfigurations>
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>RecentlyAddedAlbums</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>1</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Square</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations />
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>RecentlyAddedArtists</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>1</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Portrait</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations />
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>RecentlyAddedBooks</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>1</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Portrait</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations />
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>RecentlyAddedAudioBooks</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>1</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Portrait</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations />
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>RecentlyAddedMusicVideos</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>1</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Landscape</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations />
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>RecentlyAddedInLibrary</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>999</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Landscape</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations>
+        <Entry Key="groupEpisodes" Value="false" Type="boolean" />
+      </PluginConfigurations>
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>LatestMovies</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>1</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Landscape</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations />
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>LatestShows</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>1</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Landscape</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations />
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>LatestAlbums</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>1</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Square</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations />
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>LatestBooks</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>1</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Portrait</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations />
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>LatestAudioBooks</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>1</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Portrait</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations />
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>LatestMusicVideo</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>1</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Landscape</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations />
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>BecauseYouWatched</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>5</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Landscape</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations />
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>LiveTV</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>1</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Landscape</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations />
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>MyList</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>1</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Landscape</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations />
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>WatchAgain</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>1</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Landscape</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations />
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>CollectionsSection</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>1</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Portrait</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations />
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>Discover</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>1</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Portrait</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations />
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>DiscoverMovies</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>1</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Portrait</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations />
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>DiscoverTV</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>1</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Portrait</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations />
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>UpcomingShows</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>1</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Portrait</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations />
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>UpcomingMovies</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>1</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Portrait</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations />
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>UpcomingMusic</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>1</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Square</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations />
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>UpcomingBooks</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>1</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Portrait</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations />
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>Genre</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>5</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Landscape</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations />
+    </SectionSettings>
+    <SectionSettings>
+      <SectionId>MyJellyseerrRequests</SectionId>
+      <Enabled>true</Enabled>
+      <AllowUserOverride>true</AllowUserOverride>
+      <LowerLimit>1</LowerLimit>
+      <UpperLimit>1</UpperLimit>
+      <OrderIndex>999</OrderIndex>
+      <ViewMode>Landscape</ViewMode>
+      <HideWatchedItems>false</HideWatchedItems>
+      <PluginConfigurations />
+    </SectionSettings>
+  </SectionSettings>
+</PluginConfiguration>
